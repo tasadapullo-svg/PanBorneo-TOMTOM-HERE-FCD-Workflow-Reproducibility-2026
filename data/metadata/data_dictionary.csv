@@ -20,3 +20,9 @@ lag_minutes,Temporal offset in lag sensitivity.,minutes,Derived,sensitivity,sens
 threshold_alpha,Top share used for rank-based high-pressure sensitivity.,ratio,Derived,sensitivity,sensitivity parameter
 road_closure_status,TomTom road-closure flag.,boolean,TomTom,point/time,true=closure/audit only
 matched_status,Benchmark row matching status.,category,Derived,block/time,matched=used
+point_no,Sequential TomTom virtual monitoring point number in Table A.1.,none,TomTom metadata,point,identifier
+latitude,Latitude coordinate of TomTom monitoring point or HERE bounding-box corner.,decimal degrees north,TomTom/HERE metadata,point or bbox corner,spatial coordinate
+longitude,Longitude coordinate of TomTom monitoring point or HERE bounding-box corner.,decimal degrees east,TomTom/HERE metadata,point or bbox corner,spatial coordinate
+corner_point,HERE bounding-box corner label P1-P4.,none,HERE metadata,bbox corner,identifier
+point_id_list,Semicolon-separated TomTom point IDs assigned to a HERE benchmark block.,none,Derived metadata,benchmark block,assignment list
+bbox_coordinate_list,Semicolon-separated HERE bounding-box corner coordinates for a benchmark block.,decimal degrees,HERE metadata,benchmark block,spatial definition

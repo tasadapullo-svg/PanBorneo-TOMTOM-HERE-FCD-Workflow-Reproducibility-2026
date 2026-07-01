@@ -25,6 +25,17 @@ HERE traffic-flow data were used as an external benchmark source. HERE records w
 
 The acquisition code is provided as de-identified template code to document the data-collection workflow. Users need their own valid TomTom and HERE developer credentials to run acquisition scripts. No API keys, tokens, account credentials, request headers, full key-bearing URLs, request logs, complete raw API dumps, or full vendor-returned road geometries are included.
 
+
+## Coordinate metadata
+
+The public metadata include the complete TomTom latitude-longitude coordinate set for the 42 virtual monitoring points and the three HERE benchmark bounding boxes used for contextual traffic queries. These files are provided as metadata only and do not contain complete vendor-returned raw road geometry.
+
+Coordinate files:
+
+- `data/metadata/tomtom_point_block_assignment.csv`: 42 TomTom virtual monitoring point coordinates and point-to-block assignment.
+- `data/metadata/here_bounding_box_coordinate_set.csv`: four corner coordinates for each of the three HERE benchmark bounding boxes.
+- `data/metadata/here_benchmark_block_definition.csv`: block-level definitions, point ID lists, and bounding-box coordinate lists.
+
 ## Public release structure
 
 The public release includes:

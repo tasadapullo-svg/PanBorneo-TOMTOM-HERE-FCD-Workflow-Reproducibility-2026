@@ -20,3 +20,9 @@ lag_minutes,minutes,sensitivity parameter
 threshold_alpha,ratio,sensitivity parameter
 road_closure_status,boolean,true=closure/audit only
 matched_status,category,matched=used
+point_no,none,identifier
+latitude,decimal degrees north,spatial coordinate
+longitude,decimal degrees east,spatial coordinate
+corner_point,none,identifier
+point_id_list,none,assignment list
+bbox_coordinate_list,decimal degrees,spatial definition
