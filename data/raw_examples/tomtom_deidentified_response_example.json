@@ -1,0 +1,25 @@
+{
+  "source": "TomTom Traffic Flow API",
+  "request": {
+    "method": "GET",
+    "url": "[removed from public example]",
+    "headers": "[removed from public example]",
+    "query": {
+      "point": "[removed]",
+      "key": "[removed]"
+    }
+  },
+  "response": {
+    "flowSegmentData": {
+      "currentSpeed": 62,
+      "freeFlowSpeed": 76,
+      "currentTravelTime": 154,
+      "freeFlowTravelTime": 126,
+      "confidence": 0.95,
+      "roadClosure": false,
+      "coordinates": {
+        "coordinate": "[removed from public example]"
+      }
+    }
+  }
+}

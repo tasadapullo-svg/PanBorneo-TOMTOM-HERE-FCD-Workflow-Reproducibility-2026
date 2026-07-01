@@ -1,0 +1,16 @@
+tomtom:
+  api_key: "YOUR_TOMTOM_API_KEY"
+  base_url: "TomTom Traffic API endpoint from developer documentation"
+  interval_minutes: 15
+
+here:
+  api_key: "YOUR_HERE_API_KEY"
+  base_url: "HERE Traffic API endpoint from developer documentation"
+  interval_minutes: 30
+
+study:
+  corridor: "Kuching-Telok Melano section of the Pan Borneo Highway"
+  tomtom_points: 42
+  here_blocks: 3
+  benchmark_start: "2025-12-08"
+  benchmark_end: "2025-12-31"

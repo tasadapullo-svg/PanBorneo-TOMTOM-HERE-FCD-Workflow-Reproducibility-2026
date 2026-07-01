@@ -1,0 +1,30 @@
+{
+  "source": "HERE Traffic API",
+  "request": {
+    "method": "GET",
+    "url": "[removed from public example]",
+    "headers": "[removed from public example]",
+    "query": {
+      "in": "bbox:[removed]",
+      "locationReferencing": "shape",
+      "api_key_parameter": "[removed]"
+    }
+  },
+  "response": {
+    "results": [
+      {
+        "location": {
+          "description": "Representative benchmark road section",
+          "shape": {
+            "links": "[removed from public example]"
+          }
+        },
+        "currentFlow": {
+          "speed": 58,
+          "freeFlow": 74,
+          "jamFactor": 3.1
+        }
+      }
+    ]
+  }
+}

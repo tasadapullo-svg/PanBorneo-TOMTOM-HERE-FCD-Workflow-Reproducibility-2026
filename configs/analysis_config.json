@@ -1,0 +1,6 @@
+{
+  "expected_records_per_day": 4032,
+  "benchmark_period": "2025-12-08 to 2025-12-31",
+  "bootstrap_resamples": 1000,
+  "seed": 42
+}

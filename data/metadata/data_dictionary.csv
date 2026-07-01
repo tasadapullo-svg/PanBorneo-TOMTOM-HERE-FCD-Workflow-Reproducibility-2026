@@ -1,0 +1,22 @@
+variable_name,definition,unit,source,aggregation_level,interpretation_direction
+point_id,TomTom virtual monitoring point identifier.,none,TomTom,point/time,identifier
+block_id,HERE benchmark block identifier.,none,TomTom/HERE,block/time,identifier
+timestamp,TomTom 15 min observation timestamp.,datetime,TomTom,point/time,identifier
+timestamp_30min,30 min timestamp for benchmark matching.,datetime,TomTom/HERE,block/time,identifier
+current_speed,TomTom current speed.,km/h,TomTom,point/time,higher=faster
+free_flow_speed,TomTom free-flow speed.,km/h,TomTom,point/time,baseline
+current_travel_time,TomTom current travel time.,seconds,TomTom,point/time,higher=slower
+free_flow_travel_time,TomTom free-flow travel time.,seconds,TomTom,point/time,baseline
+TTI,Travel time index.,ratio,Derived,point/time or block/time,higher=worse
+CI_percent,Congestion index as percent travel-time increase.,percent,Derived,point/time,higher=worse
+tomtom_mean_CI_percent,Mean TomTom CI for block-time benchmark record.,percent,Derived,block/time,higher=worse
+here_mean_jam_factor,Mean HERE jam factor for block-time benchmark record.,index,HERE,block/time,higher=worse
+pearson_r,Pearson correlation.,correlation,Derived,summary,closer to 1=stronger positive agreement
+spearman_rho,Spearman rank correlation.,correlation,Derived,summary,closer to 1=stronger positive rank agreement
+peak_overlap_jaccard,Jaccard overlap for rank-based high-pressure observations.,ratio,Derived,summary,higher=more overlap
+bootstrap_ci_lower,Lower bootstrap 95 percent CI.,metric-specific,Derived,summary,uncertainty bound
+bootstrap_ci_upper,Upper bootstrap 95 percent CI.,metric-specific,Derived,summary,uncertainty bound
+lag_minutes,Temporal offset in lag sensitivity.,minutes,Derived,sensitivity,sensitivity parameter
+threshold_alpha,Top share used for rank-based high-pressure sensitivity.,ratio,Derived,sensitivity,sensitivity parameter
+road_closure_status,TomTom road-closure flag.,boolean,TomTom,point/time,true=closure/audit only
+matched_status,Benchmark row matching status.,category,Derived,block/time,matched=used

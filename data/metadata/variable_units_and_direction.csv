@@ -1,0 +1,22 @@
+variable_name,unit,interpretation_direction
+point_id,none,identifier
+block_id,none,identifier
+timestamp,datetime,identifier
+timestamp_30min,datetime,identifier
+current_speed,km/h,higher=faster
+free_flow_speed,km/h,baseline
+current_travel_time,seconds,higher=slower
+free_flow_travel_time,seconds,baseline
+TTI,ratio,higher=worse
+CI_percent,percent,higher=worse
+tomtom_mean_CI_percent,percent,higher=worse
+here_mean_jam_factor,index,higher=worse
+pearson_r,correlation,closer to 1=stronger positive agreement
+spearman_rho,correlation,closer to 1=stronger positive rank agreement
+peak_overlap_jaccard,ratio,higher=more overlap
+bootstrap_ci_lower,metric-specific,uncertainty bound
+bootstrap_ci_upper,metric-specific,uncertainty bound
+lag_minutes,minutes,sensitivity parameter
+threshold_alpha,ratio,sensitivity parameter
+road_closure_status,boolean,true=closure/audit only
+matched_status,category,matched=used

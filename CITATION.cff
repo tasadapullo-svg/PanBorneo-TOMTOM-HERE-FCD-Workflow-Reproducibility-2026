@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated PLOS ONE manuscript."
+title: "Reproducible floating car data monitoring for data-scarce highway corridors: A TomTom-HERE benchmark study"
+authors:
+  - family-names: "Sun"
+    given-names: "Wenjie"
+date-released: "2026-06-30"
+license: "CC-BY-4.0"

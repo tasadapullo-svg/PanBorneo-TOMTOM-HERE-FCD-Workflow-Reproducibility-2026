@@ -1,0 +1,4 @@
+block_id,block_name,start_point_id,end_point_id,point_id_list,spatial_basis,notes
+Block 1,HERE benchmark Block 1,A036,A042,A036;A037;A038;A039;A040;A041;A042,7 active TomTom points; latitude 1.649452-1.715234; longitude 109.779359-109.867762.,Benchmark block used for manuscript TomTom-HERE 30 min block-time comparison.
+Block 2,HERE benchmark Block 2,A005,A035,A005;A006;A007;A010;A011;A012;A014;A015;A016;A018;A021;A025;A026;A027;A028;A029;A030;A031;A032;A033;A034;A035,22 active TomTom points; latitude 1.477304-1.637968; longitude 109.879467-110.084423.,Benchmark block used for manuscript TomTom-HERE 30 min block-time comparison.
+Block 3,HERE benchmark Block 3,A001,A024,A001;A002;A003;A004;A008;A009;A013;A017;A019;A020;A022;A023;A024,13 active TomTom points; latitude 1.451639-1.520851; longitude 110.110091-110.334732.,Benchmark block used for manuscript TomTom-HERE 30 min block-time comparison.

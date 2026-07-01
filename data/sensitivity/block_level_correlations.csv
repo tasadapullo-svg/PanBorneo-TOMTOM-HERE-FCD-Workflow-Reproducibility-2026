@@ -1,0 +1,4 @@
+scope,block_id,n_matched,tomtom_mean_CI_percent,here_mean_jam_factor,pearson_r,spearman_rho,peak_overlap_jaccard,peak_overlap_definition
+Block 1,Block 1,1082,0.6580012650679892,0.08080913481605152,-0.051391446510521896,-0.06563471618274404,0.18340611353711792,rank-based top 25 percent pooled/block observations
+Block 2,Block 2,1081,0.7805059187706036,0.0015379278445883443,-0.040227884439134616,-0.12394430395191451,0.20444444444444446,rank-based top 25 percent pooled/block observations
+Block 3,Block 3,1080,15.6051109281429,0.9926092637119845,0.9095165260422167,0.8976316789003058,0.5340909090909091,rank-based top 25 percent pooled/block observations
