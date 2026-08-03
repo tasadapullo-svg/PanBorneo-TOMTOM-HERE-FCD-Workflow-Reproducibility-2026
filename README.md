@@ -68,3 +68,5 @@ The public release does not include:
 ## Reproducing the public tables
 
 The `scripts/processing/` directory contains de-identified processing scripts derived from the development workflow. The current public package already includes the cleaned and matched outputs used for the revised manuscript. Acquisition templates in `scripts/acquisition/` document the collection logic but require user-supplied developer credentials and should write complete raw responses only to private local storage.
+##
+20260803 S5_Table_TomTom_HERE_Benchmark_Sensitivity_Results.xlsx
