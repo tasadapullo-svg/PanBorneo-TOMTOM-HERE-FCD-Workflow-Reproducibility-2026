@@ -1,0 +1,28 @@
+﻿claim,value_unrounded,unit,file,fields,support
+calendar_panel_coverage,77.38374863834423,percent,coverage/DAILY_COVERAGE.csv,sum(observed_records)/sum(panel_denominator)*100,24 days / 51 nodes
+missing_positions,26575,positions,coverage/MISSING_EPISODES.csv,sum(missing_slot_count),full calendar
+max_internal_missing_h,10.25,h,coverage/MISSING_EPISODES.csv,max(duration_h) where window_truncated=False,internal maximal runs
+primary_hours,521,hours,hourly/OVERALL_HOURS_MIN3.csv,count(retained_traffic_hour=True),3 valid snapshots/node; >=41 nodes/hour
+primary_mean,88.82654942159469,km/h,hourly/OVERALL_HOURS_MIN3.csv,mean(overall_speed_kmh) over retained hours,521 equal hours; equal nodes within hour
+primary_node_hours,22784,node-hours,hourly/OVERALL_HOURS_MIN3.csv,sum(valid_node_count) over retained hours,not independent sample n
+pooled_vs_equal_max_abs,1.272792022792018,km/h,hourly/WEIGHT_DEFINITION_DIAGNOSTIC.csv,max(absolute_difference_kmh),same primary node/hour set
+P=0:hour_count,101,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,hour_count where precipitation_group=P=0,same node sets; endpoint precipitation; hourly samples
+P=0:date_count,22,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,date_count where precipitation_group=P=0,same node sets; endpoint precipitation; hourly samples
+P=0:mean_speed_kmh,89.50876807549025,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,mean_speed_kmh where precipitation_group=P=0,same node sets; endpoint precipitation; hourly samples
+P=0:median_speed_kmh,89.91123188405795,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,median_speed_kmh where precipitation_group=P=0,same node sets; endpoint precipitation; hourly samples
+P=0:iqr_speed_kmh,2.4449735449735357,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,iqr_speed_kmh where precipitation_group=P=0,same node sets; endpoint precipitation; hourly samples
+0<P<=0.1:hour_count,125,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,hour_count where precipitation_group=0<P<=0.1,same node sets; endpoint precipitation; hourly samples
+0<P<=0.1:date_count,22,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,date_count where precipitation_group=0<P<=0.1,same node sets; endpoint precipitation; hourly samples
+0<P<=0.1:mean_speed_kmh,89.2132376118122,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,mean_speed_kmh where precipitation_group=0<P<=0.1,same node sets; endpoint precipitation; hourly samples
+0<P<=0.1:median_speed_kmh,89.41856060606061,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,median_speed_kmh where precipitation_group=0<P<=0.1,same node sets; endpoint precipitation; hourly samples
+0<P<=0.1:iqr_speed_kmh,2.6555555555555657,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,iqr_speed_kmh where precipitation_group=0<P<=0.1,same node sets; endpoint precipitation; hourly samples
+0.1<P<=0.5:hour_count,153,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,hour_count where precipitation_group=0.1<P<=0.5,same node sets; endpoint precipitation; hourly samples
+0.1<P<=0.5:date_count,23,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,date_count where precipitation_group=0.1<P<=0.5,same node sets; endpoint precipitation; hourly samples
+0.1<P<=0.5:mean_speed_kmh,88.5650997749283,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,mean_speed_kmh where precipitation_group=0.1<P<=0.5,same node sets; endpoint precipitation; hourly samples
+0.1<P<=0.5:median_speed_kmh,88.68055555555556,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,median_speed_kmh where precipitation_group=0.1<P<=0.5,same node sets; endpoint precipitation; hourly samples
+0.1<P<=0.5:iqr_speed_kmh,2.53866740494648,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,iqr_speed_kmh where precipitation_group=0.1<P<=0.5,same node sets; endpoint precipitation; hourly samples
+P>0.5:hour_count,142,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,hour_count where precipitation_group=P>0.5,same node sets; endpoint precipitation; hourly samples
+P>0.5:date_count,22,count,hourly/PRECIPITATION_GROUP_SUMMARY.csv,date_count where precipitation_group=P>0.5,same node sets; endpoint precipitation; hourly samples
+P>0.5:mean_speed_kmh,88.28261764778709,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,mean_speed_kmh where precipitation_group=P>0.5,same node sets; endpoint precipitation; hourly samples
+P>0.5:median_speed_kmh,88.12066155743481,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,median_speed_kmh where precipitation_group=P>0.5,same node sets; endpoint precipitation; hourly samples
+P>0.5:iqr_speed_kmh,2.3996228618942155,km/h,hourly/PRECIPITATION_GROUP_SUMMARY.csv,iqr_speed_kmh where precipitation_group=P>0.5,same node sets; endpoint precipitation; hourly samples

@@ -1,0 +1,30 @@
+{
+  "freeze_id": "TOMTOM_CORE_20261004",
+  "timezone": "Asia/Kuching",
+  "window_start": "2025-12-08 00:00:00",
+  "window_last_slot": "2025-12-31 23:45:00",
+  "node_count": 51,
+  "calendar_slots": 2304,
+  "calendar_hours": 576,
+  "expected_slots_per_node_hour": 4,
+  "primary_node_min_observations": 3,
+  "sensitivity_node_min_observations": [
+    2,
+    4
+  ],
+  "overall_min_nodes": 41,
+  "node_weight": "equal within each qualified hour",
+  "clock_weight": "equal qualified dates within local clock hour",
+  "node_clock_sd": "sample SD ddof=1 over all qualified node hours; >=2 dates",
+  "balanced_clock": "same 521-hour primary support; node-clock means then equal 51 nodes",
+  "weather_field": "precipitation_mm",
+  "weather_unit": "mm accumulated over preceding hour",
+  "weather_join": "node_id and hour_end = original background timestamp",
+  "precipitation_bin_rule": "assert source 0.1 mm precision; sum integer tenths / same valid node count",
+  "precipitation_precision_tolerance": 1e-08,
+  "quantile_method": "linear",
+  "export_missing": "empty CSV field; status and count distinguish missingness",
+  "independent_numeric_tolerance": 1e-10,
+  "traffic_imputation": false,
+  "allowed_analysis": "E04/E05 descriptive; no models, figures, Word editing or publication"
+}

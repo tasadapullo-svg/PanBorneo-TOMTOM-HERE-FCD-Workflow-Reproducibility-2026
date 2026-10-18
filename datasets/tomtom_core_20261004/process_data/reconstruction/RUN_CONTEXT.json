@@ -1,0 +1,10 @@
+{
+  "completed_utc": "2026-10-06T12:48:03.383470+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "script_sha256": "2483f4ae55e7db253cb89c3f4f8436ef282b1363b9864414cbf39181abe9c234",
+  "output_dir": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b03_124252Z\\batch03_reconstruction"
+}

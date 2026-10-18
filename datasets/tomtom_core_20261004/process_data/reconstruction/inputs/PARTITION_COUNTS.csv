@@ -1,0 +1,4 @@
+﻿partition,raw_rows,unique_nodes,first_observed_slot,last_observed_slot,use
+train,59009,51,2025-12-08 13:15:00,2025-12-23 23:45:00,fit TOD medians only
+validation,16128,51,2025-12-24 00:00:00,2025-12-27 23:45:00,reserved; no tuning
+test,15792,51,2025-12-28 00:00:00,2025-12-31 23:45:00,"candidate support, allowed masked context and scoring reference"

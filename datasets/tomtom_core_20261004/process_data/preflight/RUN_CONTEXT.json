@@ -1,0 +1,25 @@
+{
+  "run_id": "20261006_b01_054939Z",
+  "freeze_id": "TOMTOM_CORE_20261004",
+  "started_utc": "2026-10-06T05:54:20.543527+00:00",
+  "finished_utc": "2026-10-06T05:54:22.987672+00:00",
+  "started_sydney": "2026-10-06T16:54:20.543527+11:00",
+  "data_timezone": "Asia/Kuching",
+  "output_dir": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b01_054939Z\\batch01_preflight",
+  "script": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b01_054939Z\\batch01_preflight\\preflight_audit.py",
+  "script_sha256": "65e07b3cb17b1611fb751267a3421be404dce508217ae0910d7f50fbf78b3798",
+  "python_executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "python_version": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "pandas_version": "3.0.1",
+  "numpy_version": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "argv": [
+    "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b01_054939Z\\batch01_preflight\\preflight_audit.py"
+  ],
+  "command_scope": "Batch01 read-only-input diagnostics; no formal 5.3/5.4/5.5 results",
+  "diagnostic_execution_status": "COMPLETED",
+  "scientific_acceptance_status": "See human-reviewed BATCH01_ACCEPTANCE.md; computational QA does not resolve source semantics",
+  "input_lock_rows": 45,
+  "qa_checks": 45,
+  "qa_failed": 0
+}

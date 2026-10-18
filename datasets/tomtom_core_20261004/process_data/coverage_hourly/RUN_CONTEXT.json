@@ -1,0 +1,11 @@
+{
+  "startup_config": "CONFIG.json",
+  "completed_utc": "2026-10-06T06:14:10.311964+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "pandas": "3.0.1",
+  "numpy": "2.3.5",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "script_sha256": "cc3e4819b330eccbd5715069aba851fc2271315d368b99e724328819022f5de9",
+  "output_dir": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b02_060919Z\\batch02_coverage_hourly"
+}

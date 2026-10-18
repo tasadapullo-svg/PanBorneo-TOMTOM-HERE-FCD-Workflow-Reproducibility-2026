@@ -1,0 +1,46 @@
+dataset,field,data_type,unit_or_timezone,definition,provenance_class
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,interval_timestamp_local,datetime string,Asia/Kuching,15-minute timestamp obtained by rounding pd_create_time to the nearest quarter-hour,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,interval_timestamp_utc,ISO-8601 string,UTC,UTC conversion of interval_timestamp_local,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,timezone,string,n.a.,IANA timezone for local timestamps,constant
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,node_id,string,n.a.,N001-N051 fixed coordinate identifier,source-mapped
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,latitude,float,decimal degrees,source coordinate latitude,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,longitude,float,decimal degrees,source coordinate longitude,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,current_speed_kmh,float,km/h,TomTom current speed,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,free_flow_speed_kmh,float,km/h,TomTom free-flow speed,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,current_travel_time_s,float,seconds,TomTom current travel time,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,free_flow_travel_time_s,float,seconds,TomTom free-flow travel time,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,confidence,float,0-1,source confidence field,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,road_closure,integer/boolean,flag,source road-closure field,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,pd_create_time_local,datetime string,Asia/Kuching,historical point-data creation time,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,capture_time_local,datetime string,Asia/Kuching,historical capture time,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,flow_create_time_local,datetime string,Asia/Kuching,historical flow-record creation time,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,batch_uuid,string,n.a.,historical acquisition batch identifier,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,point_uuid,string,n.a.,historical point-record identifier; snapshot-specific,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,flow_uuid,string,n.a.,historical flow-record identifier,observed
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,coordinate_match_distance_m,float,metres,distance used in point-to-node mapping,derived upstream
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,source_file,string,n.a.,sanitized daily input filename,provenance
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,source_row_number,integer,CSV row,1-based physical row number including header at row 1,provenance
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,batch_record_count,integer,records,number of records sharing batch_uuid,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,timestamp_rounding_offset_seconds,integer,seconds,pd_create_time minus rounded 15-minute timestamp,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,duplicate_group_size,integer,records,records sharing node_id and normalized interval before selection,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,duplicate_resolution,string,n.a.,UNIQUE or SELECTED_FROM_DUPLICATE,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,credential_redaction,string,n.a.,credential-removal note inherited from sanitized source,provenance
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,source_provider,string,n.a.,traffic-data provider,constant
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,raw_observed_flag,string,YES/NO,"YES means an observed provider record, not an imputed value",derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,imputed_flag,string,YES/NO,NO for every record in this frozen table,derived
+tomtom_15min_frozen_2025-12-08_2025-12-31.csv,data_stage,string,n.a.,explicitly identifies the table as a sanitized historical export,constant
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,timestamp_local,datetime string,Asia/Kuching,hourly local timestamp,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,node_order_verified,integer,order,verified node display/order index,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,node_id,string,n.a.,N001-N051 fixed coordinate identifier,source-mapped
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,requested_latitude,float,decimal degrees,road-node latitude submitted to the weather service,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,requested_longitude,float,decimal degrees,road-node longitude submitted to the weather service,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,returned_grid_latitude,float,decimal degrees,latitude of returned model grid cell,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,returned_grid_longitude,float,decimal degrees,longitude of returned model grid cell,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,returned_elevation,float,metres,elevation associated with returned model grid cell,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,weather_grid_id,string,n.a.,stable identifier for returned model grid cell,derived upstream
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,timestamp_utc,datetime string,UTC,UTC equivalent of timestamp_local,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,source_model,string,n.a.,weather-model identifier,source
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,download_timestamp,ISO-8601 string,UTC,context-data retrieval timestamp,provenance
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,precipitation_mm,float,mm/hour,gridded hourly total precipitation,contextual covariate
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,rain_mm,float,mm/hour,gridded hourly rain component,contextual covariate
+rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,data_stage,string,n.a.,marks the data as gridded context rather than roadside measurement,constant

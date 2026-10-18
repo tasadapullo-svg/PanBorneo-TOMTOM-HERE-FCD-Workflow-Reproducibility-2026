@@ -1,0 +1,72 @@
+﻿check,actual,expected,status
+input_hash:build_tomtom_core_freeze.py,29a8c5e128ff6f420bf26c6b76ddd2438064739431ea98728ac08682e53f408a,29a8c5e128ff6f420bf26c6b76ddd2438064739431ea98728ac08682e53f408a,PASS
+input_hash:DATA_DICTIONARY.csv,4666096b36ebb58b78fa4ba465e8eb2a301470170b64a51bb0f47a667b5e35f4,4666096b36ebb58b78fa4ba465e8eb2a301470170b64a51bb0f47a667b5e35f4,PASS
+input_hash:LICENSE_NOTICE.md,a8185eeae408a51931423e20fcaada1f7e0ff4fbf6bfc3dc1914158abfaa13fe,a8185eeae408a51931423e20fcaada1f7e0ff4fbf6bfc3dc1914158abfaa13fe,PASS
+input_hash:QC_SUMMARY.csv,da5d85a83cf8c38bd6bb9302896acc640d7e3328fcb6ef0b0a35b0f23fa9339b,da5d85a83cf8c38bd6bb9302896acc640d7e3328fcb6ef0b0a35b0f23fa9339b,PASS
+input_hash:rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,9c85bd5583577030a760caf70952850da31a458654bf9d23ce25dad2e5b6f5c8,9c85bd5583577030a760caf70952850da31a458654bf9d23ce25dad2e5b6f5c8,PASS
+input_hash:README_DATA_FREEZE.md,b8cc883fbd8b01cbaa309209eac869bec9909cdd4e62ea00cca49af9903f8ae8,b8cc883fbd8b01cbaa309209eac869bec9909cdd4e62ea00cca49af9903f8ae8,PASS
+input_hash:SOURCE_MANIFEST.csv,28d1bfa3c61ae3f1e212f49f24c46ddaadadb6642d593cf9f89c1cd3ae4ee49b,28d1bfa3c61ae3f1e212f49f24c46ddaadadb6642d593cf9f89c1cd3ae4ee49b,PASS
+input_hash:tomtom_15min_frozen_2025-12-08_2025-12-31.csv,8fb1bd523b560ca4cfe14c1c4eb258cad2c98fffc570d04119f6a4f26048f36d,8fb1bd523b560ca4cfe14c1c4eb258cad2c98fffc570d04119f6a4f26048f36d,PASS
+input_hash:tomtom_duplicate_resolution_log.csv,6290314a4e336870fcaef7ffea39bb64e0080d37bb1f15c308058e14f9a544b4,6290314a4e336870fcaef7ffea39bb64e0080d37bb1f15c308058e14f9a544b4,PASS
+input_hash:tomtom_interval_coverage_2304.csv,636a35f398c51592fb93d84caf1dab958fdca455469102edd25450c89405ef06,636a35f398c51592fb93d84caf1dab958fdca455469102edd25450c89405ef06,PASS
+input_hash:tomtom_node_master_51.csv,1e9c0d80f02938fa5b5aead90e1231c83a8bfdedbf95e9d6dea18528eea12343,1e9c0d80f02938fa5b5aead90e1231c83a8bfdedbf95e9d6dea18528eea12343,PASS
+input_hash:TRANSFORMATION_LOG.md,e722add5bf23ab619d640233d448ac061bc0e6dd4077c1618c6697e2b1c8ae7b,e722add5bf23ab619d640233d448ac061bc0e6dd4077c1618c6697e2b1c8ae7b,PASS
+input_hash:SHA256_MANIFEST.csv,b38f799858a7af711a81e217e66390d733ae53c53bc2367cf01c988271116111,b38f799858a7af711a81e217e66390d733ae53c53bc2367cf01c988271116111,PASS
+traffic_rows,90929,90929,PASS
+master_unique_nodes,51,51,PASS
+traffic_key_duplicates,0,0,PASS
+traffic_keys_in_grid,True,True,PASS
+traffic_flags,True,True,PASS
+traffic_timezone,{'Asia/Kuching'},{'Asia/Kuching'},PASS
+valid_speed_rows,90929,90929,PASS
+weather_rows,29376,29376,PASS
+weather_key_duplicates,0,0,PASS
+weather_keys_full_grid,True,True,PASS
+weather_nonnegative_finite,True,True,PASS
+weather_source_tenth_mm_precision,True,True,PASS
+stable_node_mapping,51,51,PASS
+source_node_order_permutation,"[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]","[1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]",PASS
+grid_count,15,15,PASS
+within_grid_precipitation_consistency,0,0,PASS
+freeze_interval_count_agreement,True,True,PASS
+freeze_node_count_agreement,True,True,PASS
+missing_positions,26575,26575,PASS
+episode_count,16447,16447,PASS
+episode_slot_sum,26575,26575,PASS
+episode_boundary_count,60,60,PASS
+episode_internal_count,16387,16387,PASS
+missing_bin_counts,"[13249, 2415, 507, 69, 54, 43, 59, 51, 0]","[13249, 2415, 507, 69, 54, 43, 59, 51, 0]",PASS
+all_empty_slots,138,138,PASS
+pre_first_empty_slots,53,53,PASS
+internal_empty_slots,85,85,PASS
+node_hour_observation_distribution,"[1543, 663, 3650, 11114, 12406]","[1543, 663, 3650, 11114, 12406]",PASS
+full_grid_unmatched_node_hours,51,51,PASS
+qualified_node_hours_min2,27170,27170,PASS
+retained_overall_hours_min2,542,542,PASS
+qualified_node_hours_min3,23520,23520,PASS
+retained_overall_hours_min3,521,521,PASS
+qualified_node_hours_min4,12406,12406,PASS
+retained_overall_hours_min4,0,0,PASS
+primary_included_node_hours,22784,22784,PASS
+primary_all_weather_matched,{'PAIRED'},{'PAIRED'},PASS
+primary_node_count_range,"[41, 48]","[41, 48]",PASS
+balanced_node_clock_groups,1224,1224,PASS
+balanced_51_nodes_every_clock,True,True,PASS
+precipitation_group_hours,"[101, 125, 153, 142]","[101, 125, 153, 142]",PASS
+precipitation_group_dates,"[22, 22, 23, 22]","[22, 22, 23, 22]",PASS
+input_unchanged:build_tomtom_core_freeze.py,29a8c5e128ff6f420bf26c6b76ddd2438064739431ea98728ac08682e53f408a,29a8c5e128ff6f420bf26c6b76ddd2438064739431ea98728ac08682e53f408a,PASS
+input_unchanged:DATA_DICTIONARY.csv,4666096b36ebb58b78fa4ba465e8eb2a301470170b64a51bb0f47a667b5e35f4,4666096b36ebb58b78fa4ba465e8eb2a301470170b64a51bb0f47a667b5e35f4,PASS
+input_unchanged:LICENSE_NOTICE.md,a8185eeae408a51931423e20fcaada1f7e0ff4fbf6bfc3dc1914158abfaa13fe,a8185eeae408a51931423e20fcaada1f7e0ff4fbf6bfc3dc1914158abfaa13fe,PASS
+input_unchanged:QC_SUMMARY.csv,da5d85a83cf8c38bd6bb9302896acc640d7e3328fcb6ef0b0a35b0f23fa9339b,da5d85a83cf8c38bd6bb9302896acc640d7e3328fcb6ef0b0a35b0f23fa9339b,PASS
+input_unchanged:rainfall_hourly_context_2025-12-08_2025-12-31_51nodes.csv,9c85bd5583577030a760caf70952850da31a458654bf9d23ce25dad2e5b6f5c8,9c85bd5583577030a760caf70952850da31a458654bf9d23ce25dad2e5b6f5c8,PASS
+input_unchanged:README_DATA_FREEZE.md,b8cc883fbd8b01cbaa309209eac869bec9909cdd4e62ea00cca49af9903f8ae8,b8cc883fbd8b01cbaa309209eac869bec9909cdd4e62ea00cca49af9903f8ae8,PASS
+input_unchanged:SOURCE_MANIFEST.csv,28d1bfa3c61ae3f1e212f49f24c46ddaadadb6642d593cf9f89c1cd3ae4ee49b,28d1bfa3c61ae3f1e212f49f24c46ddaadadb6642d593cf9f89c1cd3ae4ee49b,PASS
+input_unchanged:tomtom_15min_frozen_2025-12-08_2025-12-31.csv,8fb1bd523b560ca4cfe14c1c4eb258cad2c98fffc570d04119f6a4f26048f36d,8fb1bd523b560ca4cfe14c1c4eb258cad2c98fffc570d04119f6a4f26048f36d,PASS
+input_unchanged:tomtom_duplicate_resolution_log.csv,6290314a4e336870fcaef7ffea39bb64e0080d37bb1f15c308058e14f9a544b4,6290314a4e336870fcaef7ffea39bb64e0080d37bb1f15c308058e14f9a544b4,PASS
+input_unchanged:tomtom_interval_coverage_2304.csv,636a35f398c51592fb93d84caf1dab958fdca455469102edd25450c89405ef06,636a35f398c51592fb93d84caf1dab958fdca455469102edd25450c89405ef06,PASS
+input_unchanged:tomtom_node_master_51.csv,1e9c0d80f02938fa5b5aead90e1231c83a8bfdedbf95e9d6dea18528eea12343,1e9c0d80f02938fa5b5aead90e1231c83a8bfdedbf95e9d6dea18528eea12343,PASS
+input_unchanged:TRANSFORMATION_LOG.md,e722add5bf23ab619d640233d448ac061bc0e6dd4077c1618c6697e2b1c8ae7b,e722add5bf23ab619d640233d448ac061bc0e6dd4077c1618c6697e2b1c8ae7b,PASS
+input_unchanged:SHA256_MANIFEST.csv,b38f799858a7af711a81e217e66390d733ae53c53bc2367cf01c988271116111,b38f799858a7af711a81e217e66390d733ae53c53bc2367cf01c988271116111,PASS
+input_unchanged:论文写作交接与结果证据清单.md,c89d595c504d6c148be73b691ce46d8a6f52166f365ae71a26d9e977da8f3a5d,c89d595c504d6c148be73b691ce46d8a6f52166f365ae71a26d9e977da8f3a5d,PASS
+input_unchanged:BATCH01_ACCEPTANCE.md,db4bb3a59d8325ee848695e59d75adc655e6b9ea5ade7998d7772a47565298c1,db4bb3a59d8325ee848695e59d75adc655e6b9ea5ade7998d7772a47565298c1,PASS
+input_unchanged:SEMANTICS_AUDIT.md,e3ddf51e7685ae21f12af73bcb001de4078b19d83a7b586d87821b99b87d6df9,e3ddf51e7685ae21f12af73bcb001de4078b19d83a7b586d87821b99b87d6df9,PASS

@@ -1,0 +1,26 @@
+{
+  "executable": "D:\\Python\\python.exe",
+  "python": "3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]",
+  "numpy": "2.2.1",
+  "scipy": "1.15.1",
+  "pandas": "3.0.1",
+  "sklearn": "1.6.1",
+  "ridge_configuration": {
+    "alpha": 1.0,
+    "copy_X": true,
+    "fit_intercept": true,
+    "max_iter": null,
+    "positive": false,
+    "random_state": null,
+    "solver": "svd",
+    "tol": 0.0001
+  },
+  "fit_performed": false,
+  "probe_time_utc": "2026-10-07T00:19:44.813749+00:00",
+  "command_arguments": [
+    "D:\\Python\\python.exe",
+    "-c",
+    "import sys,json,numpy,scipy,pandas,sklearn; from sklearn.linear_model import Ridge; print(json.dumps({\"executable\":sys.executable,\"python\":sys.version,\"numpy\":numpy.__version__,\"scipy\":scipy.__version__,\"pandas\":pandas.__version__,\"sklearn\":sklearn.__version__,\"ridge_configuration\":Ridge(fit_intercept=True,positive=False,solver=\"svd\").get_params(),\"fit_performed\":False},ensure_ascii=True))"
+  ],
+  "scope": "existing libraries imported and Ridge SVD object configured; no fitting or performance calculation; no package installation"
+}

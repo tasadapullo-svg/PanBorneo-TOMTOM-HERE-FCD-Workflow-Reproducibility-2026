@@ -1,0 +1,17 @@
+﻿K,method,planned_gaps,predicted_complete_gaps,common_complete_gaps,failed_gaps,completion_pct,common_retention_pct,planned_target_points,common_target_points
+1,Linear,300,300,300,0,100,100,300,300
+1,LOCF,300,300,300,0,100,100,300,300
+1,Train-TOD median,300,300,300,0,100,100,300,300
+1,Spatial median,300,300,300,0,100,100,300,300
+4,Linear,300,300,300,0,100,100,1200,1200
+4,LOCF,300,300,300,0,100,100,1200,1200
+4,Train-TOD median,300,300,300,0,100,100,1200,1200
+4,Spatial median,300,300,300,0,100,100,1200,1200
+12,Linear,211,211,211,0,100,100,2532,2532
+12,LOCF,211,211,211,0,100,100,2532,2532
+12,Train-TOD median,211,211,211,0,100,100,2532,2532
+12,Spatial median,211,211,211,0,100,100,2532,2532
+24,Linear,17,17,17,0,100,100,408,408
+24,LOCF,17,17,17,0,100,100,408,408
+24,Train-TOD median,17,17,17,0,100,100,408,408
+24,Spatial median,17,17,17,0,100,100,408,408

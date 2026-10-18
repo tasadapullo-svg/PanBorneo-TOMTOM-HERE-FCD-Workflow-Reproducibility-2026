@@ -1,0 +1,19 @@
+{
+  "verified_utc": "2026-10-06T12:56:52.868521+00:00",
+  "manifest_payload_count": 39,
+  "payload_hashes_match": true,
+  "output_manifest_sha256": "aa48671a116536bdb5593f2bd0c4f2c2dbd79dac74ef26fdb8a449b2b09f9d5a",
+  "sha256_manifest_sha256": "aa48671a116536bdb5593f2bd0c4f2c2dbd79dac74ef26fdb8a449b2b09f9d5a",
+  "zip_path": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261006_b03_124252Z\\batch03_reconstruction.zip",
+  "zip_bytes": 3662811,
+  "zip_sha256": "46262142b53d318dfd21bcd7fed5f23b93fe6788c071896cd80985d5ccfa1e43",
+  "zip_test": "PASS",
+  "zip_payloads_match": true,
+  "zip_members": 41,
+  "excluded_controls": [
+    "MANIFEST_VERIFY.json",
+    "OUTPUT_MANIFEST.csv",
+    "SHA256_MANIFEST.csv"
+  ],
+  "status": "PASS"
+}

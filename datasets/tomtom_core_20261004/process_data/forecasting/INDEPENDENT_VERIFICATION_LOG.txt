@@ -1,0 +1,8 @@
+Independent H=1: checking every input and issued prediction
+Independent H=3: checking every input and issued prediction
+Independent H=6: checking every input and issued prediction
+{
+  "independent_QA_count": 1000,
+  "failed_count": 0,
+  "verified_test_rows": 51375
+}

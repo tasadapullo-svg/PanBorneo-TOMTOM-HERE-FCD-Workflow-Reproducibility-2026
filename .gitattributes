@@ -1,0 +1,2 @@
+# Preserve the published hashes of frozen data and historical outputs.
+datasets/tomtom_core_20261004/** -text

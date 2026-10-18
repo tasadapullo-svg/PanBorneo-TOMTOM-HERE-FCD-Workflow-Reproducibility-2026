@@ -1,0 +1,62 @@
+{
+  "freeze_id": "TOMTOM_CORE_20261004",
+  "timezone": "Asia/Kuching",
+  "step_minutes": 15,
+  "train": [
+    "2025-12-08 00:00:00",
+    "2025-12-24 00:00:00"
+  ],
+  "validation": [
+    "2025-12-24 00:00:00",
+    "2025-12-28 00:00:00"
+  ],
+  "test": [
+    "2025-12-28 00:00:00",
+    "2026-01-01 00:00:00"
+  ],
+  "partitions": "left-closed right-open normalized slot membership",
+  "lengths_K": [
+    1,
+    4,
+    12,
+    24
+  ],
+  "maximum_selected_gaps_per_length": 300,
+  "seed": 20261006,
+  "generator": "PCG64",
+  "substreams": "SeedSequence(20261006).spawn(4), ordered K=1,4,12,24",
+  "train_tod_min_observations": 3,
+  "other_node_min_observations": 3,
+  "candidate_universe": "each of 51 nodes x each of 384 test start slots; boundary gate first",
+  "eligibility_order": [
+    "OUTSIDE_TEST_CONTEXT",
+    "TARGET_NATURAL_MISSING",
+    "ENDPOINT_MISSING",
+    "TRAIN_TOD_SUPPORT_LT3",
+    "OTHER_NODE_SUPPORT_LT3"
+  ],
+  "selection_order": "sort(node_id,start_date,t0); shuffle candidates within each sorted group; shuffle group order; round-robin; skip any closed-context overlap on same node across dates",
+  "overlap_rule": "closed [left_endpoint,right_endpoint] windows may not share even an endpoint within same K/node",
+  "nonoverlap_capacity": "maximum cardinality per node by earliest-ending eligible context; reported separately from seeded maximal/capped sampler",
+  "experiments": "each gap starts independently from frozen base; only one node-gap masked; other-node original records visible",
+  "methods": {
+    "Linear": "left + j/(K+1)*(right-left), j=1..K; future right endpoint permitted retrospectively",
+    "LOCF": "left endpoint repeated; no recursive filled values",
+    "Train-TOD median": "node and quarter-hour TOD median from training partition only",
+    "Spatial median": "median of contemporaneous original speeds of all other available nodes; target node excluded; no topology weighting"
+  },
+  "model_inputs": "K; left/right raw speed; frozen train-TOD values; other-node raw speeds. Hidden target scores separate; no ancillary traffic fields.",
+  "speed_unit": "km/h",
+  "error_sign": "reconstruction minus hidden provider observation",
+  "primary_RMSE": "sqrt(sum(point_error**2)/(N*K)) within length and method",
+  "MAE": "sum(abs(point_error))/(N*K)",
+  "gap_distribution": "per-gap RMSE median,Q25,Q75 linear empirical quantiles; not CI",
+  "validation_use": "reserved; no tuning performed",
+  "prediction_clipping": false,
+  "fallback": false,
+  "traffic_imputation_of_natural_gaps": false,
+  "failure_handling": "retain failed prediction records; compare only complete gaps common to all methods; report each planned/complete/common/failed count",
+  "bootstrap": false,
+  "forecasting": false,
+  "numeric_QA_tolerance": 1e-10
+}

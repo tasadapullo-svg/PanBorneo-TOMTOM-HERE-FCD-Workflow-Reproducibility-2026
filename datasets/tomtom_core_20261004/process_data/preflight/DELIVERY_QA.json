@@ -1,0 +1,594 @@
+{
+  "checked_at_utc": "2026-10-06T05:59:08.951560+00:00",
+  "independent_traffic_engine": "Python standard-library csv/datetime/statistics",
+  "status": "PASS",
+  "checks": 48,
+  "failures": 0,
+  "failed_first_attempt_preserved": true,
+  "spatial_mapping_exact_mismatch_counts": {
+    "requested_latitude": 0,
+    "requested_longitude": 0,
+    "returned_grid_latitude": 0,
+    "returned_grid_longitude": 0,
+    "weather_grid_id": 0
+  },
+  "details": [
+    {
+      "check": "traffic_rows_from_standard_csv",
+      "actual": 90929,
+      "expected": 90929,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_duplicate_keys",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_capture_before_point",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_flow_before_capture",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_capture_before_slot",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_boundary_failures",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_utc_mismatch",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_offset_mismatch",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_round_mismatch",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_half_quarter_ties",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "independent_capture_flow_equality",
+      "actual": 90929,
+      "expected": 90929,
+      "status": "PASS"
+    },
+    {
+      "check": "point_minus_slot_seconds_minimum",
+      "actual": -1.0,
+      "expected": -1.0,
+      "status": "PASS"
+    },
+    {
+      "check": "point_minus_slot_seconds_maximum",
+      "actual": 417.0,
+      "expected": 417.0,
+      "status": "PASS"
+    },
+    {
+      "check": "point_minus_slot_seconds_median",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_point_seconds_minimum",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_point_seconds_maximum",
+      "actual": 636.0,
+      "expected": 636.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_point_seconds_median",
+      "actual": 97.0,
+      "expected": 97.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_slot_seconds_minimum",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_slot_seconds_maximum",
+      "actual": 962.0,
+      "expected": 962.0,
+      "status": "PASS"
+    },
+    {
+      "check": "capture_minus_slot_seconds_median",
+      "actual": 118.0,
+      "expected": 118.0,
+      "status": "PASS"
+    },
+    {
+      "check": "flow_minus_capture_seconds_minimum",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "flow_minus_capture_seconds_maximum",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "flow_minus_capture_seconds_median",
+      "actual": 0.0,
+      "expected": 0.0,
+      "status": "PASS"
+    },
+    {
+      "check": "exact_delayed_anchor_key_set",
+      "actual": [
+        [
+          "N005",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2502"
+        ],
+        [
+          "N008",
+          "tomtom_sanitized_2025-12-31.csv",
+          "3312"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2157"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "887"
+        ],
+        [
+          "N029",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2315"
+        ],
+        [
+          "N037",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2106"
+        ],
+        [
+          "N040",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1726"
+        ],
+        [
+          "N048",
+          "tomtom_sanitized_2025-12-31.csv",
+          "340"
+        ],
+        [
+          "N050",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1880"
+        ]
+      ],
+      "expected": [
+        [
+          "N005",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2502"
+        ],
+        [
+          "N008",
+          "tomtom_sanitized_2025-12-31.csv",
+          "3312"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2157"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "887"
+        ],
+        [
+          "N029",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2315"
+        ],
+        [
+          "N037",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2106"
+        ],
+        [
+          "N040",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1726"
+        ],
+        [
+          "N048",
+          "tomtom_sanitized_2025-12-31.csv",
+          "340"
+        ],
+        [
+          "N050",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1880"
+        ]
+      ],
+      "status": "PASS"
+    },
+    {
+      "check": "delayed_anchor_records",
+      "actual": 9,
+      "expected": 9,
+      "status": "PASS"
+    },
+    {
+      "check": "train_row_count",
+      "actual": 59009,
+      "expected": 59009,
+      "status": "PASS"
+    },
+    {
+      "check": "train_capture_cutoff",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "validation_row_count",
+      "actual": 16128,
+      "expected": 16128,
+      "status": "PASS"
+    },
+    {
+      "check": "validation_capture_cutoff",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "test_row_count",
+      "actual": 15792,
+      "expected": 15792,
+      "status": "PASS"
+    },
+    {
+      "check": "test_capture_cutoff",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "rainfall_rows_from_standard_csv",
+      "actual": 29376,
+      "expected": 29376,
+      "status": "PASS"
+    },
+    {
+      "check": "rain_precipitation_unequal_count",
+      "actual": 10019,
+      "expected": 10019,
+      "status": "PASS"
+    },
+    {
+      "check": "frozen_next_day_endpoint_absent",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_frozen_mapping_requested_latitude",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_frozen_mapping_requested_longitude",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_frozen_mapping_returned_grid_latitude",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_frozen_mapping_returned_grid_longitude",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_frozen_mapping_weather_grid_id",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "source_mapping_nodes",
+      "actual": [
+        "N001",
+        "N002",
+        "N003",
+        "N004",
+        "N005",
+        "N006",
+        "N007",
+        "N008",
+        "N009",
+        "N010",
+        "N011",
+        "N012",
+        "N013",
+        "N014",
+        "N015",
+        "N016",
+        "N017",
+        "N018",
+        "N019",
+        "N020",
+        "N021",
+        "N022",
+        "N023",
+        "N024",
+        "N025",
+        "N026",
+        "N027",
+        "N028",
+        "N029",
+        "N030",
+        "N031",
+        "N032",
+        "N033",
+        "N034",
+        "N035",
+        "N036",
+        "N037",
+        "N038",
+        "N039",
+        "N040",
+        "N041",
+        "N042",
+        "N043",
+        "N044",
+        "N045",
+        "N046",
+        "N047",
+        "N048",
+        "N049",
+        "N050",
+        "N051"
+      ],
+      "expected": [
+        "N001",
+        "N002",
+        "N003",
+        "N004",
+        "N005",
+        "N006",
+        "N007",
+        "N008",
+        "N009",
+        "N010",
+        "N011",
+        "N012",
+        "N013",
+        "N014",
+        "N015",
+        "N016",
+        "N017",
+        "N018",
+        "N019",
+        "N020",
+        "N021",
+        "N022",
+        "N023",
+        "N024",
+        "N025",
+        "N026",
+        "N027",
+        "N028",
+        "N029",
+        "N030",
+        "N031",
+        "N032",
+        "N033",
+        "N034",
+        "N035",
+        "N036",
+        "N037",
+        "N038",
+        "N039",
+        "N040",
+        "N041",
+        "N042",
+        "N043",
+        "N044",
+        "N045",
+        "N046",
+        "N047",
+        "N048",
+        "N049",
+        "N050",
+        "N051"
+      ],
+      "status": "PASS"
+    },
+    {
+      "check": "mandatory_value_missing_records",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "diagnostic_script_sha_still_matches",
+      "actual": "65e07b3cb17b1611fb751267a3421be404dce508217ae0910d7f50fbf78b3798",
+      "expected": "65e07b3cb17b1611fb751267a3421be404dce508217ae0910d7f50fbf78b3798",
+      "status": "PASS"
+    },
+    {
+      "check": "all_input_hashes_still_unchanged",
+      "actual": [],
+      "expected": [],
+      "status": "PASS"
+    },
+    {
+      "check": "main_machine_QA_failures",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "check": "trace_rows",
+      "actual": 12,
+      "expected": 12,
+      "status": "PASS"
+    },
+    {
+      "check": "all_delayed_anchors_have_source_trace",
+      "actual": [
+        [
+          "N005",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2502"
+        ],
+        [
+          "N008",
+          "tomtom_sanitized_2025-12-31.csv",
+          "3312"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2157"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "887"
+        ],
+        [
+          "N029",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2315"
+        ],
+        [
+          "N037",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2106"
+        ],
+        [
+          "N040",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1726"
+        ],
+        [
+          "N048",
+          "tomtom_sanitized_2025-12-31.csv",
+          "340"
+        ],
+        [
+          "N050",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1880"
+        ]
+      ],
+      "expected": [
+        [
+          "N005",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2502"
+        ],
+        [
+          "N008",
+          "tomtom_sanitized_2025-12-31.csv",
+          "3312"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2157"
+        ],
+        [
+          "N019",
+          "tomtom_sanitized_2025-12-31.csv",
+          "887"
+        ],
+        [
+          "N029",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2315"
+        ],
+        [
+          "N037",
+          "tomtom_sanitized_2025-12-31.csv",
+          "2106"
+        ],
+        [
+          "N040",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1726"
+        ],
+        [
+          "N048",
+          "tomtom_sanitized_2025-12-31.csv",
+          "340"
+        ],
+        [
+          "N050",
+          "tomtom_sanitized_2025-12-31.csv",
+          "1880"
+        ]
+      ],
+      "status": "PASS"
+    },
+    {
+      "check": "BATCH01_ACCEPTANCE.md_numbers_present",
+      "actual": true,
+      "expected": true,
+      "status": "PASS"
+    },
+    {
+      "check": "SEMANTICS_AUDIT.md_numbers_present",
+      "actual": true,
+      "expected": true,
+      "status": "PASS"
+    }
+  ],
+  "scientific_boundary": "Delivery QA checks calculations and file integrity; E02/E03 unresolved semantics remain in the reports"
+}

@@ -1,0 +1,330 @@
+{
+  "completed_utc": "2026-10-06T12:51:50.500725+00:00",
+  "verifier_sha256": "2411047b26f9cecebf085126da2a03a05a7ed8dbb0376661af513624be1d6b5e",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "numpy_for_sampling_replay": "2.3.5",
+  "check_count": 64,
+  "failed_count": 0,
+  "checks": [
+    {
+      "check": "confirmed_protocol",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "inputs_before_after_current_unchanged",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "frozen_raw:unique_keys",
+      "status": "PASS",
+      "detail": "90929"
+    },
+    {
+      "check": "training_membership_keys_exact_no_validation_test",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "training_membership_speeds",
+      "status": "PASS",
+      "detail": "{'n': 59009, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "training_membership_source_trace",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "training_TOD:unique_keys",
+      "status": "PASS",
+      "detail": "4896"
+    },
+    {
+      "check": "training_TOD_complete_grid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "training_TOD_counts_and_eligibility",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "training_TOD_original_medians",
+      "status": "PASS",
+      "detail": "{'n': 4896, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "partition_counts",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "candidate_catalog:unique_keys",
+      "status": "PASS",
+      "detail": "78336"
+    },
+    {
+      "check": "candidate_universe_exact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "candidate_all_eligibility_rules_exact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "candidate_support_counts_exact",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "exclusion_exclusive_and_all_flags",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "maximum_nonoverlap_capacity_DP",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "maximum_capacity_witness_valid",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "frozen_gaps:unique_keys",
+      "status": "PASS",
+      "detail": "828"
+    },
+    {
+      "check": "seeded_selection_order_reproduced",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "sampler_candidate_dispositions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "sampler_final_rng_state",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "selected_closed_contexts_do_not_overlap",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "selected_contexts_entirely_within_test",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "under_cap_sampler_is_maximal_not_asserted_maximum",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hidden_reference:unique_keys",
+      "status": "PASS",
+      "detail": "4440"
+    },
+    {
+      "check": "hidden_reference_keys_exact_K_per_gap",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hidden_reference_source_provenance",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hidden_reference_is_original_provider_speed",
+      "status": "PASS",
+      "detail": "{'n': 4440, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "allowed_context:unique_keys",
+      "status": "PASS",
+      "detail": "183696"
+    },
+    {
+      "check": "allowed_context_members_exact_original_visible_only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "allowed_input_schema_no_ancillary_fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "hidden_targets_not_in_allowed_context",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "allowed_context_original_speeds",
+      "status": "PASS",
+      "detail": "{'n': 183696, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "allowed_context_source_provenance",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "frozen_TOD_input:unique_keys",
+      "status": "PASS",
+      "detail": "4440"
+    },
+    {
+      "check": "frozen_TOD_input_keys",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "frozen_TOD_input_only_training_medians",
+      "status": "PASS",
+      "detail": "{'n': 4440, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "frozen_TOD_input_support",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "target_other_node_support_and_lists",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "predictions:unique_keys",
+      "status": "PASS",
+      "detail": "17760"
+    },
+    {
+      "check": "all_four_methods_identical_complete_targets",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "all_predictions_success_no_failure",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "predictions_from_masked_allowed_input_only",
+      "status": "PASS",
+      "detail": "{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "point_scores:unique_keys",
+      "status": "PASS",
+      "detail": "17760"
+    },
+    {
+      "check": "point_score_keys_equal_predictions",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "point_error_recomputed",
+      "status": "PASS",
+      "detail": "{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "point_squared_error_recomputed",
+      "status": "PASS",
+      "detail": "{'n': 17760, 'max_abs_error': 6.252776074688882e-13, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "point_absolute_error_recomputed",
+      "status": "PASS",
+      "detail": "{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "gap_metrics:unique_keys",
+      "status": "PASS",
+      "detail": "3312"
+    },
+    {
+      "check": "gap_metrics_exact_complete_keys",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "gap_RMSE_independent",
+      "status": "PASS",
+      "detail": "{'n': 3312, 'max_abs_error': 2.6645352591003757e-15, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "gap_MAE_independent",
+      "status": "PASS",
+      "detail": "{'n': 3312, 'max_abs_error': 3.552713678800501e-15, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "summary_N_M_and_node_date_support",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "summary_SSE_independent_relative_tolerance",
+      "status": "PASS",
+      "detail": "rel_tol=1e-12, abs_tol=1e-10; only accumulated SSE"
+    },
+    {
+      "check": "summary_pooled_rmse_kmh",
+      "status": "PASS",
+      "detail": "{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "summary_pooled_mae_kmh",
+      "status": "PASS",
+      "detail": "{'n': 16, 'max_abs_error': 2.220446049250313e-16, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "summary_gap_rmse_median_kmh",
+      "status": "PASS",
+      "detail": "{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "summary_gap_rmse_q25_kmh",
+      "status": "PASS",
+      "detail": "{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "summary_gap_rmse_q75_kmh",
+      "status": "PASS",
+      "detail": "{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+    },
+    {
+      "check": "completion_counts_no_silent_dropping",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "failed_prediction_table_empty",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "candidate_support_summary_reconciliation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "build_checks_all_PASS",
+      "status": "PASS",
+      "detail": "69"
+    }
+  ]
+}

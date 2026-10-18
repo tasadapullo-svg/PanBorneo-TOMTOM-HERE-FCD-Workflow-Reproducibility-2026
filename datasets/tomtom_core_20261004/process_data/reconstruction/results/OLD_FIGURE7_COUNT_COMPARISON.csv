@@ -1,0 +1,5 @@
+﻿K,old_figure_n_as_handoff_claim,new_selected_gaps,difference,old_source,old_metric_status,interpretation
+1,300,300,0,"handoff section11.3; old figure claim, not a recovered execution",No audited old prediction table; RMSE/MAE not reused,Matching n does not prove identical protocol or samples
+4,200,300,100,"handoff section11.3; old figure claim, not a recovered execution",No audited old prediction table; RMSE/MAE not reused,Matching n does not prove identical protocol or samples
+12,80,211,131,"handoff section11.3; old figure claim, not a recovered execution",No audited old prediction table; RMSE/MAE not reused,Matching n does not prove identical protocol or samples
+24,17,17,0,"handoff section11.3; old figure claim, not a recovered execution",No audited old prediction table; RMSE/MAE not reused,Matching n does not prove identical protocol or samples

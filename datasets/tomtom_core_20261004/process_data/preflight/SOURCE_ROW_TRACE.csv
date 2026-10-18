@@ -1,0 +1,13 @@
+frozen_csv_row_number,node_id,source_file,source_row_number,source_time_values_exactly_preserved,is_delayed_anchor_diagnostic
+2,N001,tomtom_sanitized_2025-12-08.csv,755,True,False
+45466,N025,tomtom_sanitized_2025-12-20.csv,2999,True,False
+90808,N005,tomtom_sanitized_2025-12-31.csv,2502,True,True
+90811,N008,tomtom_sanitized_2025-12-31.csv,3312,True,True
+90820,N019,tomtom_sanitized_2025-12-31.csv,887,True,True
+90836,N040,tomtom_sanitized_2025-12-31.csv,1726,True,True
+90845,N050,tomtom_sanitized_2025-12-31.csv,1880,True,True
+90864,N019,tomtom_sanitized_2025-12-31.csv,2157,True,True
+90871,N029,tomtom_sanitized_2025-12-31.csv,2315,True,True
+90877,N037,tomtom_sanitized_2025-12-31.csv,2106,True,True
+90886,N048,tomtom_sanitized_2025-12-31.csv,340,True,True
+90930,N051,tomtom_sanitized_2025-12-31.csv,1169,True,False

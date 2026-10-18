@@ -1,0 +1,19 @@
+{
+  "run_id": "Manuscript_Execution_20261007_b06_001243Z",
+  "started_at_utc": "2026-10-07T00:15:25.235793+00:00",
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "script_sha256": "2cfca3866fdedf49ccacf976e50311777592fa6ad98d1524af2b3cc2d262b854",
+  "scope": "figure review and full deterministic forecast-input/reference admission metadata only",
+  "no_images_generated_or_modified": true,
+  "training_performed": false,
+  "manual_visual_review": "original attached raster reviewed; text and labels clear",
+  "QA_count": 123,
+  "failed_count": 0,
+  "additional_model_runtime_probe": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261007_b06_001243Z\\figure7a_review_forecast_admission\\EXISTING_MODEL_RUNTIME.json",
+  "runtime_probe_finalizer_sha256": "2e3d5f66cf8182ebb46840c76532a90303d2800ffede266f70cccd0f69e978c8",
+  "finalized_at_utc": "2026-10-07T00:19:44.816255+00:00"
+}

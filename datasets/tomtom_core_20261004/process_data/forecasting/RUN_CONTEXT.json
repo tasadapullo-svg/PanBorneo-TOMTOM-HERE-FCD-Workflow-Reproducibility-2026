@@ -1,0 +1,26 @@
+{
+  "started_at_utc": "2026-10-07T00:31:22.410625+00:00",
+  "finished_at_utc": "2026-10-07T00:31:30.134666+00:00",
+  "run_id": "Manuscript_Execution_20261007_b07_002757Z",
+  "python": "3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)]",
+  "executable": "D:\\Python\\python.exe",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "numpy": "2.2.1",
+  "pandas": "3.0.1",
+  "scipy": "1.15.1",
+  "sklearn": "1.6.1",
+  "script_sha256": "31b100f9686ee940aed7b3c2ce0ef336d216a0a22689c2b035aa3ba0d9efb994",
+  "blas_thread_limits": {
+    "OMP_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "NUMEXPR_NUM_THREADS": "1"
+  },
+  "candidate_models_fitted": 15,
+  "selected_models": 3,
+  "training_plus_validation_refits": 0,
+  "test_model_updates": 0,
+  "plots_generated": 0,
+  "QA_count": 205,
+  "failed_count": 0
+}

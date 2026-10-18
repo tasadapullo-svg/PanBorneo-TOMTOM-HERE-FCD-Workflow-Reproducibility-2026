@@ -1,0 +1,16 @@
+{
+  "status": "accepted_for_progress",
+  "size": [
+    4252,
+    2392
+  ],
+  "dpi": [
+    599.9988,
+    599.9988
+  ],
+  "image_sha256": "041eabe7fd3d7ba7b26cf2de64923a152f80bdd1f4340f37b95ba50393985950",
+  "manual_layout_review": "all 16 annotations, N=300/300/211/17, 17 gaps/15 nodes, axes, legend and panel label clear; no material overlaps or clipping observed",
+  "pixel_check_scope": "marker positions consistent with recomputed RMSE under inferred linear pixel calibration, tolerance 6 pixels; triangle geometry affects center; not an OCR or plotting-source audit",
+  "plotting_script_received": false,
+  "other_formats_received": false
+}

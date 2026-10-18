@@ -1,0 +1,17 @@
+﻿K,duration_h,method,source_rmse_kmh,received_label,N_gaps,node_count,annotation_check,basis
+1,0.25,Linear,3.5545745174352441,3.5499999999999998,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+1,0.25,LOCF,4.254801209614067,4.25,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+1,0.25,Train-TOD median,3.984344362627307,3.98,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+1,0.25,Spatial median,17.476460358627165,17.48,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+4,1,Linear,3.6643553321150506,3.6600000000000001,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+4,1,LOCF,4.0442345794146677,4.04,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+4,1,Train-TOD median,4.5328201302647484,4.5300000000000002,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+4,1,Spatial median,16.809471536408672,16.809999999999999,300,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+12,3,Linear,4.808812847907225,4.8099999999999996,211,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+12,3,LOCF,5.8932713928106768,5.8899999999999997,211,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+12,3,Train-TOD median,4.8793298105051317,4.8799999999999999,211,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+12,3,Spatial median,17.726474074004862,17.73,211,51,PASS,manual transcription from user raster; RMSE recalculated from point scores
+24,6,Linear,4.1397878130714503,4.1399999999999997,17,15,PASS,manual transcription from user raster; RMSE recalculated from point scores
+24,6,LOCF,4.5320211480391954,4.5300000000000002,17,15,PASS,manual transcription from user raster; RMSE recalculated from point scores
+24,6,Train-TOD median,3.8709260684558391,3.8700000000000001,17,15,PASS,manual transcription from user raster; RMSE recalculated from point scores
+24,6,Spatial median,22.927261365577227,22.93,17,15,PASS,manual transcription from user raster; RMSE recalculated from point scores
