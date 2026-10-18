@@ -1,0 +1,3 @@
+# Precipitation semantic clarification ERR BG 01
+
+The original frozen DATA_DICTIONARY.csv is preserved unchanged. Its mm/hour wording for precipitation_mm and rain_mm is superseded here by mm accumulated over the hour preceding timestamp_local. No value conversion is performed. precipitation_mm is total precipitation; rain_mm remains a distinct liquid-precipitation variable. Join the traffic interval [h, h+1 hour) to the weather endpoint h+1 hour. Missing endpoints remain missing. The full retained evidence audit is audit/SEMANTICS_AUDIT.md. The weather product is gridded and retrospective, with shared cells rather than roadside measurements.

@@ -1,0 +1,15 @@
+{
+  "check_count": 1000,
+  "failed_count": 0,
+  "verified_test_rows": 51375,
+  "implementation": "independent original-key feature/provenance replay, normal-equation coefficient comparison to sklearn SVD, all issued prediction replay and all published metric groups",
+  "normal_equations_tolerance": 1e-08,
+  "prediction_and_metric_replay_tolerance": 1e-10,
+  "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+  "executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "numpy": "2.3.5",
+  "pandas": "3.0.1",
+  "sklearn_imported": false,
+  "script_sha256": "6c7c5ce24f3485126fa89cb68323f7d8508d02bf747d3f0e37f75101bf55ea3a",
+  "finished_at_utc": "2026-10-07T00:34:17.285125+00:00"
+}

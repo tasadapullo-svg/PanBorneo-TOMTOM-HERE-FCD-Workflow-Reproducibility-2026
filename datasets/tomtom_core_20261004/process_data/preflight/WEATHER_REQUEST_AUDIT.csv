@@ -1,0 +1,8 @@
+batch_id,node_count,host,endpoint,timezone,models,precipitation_unit,cell_selection,precipitation_requested,rain_requested,download_timestamp_utc,evidence_role
+weather_batch_001,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_002,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_003,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_004,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_005,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_006,8,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive
+weather_batch_007,3,archive-api.open-meteo.com,/v1/archive,Asia/Kuching,ecmwf_ifs,mm,nearest,True,True,2026-07-14T04:05:51.159165+00:00,retained request parameters; not an executed HTTP response archive

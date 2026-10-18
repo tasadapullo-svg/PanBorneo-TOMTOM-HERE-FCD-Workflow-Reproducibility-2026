@@ -1,0 +1,251 @@
+source_file,kind,field_or_difference,rows,parsed_count,missing_or_invalid_count,minimum,maximum,negative_count,zero_count,q01,q50,q95,q99
+ALL,timestamp,pd_create_time_local,90929,90929,0,2025-12-08 13:15:00,2025-12-31 23:45:00,,,,,,
+ALL,timestamp,capture_time_local,90929,90929,0,2025-12-08 13:15:01,2025-12-31 23:51:12,,,,,,
+ALL,timestamp,flow_create_time_local,90929,90929,0,2025-12-08 13:15:01,2025-12-31 23:51:12,,,,,,
+ALL,timestamp,interval_timestamp_local,90929,90929,0,2025-12-08 13:15:00,2025-12-31 23:45:00,,,,,,
+ALL,difference_seconds,point_minus_slot_seconds,90929,90929,0,-1.0,417.0,144.0,46518.0,0.0,0.0,48.0,53.0
+ALL,difference_seconds,capture_minus_point_seconds,90929,90929,0,0.0,636.0,0.0,1019.0,0.0,97.0,187.0,201.0
+ALL,difference_seconds,capture_minus_slot_seconds,90929,90929,0,0.0,962.0,0.0,879.0,1.0,118.0,219.0,241.0
+ALL,difference_seconds,flow_minus_capture_seconds,90929,90929,0,0.0,0.0,0.0,90929.0,0.0,0.0,0.0,0.0
+ALL,difference_seconds,flow_minus_point_seconds,90929,90929,0,0.0,636.0,0.0,1019.0,0.0,97.0,187.0,201.0
+ALL,difference_seconds,flow_minus_slot_seconds,90929,90929,0,0.0,962.0,0.0,879.0,1.0,118.0,219.0,241.0
+tomtom_sanitized_2025-12-08.csv,timestamp,pd_create_time_local,1680,1680,0,2025-12-08 13:15:00,2025-12-08 23:45:00,,,,,,
+tomtom_sanitized_2025-12-08.csv,timestamp,capture_time_local,1680,1680,0,2025-12-08 13:15:01,2025-12-08 23:48:09,,,,,,
+tomtom_sanitized_2025-12-08.csv,timestamp,flow_create_time_local,1680,1680,0,2025-12-08 13:15:01,2025-12-08 23:48:09,,,,,,
+tomtom_sanitized_2025-12-08.csv,timestamp,interval_timestamp_local,1680,1680,0,2025-12-08 13:15:00,2025-12-08 23:45:00,,,,,,
+tomtom_sanitized_2025-12-08.csv,difference_seconds,point_minus_slot_seconds,1680,1680,0,-1.0,44.0,92.0,958.0,-1.0,0.0,42.0,44.0
+tomtom_sanitized_2025-12-08.csv,difference_seconds,capture_minus_point_seconds,1680,1680,0,0.0,203.0,0.0,13.0,1.0,96.5,185.0,196.21000000000004
+tomtom_sanitized_2025-12-08.csv,difference_seconds,capture_minus_slot_seconds,1680,1680,0,0.0,243.0,0.0,14.0,1.0,111.0,207.04999999999995,229.21000000000004
+tomtom_sanitized_2025-12-08.csv,difference_seconds,flow_minus_capture_seconds,1680,1680,0,0.0,0.0,0.0,1680.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-08.csv,difference_seconds,flow_minus_point_seconds,1680,1680,0,0.0,203.0,0.0,13.0,1.0,96.5,185.0,196.21000000000004
+tomtom_sanitized_2025-12-08.csv,difference_seconds,flow_minus_slot_seconds,1680,1680,0,0.0,243.0,0.0,14.0,1.0,111.0,207.04999999999995,229.21000000000004
+tomtom_sanitized_2025-12-09.csv,timestamp,pd_create_time_local,2394,2394,0,2025-12-09 00:00:38,2025-12-09 23:45:00,,,,,,
+tomtom_sanitized_2025-12-09.csv,timestamp,capture_time_local,2394,2394,0,2025-12-09 00:00:39,2025-12-09 23:48:09,,,,,,
+tomtom_sanitized_2025-12-09.csv,timestamp,flow_create_time_local,2394,2394,0,2025-12-09 00:00:39,2025-12-09 23:48:09,,,,,,
+tomtom_sanitized_2025-12-09.csv,timestamp,interval_timestamp_local,2394,2394,0,2025-12-09 00:00:00,2025-12-09 23:45:00,,,,,,
+tomtom_sanitized_2025-12-09.csv,difference_seconds,point_minus_slot_seconds,2394,2394,0,0.0,43.0,0.0,1638.0,0.0,0.0,40.0,43.0
+tomtom_sanitized_2025-12-09.csv,difference_seconds,capture_minus_point_seconds,2394,2394,0,0.0,205.0,0.0,30.0,0.0,95.0,183.0,193.07000000000016
+tomtom_sanitized_2025-12-09.csv,difference_seconds,capture_minus_slot_seconds,2394,2394,0,0.0,241.0,0.0,28.0,0.0,107.5,201.3499999999999,225.07000000000016
+tomtom_sanitized_2025-12-09.csv,difference_seconds,flow_minus_capture_seconds,2394,2394,0,0.0,0.0,0.0,2394.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-09.csv,difference_seconds,flow_minus_point_seconds,2394,2394,0,0.0,205.0,0.0,30.0,0.0,95.0,183.0,193.07000000000016
+tomtom_sanitized_2025-12-09.csv,difference_seconds,flow_minus_slot_seconds,2394,2394,0,0.0,241.0,0.0,28.0,0.0,107.5,201.3499999999999,225.07000000000016
+tomtom_sanitized_2025-12-10.csv,timestamp,pd_create_time_local,3066,3066,0,2025-12-10 00:00:36,2025-12-10 23:45:00,,,,,,
+tomtom_sanitized_2025-12-10.csv,timestamp,capture_time_local,3066,3066,0,2025-12-10 00:00:36,2025-12-10 23:48:13,,,,,,
+tomtom_sanitized_2025-12-10.csv,timestamp,flow_create_time_local,3066,3066,0,2025-12-10 00:00:36,2025-12-10 23:48:13,,,,,,
+tomtom_sanitized_2025-12-10.csv,timestamp,interval_timestamp_local,3066,3066,0,2025-12-10 00:00:00,2025-12-10 23:45:00,,,,,,
+tomtom_sanitized_2025-12-10.csv,difference_seconds,point_minus_slot_seconds,3066,3066,0,-1.0,42.0,52.0,1838.0,-1.0,0.0,40.0,42.0
+tomtom_sanitized_2025-12-10.csv,difference_seconds,capture_minus_point_seconds,3066,3066,0,0.0,206.0,0.0,26.0,1.0,96.5,185.0,196.0
+tomtom_sanitized_2025-12-10.csv,difference_seconds,capture_minus_slot_seconds,3066,3066,0,0.0,242.0,0.0,25.0,1.0,111.0,208.0,229.0
+tomtom_sanitized_2025-12-10.csv,difference_seconds,flow_minus_capture_seconds,3066,3066,0,0.0,0.0,0.0,3066.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-10.csv,difference_seconds,flow_minus_point_seconds,3066,3066,0,0.0,206.0,0.0,26.0,1.0,96.5,185.0,196.0
+tomtom_sanitized_2025-12-10.csv,difference_seconds,flow_minus_slot_seconds,3066,3066,0,0.0,242.0,0.0,25.0,1.0,111.0,208.0,229.0
+tomtom_sanitized_2025-12-11.csv,timestamp,pd_create_time_local,3612,3612,0,2025-12-11 00:00:36,2025-12-11 23:45:00,,,,,,
+tomtom_sanitized_2025-12-11.csv,timestamp,capture_time_local,3612,3612,0,2025-12-11 00:00:37,2025-12-11 23:48:12,,,,,,
+tomtom_sanitized_2025-12-11.csv,timestamp,flow_create_time_local,3612,3612,0,2025-12-11 00:00:37,2025-12-11 23:48:12,,,,,,
+tomtom_sanitized_2025-12-11.csv,timestamp,interval_timestamp_local,3612,3612,0,2025-12-11 00:00:00,2025-12-11 23:45:00,,,,,,
+tomtom_sanitized_2025-12-11.csv,difference_seconds,point_minus_slot_seconds,3612,3612,0,0.0,409.0,0.0,1764.0,0.0,35.0,41.0,409.0
+tomtom_sanitized_2025-12-11.csv,difference_seconds,capture_minus_point_seconds,3612,3612,0,0.0,211.0,0.0,32.0,1.0,97.0,184.0,194.88999999999987
+tomtom_sanitized_2025-12-11.csv,difference_seconds,capture_minus_slot_seconds,3612,3612,0,0.0,600.0,0.0,30.0,1.0,117.0,218.0,432.5599999999995
+tomtom_sanitized_2025-12-11.csv,difference_seconds,flow_minus_capture_seconds,3612,3612,0,0.0,0.0,0.0,3612.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-11.csv,difference_seconds,flow_minus_point_seconds,3612,3612,0,0.0,211.0,0.0,32.0,1.0,97.0,184.0,194.88999999999987
+tomtom_sanitized_2025-12-11.csv,difference_seconds,flow_minus_slot_seconds,3612,3612,0,0.0,600.0,0.0,30.0,1.0,117.0,218.0,432.5599999999995
+tomtom_sanitized_2025-12-12.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-12 00:00:39,2025-12-12 23:45:00,,,,,,
+tomtom_sanitized_2025-12-12.csv,timestamp,capture_time_local,4032,4032,0,2025-12-12 00:00:40,2025-12-12 23:48:17,,,,,,
+tomtom_sanitized_2025-12-12.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-12 00:00:40,2025-12-12 23:48:17,,,,,,
+tomtom_sanitized_2025-12-12.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-12 00:00:00,2025-12-12 23:45:00,,,,,,
+tomtom_sanitized_2025-12-12.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,42.0,0.0,2016.0,0.0,17.5,39.0,42.0
+tomtom_sanitized_2025-12-12.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,202.0,0.0,40.0,1.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-12.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,235.0,0.0,32.0,1.0,114.0,210.0,226.0
+tomtom_sanitized_2025-12-12.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-12.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,202.0,0.0,40.0,1.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-12.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,235.0,0.0,32.0,1.0,114.0,210.0,226.0
+tomtom_sanitized_2025-12-13.csv,timestamp,pd_create_time_local,3990,3990,0,2025-12-13 00:00:37,2025-12-13 23:45:00,,,,,,
+tomtom_sanitized_2025-12-13.csv,timestamp,capture_time_local,3990,3990,0,2025-12-13 00:00:37,2025-12-13 23:48:13,,,,,,
+tomtom_sanitized_2025-12-13.csv,timestamp,flow_create_time_local,3990,3990,0,2025-12-13 00:00:37,2025-12-13 23:48:13,,,,,,
+tomtom_sanitized_2025-12-13.csv,timestamp,interval_timestamp_local,3990,3990,0,2025-12-13 00:00:00,2025-12-13 23:45:00,,,,,,
+tomtom_sanitized_2025-12-13.csv,difference_seconds,point_minus_slot_seconds,3990,3990,0,0.0,41.0,0.0,1974.0,0.0,34.0,40.0,41.0
+tomtom_sanitized_2025-12-13.csv,difference_seconds,capture_minus_point_seconds,3990,3990,0,0.0,204.0,0.0,45.0,0.0,95.0,183.0,192.0
+tomtom_sanitized_2025-12-13.csv,difference_seconds,capture_minus_slot_seconds,3990,3990,0,0.0,235.0,0.0,39.0,1.0,115.0,210.0,227.0
+tomtom_sanitized_2025-12-13.csv,difference_seconds,flow_minus_capture_seconds,3990,3990,0,0.0,0.0,0.0,3990.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-13.csv,difference_seconds,flow_minus_point_seconds,3990,3990,0,0.0,204.0,0.0,45.0,0.0,95.0,183.0,192.0
+tomtom_sanitized_2025-12-13.csv,difference_seconds,flow_minus_slot_seconds,3990,3990,0,0.0,235.0,0.0,39.0,1.0,115.0,210.0,227.0
+tomtom_sanitized_2025-12-14.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-14 00:00:44,2025-12-14 23:45:00,,,,,,
+tomtom_sanitized_2025-12-14.csv,timestamp,capture_time_local,4032,4032,0,2025-12-14 00:00:44,2025-12-14 23:48:24,,,,,,
+tomtom_sanitized_2025-12-14.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-14 00:00:44,2025-12-14 23:48:24,,,,,,
+tomtom_sanitized_2025-12-14.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-14 00:00:00,2025-12-14 23:45:00,,,,,,
+tomtom_sanitized_2025-12-14.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,51.0,0.0,2016.0,0.0,18.0,41.0,51.0
+tomtom_sanitized_2025-12-14.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,204.0,0.0,45.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-14.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,248.0,0.0,35.0,1.0,116.0,213.0,230.0
+tomtom_sanitized_2025-12-14.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-14.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,204.0,0.0,45.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-14.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,248.0,0.0,35.0,1.0,116.0,213.0,230.0
+tomtom_sanitized_2025-12-15.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-15 00:00:40,2025-12-15 23:45:00,,,,,,
+tomtom_sanitized_2025-12-15.csv,timestamp,capture_time_local,4032,4032,0,2025-12-15 00:00:42,2025-12-15 23:48:16,,,,,,
+tomtom_sanitized_2025-12-15.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-15 00:00:42,2025-12-15 23:48:16,,,,,,
+tomtom_sanitized_2025-12-15.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-15 00:00:00,2025-12-15 23:45:00,,,,,,
+tomtom_sanitized_2025-12-15.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,49.0,0.0,2016.0,0.0,18.0,43.0,49.0
+tomtom_sanitized_2025-12-15.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,220.0,0.0,32.0,1.0,99.0,190.0,203.0
+tomtom_sanitized_2025-12-15.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,263.0,0.0,26.0,1.0,119.0,220.0,238.69000000000005
+tomtom_sanitized_2025-12-15.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-15.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,220.0,0.0,32.0,1.0,99.0,190.0,203.0
+tomtom_sanitized_2025-12-15.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,263.0,0.0,26.0,1.0,119.0,220.0,238.69000000000005
+tomtom_sanitized_2025-12-16.csv,timestamp,pd_create_time_local,4022,4022,0,2025-12-16 00:00:42,2025-12-16 23:45:00,,,,,,
+tomtom_sanitized_2025-12-16.csv,timestamp,capture_time_local,4022,4022,0,2025-12-16 00:00:43,2025-12-16 23:48:20,,,,,,
+tomtom_sanitized_2025-12-16.csv,timestamp,flow_create_time_local,4022,4022,0,2025-12-16 00:00:43,2025-12-16 23:48:20,,,,,,
+tomtom_sanitized_2025-12-16.csv,timestamp,interval_timestamp_local,4022,4022,0,2025-12-16 00:00:00,2025-12-16 23:45:00,,,,,,
+tomtom_sanitized_2025-12-16.csv,difference_seconds,point_minus_slot_seconds,4022,4022,0,0.0,50.0,0.0,2016.0,0.0,0.0,44.0,49.0
+tomtom_sanitized_2025-12-16.csv,difference_seconds,capture_minus_point_seconds,4022,4022,0,0.0,231.0,0.0,31.0,1.0,99.0,191.0,206.78999999999996
+tomtom_sanitized_2025-12-16.csv,difference_seconds,capture_minus_slot_seconds,4022,4022,0,0.0,281.0,0.0,29.0,1.0,119.0,221.0,242.0
+tomtom_sanitized_2025-12-16.csv,difference_seconds,flow_minus_capture_seconds,4022,4022,0,0.0,0.0,0.0,4022.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-16.csv,difference_seconds,flow_minus_point_seconds,4022,4022,0,0.0,231.0,0.0,31.0,1.0,99.0,191.0,206.78999999999996
+tomtom_sanitized_2025-12-16.csv,difference_seconds,flow_minus_slot_seconds,4022,4022,0,0.0,281.0,0.0,29.0,1.0,119.0,221.0,242.0
+tomtom_sanitized_2025-12-17.csv,timestamp,pd_create_time_local,3990,3990,0,2025-12-17 00:00:42,2025-12-17 23:45:00,,,,,,
+tomtom_sanitized_2025-12-17.csv,timestamp,capture_time_local,3990,3990,0,2025-12-17 00:00:43,2025-12-17 23:48:50,,,,,,
+tomtom_sanitized_2025-12-17.csv,timestamp,flow_create_time_local,3990,3990,0,2025-12-17 00:00:43,2025-12-17 23:48:50,,,,,,
+tomtom_sanitized_2025-12-17.csv,timestamp,interval_timestamp_local,3990,3990,0,2025-12-17 00:00:00,2025-12-17 23:45:00,,,,,,
+tomtom_sanitized_2025-12-17.csv,difference_seconds,point_minus_slot_seconds,3990,3990,0,0.0,54.0,0.0,2016.0,0.0,0.0,49.0,54.0
+tomtom_sanitized_2025-12-17.csv,difference_seconds,capture_minus_point_seconds,3990,3990,0,0.0,241.0,0.0,35.0,1.0,101.0,195.0,215.0
+tomtom_sanitized_2025-12-17.csv,difference_seconds,capture_minus_slot_seconds,3990,3990,0,0.0,290.0,0.0,27.0,1.0,122.0,227.0,257.0
+tomtom_sanitized_2025-12-17.csv,difference_seconds,flow_minus_capture_seconds,3990,3990,0,0.0,0.0,0.0,3990.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-17.csv,difference_seconds,flow_minus_point_seconds,3990,3990,0,0.0,241.0,0.0,35.0,1.0,101.0,195.0,215.0
+tomtom_sanitized_2025-12-17.csv,difference_seconds,flow_minus_slot_seconds,3990,3990,0,0.0,290.0,0.0,27.0,1.0,122.0,227.0,257.0
+tomtom_sanitized_2025-12-18.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-18 00:00:46,2025-12-18 23:45:00,,,,,,
+tomtom_sanitized_2025-12-18.csv,timestamp,capture_time_local,4032,4032,0,2025-12-18 00:00:47,2025-12-18 23:48:11,,,,,,
+tomtom_sanitized_2025-12-18.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-18 00:00:47,2025-12-18 23:48:11,,,,,,
+tomtom_sanitized_2025-12-18.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-18 00:00:00,2025-12-18 23:45:00,,,,,,
+tomtom_sanitized_2025-12-18.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,55.0,0.0,2100.0,0.0,0.0,50.0,55.0
+tomtom_sanitized_2025-12-18.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,251.0,0.0,36.0,1.0,103.0,202.0,229.0
+tomtom_sanitized_2025-12-18.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,298.0,0.0,33.0,1.0,123.0,233.0,270.0
+tomtom_sanitized_2025-12-18.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-18.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,251.0,0.0,36.0,1.0,103.0,202.0,229.0
+tomtom_sanitized_2025-12-18.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,298.0,0.0,33.0,1.0,123.0,233.0,270.0
+tomtom_sanitized_2025-12-19.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-19 00:00:41,2025-12-19 23:45:00,,,,,,
+tomtom_sanitized_2025-12-19.csv,timestamp,capture_time_local,4032,4032,0,2025-12-19 00:00:42,2025-12-19 23:48:12,,,,,,
+tomtom_sanitized_2025-12-19.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-19 00:00:42,2025-12-19 23:48:12,,,,,,
+tomtom_sanitized_2025-12-19.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-19 00:00:00,2025-12-19 23:45:00,,,,,,
+tomtom_sanitized_2025-12-19.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,47.0,0.0,2100.0,0.0,0.0,42.0,47.0
+tomtom_sanitized_2025-12-19.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,202.0,0.0,51.0,0.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-19.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,242.0,0.0,44.0,0.0,114.0,212.0,229.0
+tomtom_sanitized_2025-12-19.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-19.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,202.0,0.0,51.0,0.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-19.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,242.0,0.0,44.0,0.0,114.0,212.0,229.0
+tomtom_sanitized_2025-12-20.csv,timestamp,pd_create_time_local,3999,3999,0,2025-12-20 00:00:37,2025-12-20 23:45:00,,,,,,
+tomtom_sanitized_2025-12-20.csv,timestamp,capture_time_local,3999,3999,0,2025-12-20 00:00:38,2025-12-20 23:48:08,,,,,,
+tomtom_sanitized_2025-12-20.csv,timestamp,flow_create_time_local,3999,3999,0,2025-12-20 00:00:38,2025-12-20 23:48:08,,,,,,
+tomtom_sanitized_2025-12-20.csv,timestamp,interval_timestamp_local,3999,3999,0,2025-12-20 00:00:00,2025-12-20 23:45:00,,,,,,
+tomtom_sanitized_2025-12-20.csv,difference_seconds,point_minus_slot_seconds,3999,3999,0,0.0,49.0,0.0,2016.0,0.0,0.0,41.0,49.0
+tomtom_sanitized_2025-12-20.csv,difference_seconds,capture_minus_point_seconds,3999,3999,0,0.0,197.0,0.0,57.0,0.0,94.0,181.0,190.0
+tomtom_sanitized_2025-12-20.csv,difference_seconds,capture_minus_slot_seconds,3999,3999,0,0.0,238.0,0.0,47.0,0.0,114.0,211.0,228.0
+tomtom_sanitized_2025-12-20.csv,difference_seconds,flow_minus_capture_seconds,3999,3999,0,0.0,0.0,0.0,3999.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-20.csv,difference_seconds,flow_minus_point_seconds,3999,3999,0,0.0,197.0,0.0,57.0,0.0,94.0,181.0,190.0
+tomtom_sanitized_2025-12-20.csv,difference_seconds,flow_minus_slot_seconds,3999,3999,0,0.0,238.0,0.0,47.0,0.0,114.0,211.0,228.0
+tomtom_sanitized_2025-12-21.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-21 00:00:38,2025-12-21 23:45:00,,,,,,
+tomtom_sanitized_2025-12-21.csv,timestamp,capture_time_local,4032,4032,0,2025-12-21 00:00:39,2025-12-21 23:48:14,,,,,,
+tomtom_sanitized_2025-12-21.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-21 00:00:39,2025-12-21 23:48:14,,,,,,
+tomtom_sanitized_2025-12-21.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-21 00:00:00,2025-12-21 23:45:00,,,,,,
+tomtom_sanitized_2025-12-21.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,43.0,0.0,2016.0,0.0,19.0,42.0,43.0
+tomtom_sanitized_2025-12-21.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,204.0,0.0,53.0,0.0,95.0,181.0,191.0
+tomtom_sanitized_2025-12-21.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,115.0,212.0,228.0
+tomtom_sanitized_2025-12-21.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-21.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,204.0,0.0,53.0,0.0,95.0,181.0,191.0
+tomtom_sanitized_2025-12-21.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,115.0,212.0,228.0
+tomtom_sanitized_2025-12-22.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-22 00:00:38,2025-12-22 23:45:00,,,,,,
+tomtom_sanitized_2025-12-22.csv,timestamp,capture_time_local,4032,4032,0,2025-12-22 00:00:39,2025-12-22 23:48:10,,,,,,
+tomtom_sanitized_2025-12-22.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-22 00:00:39,2025-12-22 23:48:10,,,,,,
+tomtom_sanitized_2025-12-22.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-22 00:00:00,2025-12-22 23:45:00,,,,,,
+tomtom_sanitized_2025-12-22.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,69.0,0.0,2016.0,0.0,19.0,45.0,69.0
+tomtom_sanitized_2025-12-22.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,197.0,0.0,52.0,0.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-22.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,261.0,0.0,46.0,0.0,116.0,215.0,231.0
+tomtom_sanitized_2025-12-22.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-22.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,197.0,0.0,52.0,0.0,95.0,182.0,191.0
+tomtom_sanitized_2025-12-22.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,261.0,0.0,46.0,0.0,116.0,215.0,231.0
+tomtom_sanitized_2025-12-23.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-23 00:00:42,2025-12-23 23:45:00,,,,,,
+tomtom_sanitized_2025-12-23.csv,timestamp,capture_time_local,4032,4032,0,2025-12-23 00:00:43,2025-12-23 23:48:10,,,,,,
+tomtom_sanitized_2025-12-23.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-23 00:00:43,2025-12-23 23:48:10,,,,,,
+tomtom_sanitized_2025-12-23.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-23 00:00:00,2025-12-23 23:45:00,,,,,,
+tomtom_sanitized_2025-12-23.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,47.0,0.0,2016.0,0.0,19.5,46.0,47.0
+tomtom_sanitized_2025-12-23.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,200.0,0.0,56.0,0.0,96.0,183.0,192.0
+tomtom_sanitized_2025-12-23.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,47.0,0.0,117.0,216.0,233.0
+tomtom_sanitized_2025-12-23.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-23.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,200.0,0.0,56.0,0.0,96.0,183.0,192.0
+tomtom_sanitized_2025-12-23.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,47.0,0.0,117.0,216.0,233.0
+tomtom_sanitized_2025-12-24.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-24 00:00:45,2025-12-24 23:45:00,,,,,,
+tomtom_sanitized_2025-12-24.csv,timestamp,capture_time_local,4032,4032,0,2025-12-24 00:00:45,2025-12-24 23:48:03,,,,,,
+tomtom_sanitized_2025-12-24.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-24 00:00:45,2025-12-24 23:48:03,,,,,,
+tomtom_sanitized_2025-12-24.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-24 00:00:00,2025-12-24 23:45:00,,,,,,
+tomtom_sanitized_2025-12-24.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,49.0,0.0,2016.0,0.0,21.5,47.0,49.0
+tomtom_sanitized_2025-12-24.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,203.0,0.0,58.0,0.0,96.0,184.0,192.0
+tomtom_sanitized_2025-12-24.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,248.0,0.0,48.0,0.0,118.0,219.44999999999982,236.0
+tomtom_sanitized_2025-12-24.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-24.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,203.0,0.0,58.0,0.0,96.0,184.0,192.0
+tomtom_sanitized_2025-12-24.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,248.0,0.0,48.0,0.0,118.0,219.44999999999982,236.0
+tomtom_sanitized_2025-12-25.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-25 00:00:43,2025-12-25 23:45:00,,,,,,
+tomtom_sanitized_2025-12-25.csv,timestamp,capture_time_local,4032,4032,0,2025-12-25 00:00:44,2025-12-25 23:48:19,,,,,,
+tomtom_sanitized_2025-12-25.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-25 00:00:44,2025-12-25 23:48:19,,,,,,
+tomtom_sanitized_2025-12-25.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-25 00:00:00,2025-12-25 23:45:00,,,,,,
+tomtom_sanitized_2025-12-25.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,53.0,0.0,2016.0,0.0,21.0,46.0,53.0
+tomtom_sanitized_2025-12-25.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,199.0,0.0,51.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-25.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,119.0,219.0,234.0
+tomtom_sanitized_2025-12-25.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-25.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,199.0,0.0,51.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-25.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,119.0,219.0,234.0
+tomtom_sanitized_2025-12-26.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-26 00:00:45,2025-12-26 23:45:00,,,,,,
+tomtom_sanitized_2025-12-26.csv,timestamp,capture_time_local,4032,4032,0,2025-12-26 00:00:45,2025-12-26 23:48:13,,,,,,
+tomtom_sanitized_2025-12-26.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-26 00:00:45,2025-12-26 23:48:13,,,,,,
+tomtom_sanitized_2025-12-26.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-26 00:00:00,2025-12-26 23:45:00,,,,,,
+tomtom_sanitized_2025-12-26.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,49.0,0.0,2016.0,0.0,21.0,47.0,49.0
+tomtom_sanitized_2025-12-26.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,201.0,0.0,56.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-26.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,118.5,219.0,235.0
+tomtom_sanitized_2025-12-26.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-26.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,201.0,0.0,56.0,0.0,96.0,184.0,193.0
+tomtom_sanitized_2025-12-26.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,246.0,0.0,48.0,0.0,118.5,219.0,235.0
+tomtom_sanitized_2025-12-27.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-27 00:00:45,2025-12-27 23:45:00,,,,,,
+tomtom_sanitized_2025-12-27.csv,timestamp,capture_time_local,4032,4032,0,2025-12-27 00:00:46,2025-12-27 23:48:16,,,,,,
+tomtom_sanitized_2025-12-27.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-27 00:00:46,2025-12-27 23:48:16,,,,,,
+tomtom_sanitized_2025-12-27.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-27 00:00:00,2025-12-27 23:45:00,,,,,,
+tomtom_sanitized_2025-12-27.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,51.0,0.0,2016.0,0.0,21.0,47.0,51.0
+tomtom_sanitized_2025-12-27.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,201.0,0.0,59.0,0.0,97.0,185.0,194.0
+tomtom_sanitized_2025-12-27.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,247.0,0.0,48.0,0.0,119.0,221.0,237.0
+tomtom_sanitized_2025-12-27.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-27.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,201.0,0.0,59.0,0.0,97.0,185.0,194.0
+tomtom_sanitized_2025-12-27.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,247.0,0.0,48.0,0.0,119.0,221.0,237.0
+tomtom_sanitized_2025-12-28.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-28 00:00:45,2025-12-28 23:45:00,,,,,,
+tomtom_sanitized_2025-12-28.csv,timestamp,capture_time_local,4032,4032,0,2025-12-28 00:00:45,2025-12-28 23:48:15,,,,,,
+tomtom_sanitized_2025-12-28.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-28 00:00:45,2025-12-28 23:48:15,,,,,,
+tomtom_sanitized_2025-12-28.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-28 00:00:00,2025-12-28 23:45:00,,,,,,
+tomtom_sanitized_2025-12-28.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,49.0,0.0,2016.0,0.0,21.5,47.0,49.0
+tomtom_sanitized_2025-12-28.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,210.0,0.0,51.0,0.0,96.0,185.0,194.0
+tomtom_sanitized_2025-12-28.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,249.0,0.0,44.0,0.0,119.0,220.0,236.0
+tomtom_sanitized_2025-12-28.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-28.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,210.0,0.0,51.0,0.0,96.0,185.0,194.0
+tomtom_sanitized_2025-12-28.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,249.0,0.0,44.0,0.0,119.0,220.0,236.0
+tomtom_sanitized_2025-12-29.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-29 00:00:50,2025-12-29 23:45:00,,,,,,
+tomtom_sanitized_2025-12-29.csv,timestamp,capture_time_local,4032,4032,0,2025-12-29 00:00:51,2025-12-29 23:48:30,,,,,,
+tomtom_sanitized_2025-12-29.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-29 00:00:51,2025-12-29 23:48:30,,,,,,
+tomtom_sanitized_2025-12-29.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-29 00:00:00,2025-12-29 23:45:00,,,,,,
+tomtom_sanitized_2025-12-29.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,56.0,0.0,2058.0,0.0,0.0,51.0,55.0
+tomtom_sanitized_2025-12-29.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,232.0,0.0,36.0,1.0,100.0,192.0,206.0
+tomtom_sanitized_2025-12-29.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,283.0,0.0,30.0,1.0,123.0,229.0,248.0
+tomtom_sanitized_2025-12-29.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-29.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,232.0,0.0,36.0,1.0,100.0,192.0,206.0
+tomtom_sanitized_2025-12-29.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,283.0,0.0,30.0,1.0,123.0,229.0,248.0
+tomtom_sanitized_2025-12-30.csv,timestamp,pd_create_time_local,4032,4032,0,2025-12-30 00:00:52,2025-12-30 23:45:00,,,,,,
+tomtom_sanitized_2025-12-30.csv,timestamp,capture_time_local,4032,4032,0,2025-12-30 00:00:53,2025-12-30 23:48:25,,,,,,
+tomtom_sanitized_2025-12-30.csv,timestamp,flow_create_time_local,4032,4032,0,2025-12-30 00:00:53,2025-12-30 23:48:25,,,,,,
+tomtom_sanitized_2025-12-30.csv,timestamp,interval_timestamp_local,4032,4032,0,2025-12-30 00:00:00,2025-12-30 23:45:00,,,,,,
+tomtom_sanitized_2025-12-30.csv,difference_seconds,point_minus_slot_seconds,4032,4032,0,0.0,63.0,0.0,2016.0,0.0,22.5,55.0,63.0
+tomtom_sanitized_2025-12-30.csv,difference_seconds,capture_minus_point_seconds,4032,4032,0,0.0,228.0,0.0,38.0,1.0,102.0,195.0,209.69000000000005
+tomtom_sanitized_2025-12-30.csv,difference_seconds,capture_minus_slot_seconds,4032,4032,0,0.0,285.0,0.0,32.0,1.0,127.0,235.0,257.0
+tomtom_sanitized_2025-12-30.csv,difference_seconds,flow_minus_capture_seconds,4032,4032,0,0.0,0.0,0.0,4032.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-30.csv,difference_seconds,flow_minus_point_seconds,4032,4032,0,0.0,228.0,0.0,38.0,1.0,102.0,195.0,209.69000000000005
+tomtom_sanitized_2025-12-30.csv,difference_seconds,flow_minus_slot_seconds,4032,4032,0,0.0,285.0,0.0,32.0,1.0,127.0,235.0,257.0
+tomtom_sanitized_2025-12-31.csv,timestamp,pd_create_time_local,3696,3696,0,2025-12-31 00:00:49,2025-12-31 23:45:00,,,,,,
+tomtom_sanitized_2025-12-31.csv,timestamp,capture_time_local,3696,3696,0,2025-12-31 00:00:51,2025-12-31 23:51:12,,,,,,
+tomtom_sanitized_2025-12-31.csv,timestamp,flow_create_time_local,3696,3696,0,2025-12-31 00:00:51,2025-12-31 23:51:12,,,,,,
+tomtom_sanitized_2025-12-31.csv,timestamp,interval_timestamp_local,3696,3696,0,2025-12-31 00:00:00,2025-12-31 23:45:00,,,,,,
+tomtom_sanitized_2025-12-31.csv,difference_seconds,point_minus_slot_seconds,3696,3696,0,0.0,417.0,0.0,1848.0,0.0,22.0,54.0,415.0
+tomtom_sanitized_2025-12-31.csv,difference_seconds,capture_minus_point_seconds,3696,3696,0,0.0,636.0,0.0,36.0,1.0,104.0,201.0,427.10000000000036
+tomtom_sanitized_2025-12-31.csv,difference_seconds,capture_minus_slot_seconds,3696,3696,0,0.0,962.0,0.0,31.0,1.0,129.0,247.25,716.0500000000002
+tomtom_sanitized_2025-12-31.csv,difference_seconds,flow_minus_capture_seconds,3696,3696,0,0.0,0.0,0.0,3696.0,0.0,0.0,0.0,0.0
+tomtom_sanitized_2025-12-31.csv,difference_seconds,flow_minus_point_seconds,3696,3696,0,0.0,636.0,0.0,36.0,1.0,104.0,201.0,427.10000000000036
+tomtom_sanitized_2025-12-31.csv,difference_seconds,flow_minus_slot_seconds,3696,3696,0,0.0,962.0,0.0,31.0,1.0,129.0,247.25,716.0500000000002

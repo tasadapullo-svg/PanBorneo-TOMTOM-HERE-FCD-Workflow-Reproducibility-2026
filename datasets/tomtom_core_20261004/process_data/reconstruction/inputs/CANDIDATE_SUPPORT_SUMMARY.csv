@@ -1,0 +1,5 @@
+﻿K,duration_h,initial_test_start_positions,boundary_qualified,eligible_candidates,excluded_candidates,maximum_nonoverlap_capacity,selected_gaps,sampler_overlap_rejected,cap_not_visited,selected_nodes,selected_start_dates,selected_context_dates,cross_midnight_gaps
+1,0.25,19584,19482,10541,9043,4263,300,8,10233,51,4,4,5
+4,1,19584,19329,5722,13862,1498,300,25,5397,51,4,4,15
+12,3,19584,18921,1045,18539,217,211,834,0,51,4,4,22
+24,6,19584,18309,85,19499,17,17,68,0,15,4,4,4

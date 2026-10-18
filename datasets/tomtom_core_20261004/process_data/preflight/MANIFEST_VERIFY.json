@@ -1,0 +1,14 @@
+{
+  "checked_at_utc": "2026-10-06T05:59:09.146766+00:00",
+  "payload_files": 21,
+  "payload_errors": [],
+  "output_manifest_sha256": "30e5abc494d6a3157843bf25899db201a677777c394e658e88d58b3e2fb9ed89",
+  "sha_manifest_sha256": "182f99ca4f4a5d84657fd3186dc2a8f977d4d1f14c9f35bbdcfe93dfc4cfd1d5",
+  "self_inclusion": false,
+  "exclusions": [
+    "MANIFEST_VERIFY.json",
+    "OUTPUT_MANIFEST.csv",
+    "SHA256_MANIFEST.csv"
+  ],
+  "status": "PASS"
+}

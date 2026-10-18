@@ -1,0 +1,4 @@
+partition,slot_start_inclusive,slot_end_exclusive,existing_frozen_rows,capture_unknown,capture_at_or_after_partition_cutoff,not_available_at_own_slot_plus15,scope
+train,2025-12-08,2025-12-24,59009,0,0,0,row timestamp diagnostic only; not a benchmark sample set
+validation,2025-12-24,2025-12-28,16128,0,0,0,row timestamp diagnostic only; not a benchmark sample set
+test,2025-12-28,2026-01-01,15792,0,0,9,row timestamp diagnostic only; not a benchmark sample set

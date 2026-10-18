@@ -1,3 +1,9 @@
+> **Additional 51-query TomTom version:** The 8–31 December 2025 frozen core,
+> process tables, reconstruction/forecast outputs, figure source data, existing
+> figures and source-code index are in
+> [datasets/tomtom_core_20261004/](datasets/tomtom_core_20261004/README.md).
+> This version is separate from the 42-point TomTom–HERE package described below.
+
 # PLOS ONE revised reproducibility package
 
 This repository supports the revised PLOS ONE manuscript:

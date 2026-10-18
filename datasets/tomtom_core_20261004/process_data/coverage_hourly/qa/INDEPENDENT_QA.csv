@@ -1,0 +1,94 @@
+﻿check,status,detail
+fixed_protocol,PASS,
+inputs_remain_locked,PASS,16
+native_unique_positions,PASS,
+every_raw_membership_provenance,PASS,
+membership_hour_uses_normalized_slot,PASS,
+interval_counts,PASS,
+interval_percentages,PASS,"{'values': 2304, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+daily_counts,PASS,
+daily_coverage_pct,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+per_node_coverage_counts,PASS,
+node_missing_pct,PASS,"{'values': 51, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+maximal_missing_runs_exact,PASS,"{'episodes': 16447, 'slots': 26575}"
+episode_boundary_flags,PASS,
+missing_duration,PASS,"{'values': 16447, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+missing_duration_bin_reconciliation,PASS,
+node_hour:unique_keys,PASS,29376
+complete_node_hour_grid,PASS,
+node_hour_counts,PASS,
+node_hour_observed_means,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+node_hour_sums,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+node_hour_primary_status,PASS,
+node_hour_qualification_min2,PASS,
+node_hour_mean_min2,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+node_hour_qualification_min3,PASS,
+node_hour_mean_min3,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+node_hour_qualification_min4,PASS,
+node_hour_mean_min4,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+weather:unique_keys,PASS,29376
+endpoint_join:unique_keys,PASS,29376
+endpoint_join_full_grid,PASS,
+endpoint_semantics_no_time_shift,PASS,
+rain_separate_field_preserved,PASS,
+precipitation_original_no_zero_fill,PASS,"{'values': 29376, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+unmatched_exact_tail,PASS,
+overall_min2:unique_keys,PASS,576
+overall_min2_full_hours,PASS,
+overall_min2_exact_node_set,PASS,
+overall_min2_support_flags,PASS,
+overall_min2_membership_and_match_counts,PASS,
+overall_min2_exact_precipitation_bins,PASS,
+overall_min2_equal_node_speed,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 2.842170943040401e-14, 'tolerance': 1e-10}"
+overall_min2_same_set_precipitation,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+overall_min3:unique_keys,PASS,576
+overall_min3_full_hours,PASS,
+overall_min3_exact_node_set,PASS,
+overall_min3_support_flags,PASS,
+overall_min3_membership_and_match_counts,PASS,
+overall_min3_exact_precipitation_bins,PASS,
+overall_min3_equal_node_speed,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+overall_min3_same_set_precipitation,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+overall_min4:unique_keys,PASS,576
+overall_min4_full_hours,PASS,
+overall_min4_exact_node_set,PASS,
+overall_min4_support_flags,PASS,
+overall_min4_membership_and_match_counts,PASS,
+overall_min4_exact_precipitation_bins,PASS,
+overall_min4_equal_node_speed,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+overall_min4_same_set_precipitation,PASS,"{'values': 576, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+diurnal_clock_dates,PASS,
+diurnal_mean_speed_kmh,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+diurnal_q10_speed_kmh,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+diurnal_q90_speed_kmh,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+node_clock_dates,PASS,
+node_clock_sample_sd,PASS,"{'values': 1224, 'missing_mismatches': 0, 'max_abs_error': 6.217248937900877e-15, 'tolerance': 1e-10}"
+node_clock_means,PASS,"{'values': 1224, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+balanced_dates_same_primary_support,PASS,
+balanced_node_clock_means,PASS,"{'values': 1224, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+balanced_curve_fixed51,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+precipitation_samples_exact,PASS,
+precipitation_four_groups,PASS,
+precipitation_group_counts_and_dates,PASS,
+group_mean_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 2.842170943040401e-14, 'tolerance': 1e-10}"
+group_median_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+group_q25_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+group_q75_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+group_iqr_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+group_sample_sd_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.7763568394002505e-15, 'tolerance': 1e-10}"
+group_min_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+group_max_speed_kmh,PASS,"{'values': 4, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+common_hour_support_exact,PASS,
+common_min2_min3_difference,PASS,"{'values': 521, 'missing_mismatches': 0, 'max_abs_error': 4.263256414560601e-14, 'tolerance': 1e-10}"
+common_extra_node_ids,PASS,
+weight_definition_pooled_original_memberships,PASS,"{'values': 521, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+weight_definition_absolute_difference,PASS,"{'values': 521, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+min2_diurnal_date_counts,PASS,
+min2_diurnal_means,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+min2_diurnal_q10_speed_kmh,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+min2_diurnal_q90_speed_kmh,PASS,"{'values': 24, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+sensitivity_own_and_common_support_counts,PASS,
+sensitivity_own_and_common_support_means,PASS,"{'values': 5, 'missing_mismatches': 0, 'max_abs_error': 1.4210854715202004e-14, 'tolerance': 1e-10}"
+summary_scope_counts,PASS,
+summary_overall_mean,PASS,"{'values': 1, 'missing_mismatches': 0, 'max_abs_error': 0.0, 'tolerance': 1e-10}"
+build_checks_all_pass,PASS,71

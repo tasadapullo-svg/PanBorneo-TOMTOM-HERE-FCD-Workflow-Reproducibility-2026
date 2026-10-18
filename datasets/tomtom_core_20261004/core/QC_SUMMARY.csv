@@ -1,0 +1,31 @@
+metric,value,unit,status,evidence
+freeze_id,TOMTOM_CORE_20261004,identifier,PASS,fixed build identifier
+source_daily_files,24,files,PASS,source manifest
+source_rows,90930,rows,PASS,direct CSV recount
+frozen_rows,90929,rows,PASS,deduplicated final table
+duplicate_node_interval_keys_after_nearest_rounding,1,keys,PASS,duplicate log
+removed_duplicate_rows,1,rows,PASS,duplicate log
+frozen_duplicate_keys,0,keys,PASS,direct final-table check
+unique_master_nodes,51,nodes,PASS,node master
+typical_batch_target,42,records per scheduled batch,PASS,historical capture batches
+observed_calendar_intervals,2166,15-min intervals,PASS,coverage table
+expected_calendar_intervals,2304,15-min intervals,PASS,24 days x 96 intervals
+missing_calendar_intervals,138,15-min intervals,WARN,coverage table
+coverage_vs_42_record_batch_target,93.96598,percent,PASS,final rows divided by 42 x 2304
+coverage_vs_51_node_master_panel,77.383749,percent,WARN,final rows divided by 51 x 2304
+missing_core_values,0,rows,PASS,direct final-table check
+minimum_current_speed,14,km/h,PASS,direct final-table check
+maximum_current_speed,100,km/h,PASS,direct final-table check
+current_speed_above_free_flow_speed,0,rows,PASS,direct final-table check
+road_closure_true,0,rows,PASS,direct final-table check
+validation_subset_rows,39470,rows,PASS,"39,470-row QC reference"
+validation_subset_key_matches,39470,rows,PASS,one-to-one key comparison
+validation_subset_metric_exact_matches,39470,rows,PASS,"speed, free-flow speed, confidence, closure"
+rainfall_context_rows,29376,rows,PASS,24 days x 24 hours x 51 nodes
+rainfall_context_hours,576,hours,PASS,complete 24-day hourly index
+rainfall_context_nodes,51,nodes,PASS,matches frozen TomTom node universe
+rainfall_context_grid_cells,15,grid cells,PASS,gridded contextual data
+rainfall_duplicate_node_hours,0,keys,PASS,direct contextual-table check
+rainfall_missing_precipitation_or_rain,0,rows,PASS,direct contextual-table check
+historical_raw_http_metadata_available,0,days,WARN,historical evidence register
+historical_raw_json_available,0,days,WARN,historical evidence register

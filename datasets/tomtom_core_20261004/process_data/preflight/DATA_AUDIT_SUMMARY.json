@@ -1,0 +1,226 @@
+{
+  "traffic": {
+    "rows": 90929,
+    "nodes": 51,
+    "fields": [
+      "interval_timestamp_local",
+      "interval_timestamp_utc",
+      "timezone",
+      "node_id",
+      "latitude",
+      "longitude",
+      "current_speed_kmh",
+      "free_flow_speed_kmh",
+      "current_travel_time_s",
+      "free_flow_travel_time_s",
+      "confidence",
+      "road_closure",
+      "pd_create_time_local",
+      "capture_time_local",
+      "flow_create_time_local",
+      "batch_uuid",
+      "point_uuid",
+      "flow_uuid",
+      "coordinate_match_distance_m",
+      "source_file",
+      "source_row_number",
+      "batch_record_count",
+      "timestamp_rounding_offset_seconds",
+      "duplicate_group_size",
+      "duplicate_resolution",
+      "credential_redaction",
+      "source_provider",
+      "raw_observed_flag",
+      "imputed_flag",
+      "data_stage"
+    ],
+    "slot_start": "2025-12-08 13:15:00",
+    "slot_end": "2025-12-31 23:45:00",
+    "source_daily_files_present_in_frozen": 24,
+    "anomaly_counts": {
+      "PARSE_FAIL_pd_create_time_local": 0,
+      "PARSE_FAIL_capture_time_local": 0,
+      "PARSE_FAIL_flow_create_time_local": 0,
+      "PARSE_FAIL_interval_timestamp_local": 0,
+      "NEAREST_ROUND_MISMATCH": 0,
+      "STORED_OFFSET_MISMATCH": 0,
+      "NON_QUARTER_HOUR_SLOT": 0,
+      "CAPTURE_BEFORE_POINT_TIME": 0,
+      "FLOW_BEFORE_CAPTURE": 0,
+      "CAPTURE_BEFORE_NORMALIZED_SLOT": 0,
+      "ANCHOR_UNAVAILABLE_AT_SLOT_PLUS15": 9
+    },
+    "flow_equals_capture_rows": 90929,
+    "flow_after_capture_rows": 0,
+    "time_difference_overall": [
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "point_minus_slot_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": -1.0,
+        "maximum": 417.0,
+        "negative_count": 144,
+        "zero_count": 46518,
+        "q01": 0.0,
+        "q50": 0.0,
+        "q95": 48.0,
+        "q99": 53.0
+      },
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "capture_minus_point_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": 0.0,
+        "maximum": 636.0,
+        "negative_count": 0,
+        "zero_count": 1019,
+        "q01": 0.0,
+        "q50": 97.0,
+        "q95": 187.0,
+        "q99": 201.0
+      },
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "capture_minus_slot_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": 0.0,
+        "maximum": 962.0,
+        "negative_count": 0,
+        "zero_count": 879,
+        "q01": 1.0,
+        "q50": 118.0,
+        "q95": 219.0,
+        "q99": 241.0
+      },
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "flow_minus_capture_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": 0.0,
+        "maximum": 0.0,
+        "negative_count": 0,
+        "zero_count": 90929,
+        "q01": 0.0,
+        "q50": 0.0,
+        "q95": 0.0,
+        "q99": 0.0
+      },
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "flow_minus_point_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": 0.0,
+        "maximum": 636.0,
+        "negative_count": 0,
+        "zero_count": 1019,
+        "q01": 0.0,
+        "q50": 97.0,
+        "q95": 187.0,
+        "q99": 201.0
+      },
+      {
+        "source_file": "ALL",
+        "kind": "difference_seconds",
+        "field_or_difference": "flow_minus_slot_seconds",
+        "rows": 90929,
+        "parsed_count": 90929,
+        "missing_or_invalid_count": 0,
+        "minimum": 0.0,
+        "maximum": 962.0,
+        "negative_count": 0,
+        "zero_count": 879,
+        "q01": 1.0,
+        "q50": 118.0,
+        "q95": 219.0,
+        "q99": 241.0
+      }
+    ],
+    "partition_cutoff_diagnostics": [
+      {
+        "partition": "train",
+        "slot_start_inclusive": "2025-12-08",
+        "slot_end_exclusive": "2025-12-24",
+        "existing_frozen_rows": 59009,
+        "capture_unknown": 0,
+        "capture_at_or_after_partition_cutoff": 0,
+        "not_available_at_own_slot_plus15": 0,
+        "scope": "row timestamp diagnostic only; not a benchmark sample set"
+      },
+      {
+        "partition": "validation",
+        "slot_start_inclusive": "2025-12-24",
+        "slot_end_exclusive": "2025-12-28",
+        "existing_frozen_rows": 16128,
+        "capture_unknown": 0,
+        "capture_at_or_after_partition_cutoff": 0,
+        "not_available_at_own_slot_plus15": 0,
+        "scope": "row timestamp diagnostic only; not a benchmark sample set"
+      },
+      {
+        "partition": "test",
+        "slot_start_inclusive": "2025-12-28",
+        "slot_end_exclusive": "2026-01-01",
+        "existing_frozen_rows": 15792,
+        "capture_unknown": 0,
+        "capture_at_or_after_partition_cutoff": 0,
+        "not_available_at_own_slot_plus15": 9,
+        "scope": "row timestamp diagnostic only; not a benchmark sample set"
+      }
+    ]
+  },
+  "background": {
+    "rows": 29376,
+    "hours": 576,
+    "nodes": 51,
+    "grid_cells": 15,
+    "start": "2025-12-08 00:00:00",
+    "end": "2025-12-31 23:00:00",
+    "rain_precipitation_differing_rows": 10019,
+    "precipitation_tenth_mm_precision": true,
+    "source_models": [
+      "ecmwf_ifs"
+    ],
+    "download_timestamps": [
+      "2026-07-14T04:05:51.159165+00:00"
+    ],
+    "frozen_jan1_00_endpoint_node_count": 0,
+    "historical_source_jan1_00_endpoint_nodes_not_used": 51,
+    "last_traffic_hour_observation_count_distribution_by_node": {
+      "0": 9,
+      "1": 42
+    },
+    "last_hour_nodes_meeting_minimum3": 0,
+    "mapping_latitude_range": [
+      1.4516388,
+      1.8194398
+    ],
+    "mapping_longitude_range": [
+      109.7447799,
+      110.3347315
+    ]
+  },
+  "evidence_scope": {
+    "source_manifest_entries_used_and_rehashed": 4,
+    "source_manifest_total_entries": 26,
+    "traced_source_rows": 12,
+    "all_26_sources_rechecked": false,
+    "zip_rechecked": false,
+    "freeze_rebuild_run": false,
+    "formal_statistics_or_benchmarks_run": false
+  }
+}

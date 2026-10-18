@@ -1,0 +1,16 @@
+block,text,source_path
+Traffic source,"24 daily sanitized exports; 90,930 input rows",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\TomTom_Core_Freeze_20261004\SOURCE_MANIFEST.csv
+Traffic freeze,"90,929 non-imputed records; 51 fixed queries",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\TomTom_Core_Freeze_20261004\tomtom_15min_frozen_2025-12-08_2025-12-31.csv
+Duplicate resolution,1 removed duplicate row; candidate log retained,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\TomTom_Core_Freeze_20261004\tomtom_duplicate_resolution_log.csv
+Background,"29,376 labelled node-hours; 15 shared cells; retrospective context",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b01_054939Z\batch01_preflight\SEMANTICS_AUDIT.md
+Schema/parse decision,"Missing required columns, unparseable timestamps or incompatible nodes halt processing; no claimed automatic repair",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\TomTom_Core_Freeze_20261004\build_tomtom_core_freeze.py
+Numeric QC,Explicit counts and ranges; no claimed universal filtering from PASS labels,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\TomTom_Core_Freeze_20261004\QC_SUMMARY.csv
+Natural missingness,Preserve absence; no zero fill or traffic imputation,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b02_060919Z\batch02_coverage_hourly\CONFIG.json
+Complete calendar,"117,504 positions; 77.38% observed; 16,447 episodes",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b02_060919Z\batch02_coverage_hourly\RESULT_SUMMARY.json
+Hourly rules,Node at least 3/4 snapshots; overall at least 41 nodes; 521 hours,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b02_060919Z\batch02_coverage_hourly\CONFIG.json
+Precipitation timing,"Traffic [H,H+1) paired to precipitation endpoint H+1; mm accumulation",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b01_054939Z\batch01_preflight\SEMANTICS_AUDIT.md
+Reconstruction,0.25/1/3/6 h; single-node masks; Linear uses future endpoint,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b03_124252Z\batch03_reconstruction\CONFIG.json
+Forecasting,1/3/6 h provider snapshots; five exact visible inputs; issue before scoring,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261007_b07_002757Z\batch07_forecasting\CONFIG.json
+Partitions,Train 8–23; validation 24–27; test 28–31 December 2025,D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261007_b07_002757Z\batch07_forecasting\CONFIG.json
+Availability layers,"Training denominator 1,536; 17 nodes/layer; not forecast correctness",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261007_b07_002757Z\batch07_forecasting\CONFIG.json
+Artifacts,"Keys, configs, predictions, scores, QA, manifests; no verified public access",D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261007_b09_013000Z\conclusions_final\Conclusions_7_EN.md

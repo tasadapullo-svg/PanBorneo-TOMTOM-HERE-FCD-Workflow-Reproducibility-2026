@@ -1,0 +1,3313 @@
+﻿gap_id,K,method,target_point_count,complete,common_complete,sse,sum_absolute_error_kmh,mse,rmse_kmh,mae_kmh
+G01_001,1,Linear,1,True,True,0,0,0,0,0
+G01_002,1,Linear,1,True,True,0,0,0,0,0
+G01_003,1,Linear,1,True,True,0,0,0,0,0
+G01_004,1,Linear,1,True,True,0,0,0,0,0
+G01_005,1,Linear,1,True,True,0,0,0,0,0
+G01_006,1,Linear,1,True,True,0,0,0,0,0
+G01_007,1,Linear,1,True,True,0,0,0,0,0
+G01_008,1,Linear,1,True,True,0,0,0,0,0
+G01_009,1,Linear,1,True,True,0,0,0,0,0
+G01_010,1,Linear,1,True,True,0,0,0,0,0
+G01_011,1,Linear,1,True,True,0,0,0,0,0
+G01_012,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_013,1,Linear,1,True,True,0,0,0,0,0
+G01_014,1,Linear,1,True,True,0,0,0,0,0
+G01_015,1,Linear,1,True,True,0,0,0,0,0
+G01_016,1,Linear,1,True,True,144,12,144,12,12
+G01_017,1,Linear,1,True,True,2.25,1.5,2.25,1.5,1.5
+G01_018,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_019,1,Linear,1,True,True,0,0,0,0,0
+G01_020,1,Linear,1,True,True,0,0,0,0,0
+G01_021,1,Linear,1,True,True,0,0,0,0,0
+G01_022,1,Linear,1,True,True,0,0,0,0,0
+G01_023,1,Linear,1,True,True,0,0,0,0,0
+G01_024,1,Linear,1,True,True,49,7,49,7,7
+G01_025,1,Linear,1,True,True,0,0,0,0,0
+G01_026,1,Linear,1,True,True,0,0,0,0,0
+G01_027,1,Linear,1,True,True,0,0,0,0,0
+G01_028,1,Linear,1,True,True,0,0,0,0,0
+G01_029,1,Linear,1,True,True,0,0,0,0,0
+G01_030,1,Linear,1,True,True,0,0,0,0,0
+G01_031,1,Linear,1,True,True,0,0,0,0,0
+G01_032,1,Linear,1,True,True,0,0,0,0,0
+G01_033,1,Linear,1,True,True,0,0,0,0,0
+G01_034,1,Linear,1,True,True,0,0,0,0,0
+G01_035,1,Linear,1,True,True,0,0,0,0,0
+G01_036,1,Linear,1,True,True,0,0,0,0,0
+G01_037,1,Linear,1,True,True,0,0,0,0,0
+G01_038,1,Linear,1,True,True,0,0,0,0,0
+G01_039,1,Linear,1,True,True,0,0,0,0,0
+G01_040,1,Linear,1,True,True,0,0,0,0,0
+G01_041,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_042,1,Linear,1,True,True,0,0,0,0,0
+G01_043,1,Linear,1,True,True,0,0,0,0,0
+G01_044,1,Linear,1,True,True,0,0,0,0,0
+G01_045,1,Linear,1,True,True,0,0,0,0,0
+G01_046,1,Linear,1,True,True,0,0,0,0,0
+G01_047,1,Linear,1,True,True,0,0,0,0,0
+G01_048,1,Linear,1,True,True,90.25,9.5,90.25,9.5,9.5
+G01_049,1,Linear,1,True,True,0,0,0,0,0
+G01_050,1,Linear,1,True,True,0,0,0,0,0
+G01_051,1,Linear,1,True,True,0,0,0,0,0
+G01_052,1,Linear,1,True,True,0,0,0,0,0
+G01_053,1,Linear,1,True,True,0,0,0,0,0
+G01_054,1,Linear,1,True,True,0,0,0,0,0
+G01_055,1,Linear,1,True,True,0,0,0,0,0
+G01_056,1,Linear,1,True,True,0,0,0,0,0
+G01_057,1,Linear,1,True,True,110.25,10.5,110.25,10.5,10.5
+G01_058,1,Linear,1,True,True,0,0,0,0,0
+G01_059,1,Linear,1,True,True,0,0,0,0,0
+G01_060,1,Linear,1,True,True,0,0,0,0,0
+G01_061,1,Linear,1,True,True,0,0,0,0,0
+G01_062,1,Linear,1,True,True,0,0,0,0,0
+G01_063,1,Linear,1,True,True,0,0,0,0,0
+G01_064,1,Linear,1,True,True,0,0,0,0,0
+G01_065,1,Linear,1,True,True,0,0,0,0,0
+G01_066,1,Linear,1,True,True,0,0,0,0,0
+G01_067,1,Linear,1,True,True,0,0,0,0,0
+G01_068,1,Linear,1,True,True,0,0,0,0,0
+G01_069,1,Linear,1,True,True,2.25,1.5,2.25,1.5,1.5
+G01_070,1,Linear,1,True,True,0,0,0,0,0
+G01_071,1,Linear,1,True,True,0,0,0,0,0
+G01_072,1,Linear,1,True,True,132.25,11.5,132.25,11.5,11.5
+G01_073,1,Linear,1,True,True,12.25,3.5,12.25,3.5,3.5
+G01_074,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_075,1,Linear,1,True,True,1,1,1,1,1
+G01_076,1,Linear,1,True,True,0,0,0,0,0
+G01_077,1,Linear,1,True,True,20.25,4.5,20.25,4.5,4.5
+G01_078,1,Linear,1,True,True,0,0,0,0,0
+G01_079,1,Linear,1,True,True,0,0,0,0,0
+G01_080,1,Linear,1,True,True,0,0,0,0,0
+G01_081,1,Linear,1,True,True,0,0,0,0,0
+G01_082,1,Linear,1,True,True,169,13,169,13,13
+G01_083,1,Linear,1,True,True,0,0,0,0,0
+G01_084,1,Linear,1,True,True,1,1,1,1,1
+G01_085,1,Linear,1,True,True,0,0,0,0,0
+G01_086,1,Linear,1,True,True,64,8,64,8,8
+G01_087,1,Linear,1,True,True,90.25,9.5,90.25,9.5,9.5
+G01_088,1,Linear,1,True,True,0,0,0,0,0
+G01_089,1,Linear,1,True,True,0,0,0,0,0
+G01_090,1,Linear,1,True,True,0,0,0,0,0
+G01_091,1,Linear,1,True,True,0,0,0,0,0
+G01_092,1,Linear,1,True,True,0,0,0,0,0
+G01_093,1,Linear,1,True,True,0,0,0,0,0
+G01_094,1,Linear,1,True,True,0,0,0,0,0
+G01_095,1,Linear,1,True,True,0,0,0,0,0
+G01_096,1,Linear,1,True,True,0,0,0,0,0
+G01_097,1,Linear,1,True,True,0,0,0,0,0
+G01_098,1,Linear,1,True,True,0,0,0,0,0
+G01_099,1,Linear,1,True,True,0,0,0,0,0
+G01_100,1,Linear,1,True,True,110.25,10.5,110.25,10.5,10.5
+G01_101,1,Linear,1,True,True,0,0,0,0,0
+G01_102,1,Linear,1,True,True,0,0,0,0,0
+G01_103,1,Linear,1,True,True,210.25,14.5,210.25,14.5,14.5
+G01_104,1,Linear,1,True,True,0,0,0,0,0
+G01_105,1,Linear,1,True,True,0,0,0,0,0
+G01_106,1,Linear,1,True,True,0,0,0,0,0
+G01_107,1,Linear,1,True,True,0,0,0,0,0
+G01_108,1,Linear,1,True,True,0,0,0,0,0
+G01_109,1,Linear,1,True,True,0,0,0,0,0
+G01_110,1,Linear,1,True,True,0,0,0,0,0
+G01_111,1,Linear,1,True,True,0,0,0,0,0
+G01_112,1,Linear,1,True,True,0,0,0,0,0
+G01_113,1,Linear,1,True,True,0,0,0,0,0
+G01_114,1,Linear,1,True,True,0,0,0,0,0
+G01_115,1,Linear,1,True,True,0,0,0,0,0
+G01_116,1,Linear,1,True,True,0,0,0,0,0
+G01_117,1,Linear,1,True,True,0,0,0,0,0
+G01_118,1,Linear,1,True,True,0,0,0,0,0
+G01_119,1,Linear,1,True,True,0,0,0,0,0
+G01_120,1,Linear,1,True,True,0,0,0,0,0
+G01_121,1,Linear,1,True,True,0,0,0,0,0
+G01_122,1,Linear,1,True,True,0,0,0,0,0
+G01_123,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_124,1,Linear,1,True,True,0,0,0,0,0
+G01_125,1,Linear,1,True,True,1,1,1,1,1
+G01_126,1,Linear,1,True,True,0,0,0,0,0
+G01_127,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_128,1,Linear,1,True,True,0,0,0,0,0
+G01_129,1,Linear,1,True,True,0,0,0,0,0
+G01_130,1,Linear,1,True,True,12.25,3.5,12.25,3.5,3.5
+G01_131,1,Linear,1,True,True,0,0,0,0,0
+G01_132,1,Linear,1,True,True,210.25,14.5,210.25,14.5,14.5
+G01_133,1,Linear,1,True,True,0,0,0,0,0
+G01_134,1,Linear,1,True,True,0,0,0,0,0
+G01_135,1,Linear,1,True,True,0,0,0,0,0
+G01_136,1,Linear,1,True,True,0,0,0,0,0
+G01_137,1,Linear,1,True,True,0,0,0,0,0
+G01_138,1,Linear,1,True,True,0,0,0,0,0
+G01_139,1,Linear,1,True,True,0,0,0,0,0
+G01_140,1,Linear,1,True,True,0,0,0,0,0
+G01_141,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_142,1,Linear,1,True,True,0,0,0,0,0
+G01_143,1,Linear,1,True,True,0,0,0,0,0
+G01_144,1,Linear,1,True,True,0,0,0,0,0
+G01_145,1,Linear,1,True,True,1,1,1,1,1
+G01_146,1,Linear,1,True,True,0,0,0,0,0
+G01_147,1,Linear,1,True,True,2.25,1.5,2.25,1.5,1.5
+G01_148,1,Linear,1,True,True,0,0,0,0,0
+G01_149,1,Linear,1,True,True,0,0,0,0,0
+G01_150,1,Linear,1,True,True,0,0,0,0,0
+G01_151,1,Linear,1,True,True,0,0,0,0,0
+G01_152,1,Linear,1,True,True,0,0,0,0,0
+G01_153,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_154,1,Linear,1,True,True,0,0,0,0,0
+G01_155,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_156,1,Linear,1,True,True,0,0,0,0,0
+G01_157,1,Linear,1,True,True,90.25,9.5,90.25,9.5,9.5
+G01_158,1,Linear,1,True,True,0,0,0,0,0
+G01_159,1,Linear,1,True,True,0,0,0,0,0
+G01_160,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_161,1,Linear,1,True,True,0,0,0,0,0
+G01_162,1,Linear,1,True,True,0,0,0,0,0
+G01_163,1,Linear,1,True,True,0,0,0,0,0
+G01_164,1,Linear,1,True,True,0,0,0,0,0
+G01_165,1,Linear,1,True,True,0,0,0,0,0
+G01_166,1,Linear,1,True,True,0,0,0,0,0
+G01_167,1,Linear,1,True,True,4,2,4,2,2
+G01_168,1,Linear,1,True,True,0,0,0,0,0
+G01_169,1,Linear,1,True,True,0,0,0,0,0
+G01_170,1,Linear,1,True,True,0,0,0,0,0
+G01_171,1,Linear,1,True,True,2.25,1.5,2.25,1.5,1.5
+G01_172,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_173,1,Linear,1,True,True,4,2,4,2,2
+G01_174,1,Linear,1,True,True,0,0,0,0,0
+G01_175,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_176,1,Linear,1,True,True,0,0,0,0,0
+G01_177,1,Linear,1,True,True,0,0,0,0,0
+G01_178,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_179,1,Linear,1,True,True,0,0,0,0,0
+G01_180,1,Linear,1,True,True,0,0,0,0,0
+G01_181,1,Linear,1,True,True,0,0,0,0,0
+G01_182,1,Linear,1,True,True,0,0,0,0,0
+G01_183,1,Linear,1,True,True,0,0,0,0,0
+G01_184,1,Linear,1,True,True,0,0,0,0,0
+G01_185,1,Linear,1,True,True,0,0,0,0,0
+G01_186,1,Linear,1,True,True,0,0,0,0,0
+G01_187,1,Linear,1,True,True,0,0,0,0,0
+G01_188,1,Linear,1,True,True,625,25,625,25,25
+G01_189,1,Linear,1,True,True,4,2,4,2,2
+G01_190,1,Linear,1,True,True,0,0,0,0,0
+G01_191,1,Linear,1,True,True,0,0,0,0,0
+G01_192,1,Linear,1,True,True,132.25,11.5,132.25,11.5,11.5
+G01_193,1,Linear,1,True,True,12.25,3.5,12.25,3.5,3.5
+G01_194,1,Linear,1,True,True,0,0,0,0,0
+G01_195,1,Linear,1,True,True,0,0,0,0,0
+G01_196,1,Linear,1,True,True,0,0,0,0,0
+G01_197,1,Linear,1,True,True,0,0,0,0,0
+G01_198,1,Linear,1,True,True,0,0,0,0,0
+G01_199,1,Linear,1,True,True,0,0,0,0,0
+G01_200,1,Linear,1,True,True,0,0,0,0,0
+G01_201,1,Linear,1,True,True,0,0,0,0,0
+G01_202,1,Linear,1,True,True,0,0,0,0,0
+G01_203,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_204,1,Linear,1,True,True,576,24,576,24,24
+G01_205,1,Linear,1,True,True,0,0,0,0,0
+G01_206,1,Linear,1,True,True,0,0,0,0,0
+G01_207,1,Linear,1,True,True,0,0,0,0,0
+G01_208,1,Linear,1,True,True,121,11,121,11,11
+G01_209,1,Linear,1,True,True,0,0,0,0,0
+G01_210,1,Linear,1,True,True,0,0,0,0,0
+G01_211,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_212,1,Linear,1,True,True,0,0,0,0,0
+G01_213,1,Linear,1,True,True,0,0,0,0,0
+G01_214,1,Linear,1,True,True,0,0,0,0,0
+G01_215,1,Linear,1,True,True,0,0,0,0,0
+G01_216,1,Linear,1,True,True,0,0,0,0,0
+G01_217,1,Linear,1,True,True,0,0,0,0,0
+G01_218,1,Linear,1,True,True,0,0,0,0,0
+G01_219,1,Linear,1,True,True,0,0,0,0,0
+G01_220,1,Linear,1,True,True,0,0,0,0,0
+G01_221,1,Linear,1,True,True,0,0,0,0,0
+G01_222,1,Linear,1,True,True,1,1,1,1,1
+G01_223,1,Linear,1,True,True,0,0,0,0,0
+G01_224,1,Linear,1,True,True,0,0,0,0,0
+G01_225,1,Linear,1,True,True,0,0,0,0,0
+G01_226,1,Linear,1,True,True,0,0,0,0,0
+G01_227,1,Linear,1,True,True,0,0,0,0,0
+G01_228,1,Linear,1,True,True,0,0,0,0,0
+G01_229,1,Linear,1,True,True,0,0,0,0,0
+G01_230,1,Linear,1,True,True,0,0,0,0,0
+G01_231,1,Linear,1,True,True,0,0,0,0,0
+G01_232,1,Linear,1,True,True,0,0,0,0,0
+G01_233,1,Linear,1,True,True,0,0,0,0,0
+G01_234,1,Linear,1,True,True,361,19,361,19,19
+G01_235,1,Linear,1,True,True,0,0,0,0,0
+G01_236,1,Linear,1,True,True,0,0,0,0,0
+G01_237,1,Linear,1,True,True,0,0,0,0,0
+G01_238,1,Linear,1,True,True,121,11,121,11,11
+G01_239,1,Linear,1,True,True,0,0,0,0,0
+G01_240,1,Linear,1,True,True,0,0,0,0,0
+G01_241,1,Linear,1,True,True,0,0,0,0,0
+G01_242,1,Linear,1,True,True,0,0,0,0,0
+G01_243,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_244,1,Linear,1,True,True,0,0,0,0,0
+G01_245,1,Linear,1,True,True,0,0,0,0,0
+G01_246,1,Linear,1,True,True,0,0,0,0,0
+G01_247,1,Linear,1,True,True,0,0,0,0,0
+G01_248,1,Linear,1,True,True,0,0,0,0,0
+G01_249,1,Linear,1,True,True,0,0,0,0,0
+G01_250,1,Linear,1,True,True,0,0,0,0,0
+G01_251,1,Linear,1,True,True,9,3,9,3,3
+G01_252,1,Linear,1,True,True,0,0,0,0,0
+G01_253,1,Linear,1,True,True,0,0,0,0,0
+G01_254,1,Linear,1,True,True,0,0,0,0,0
+G01_255,1,Linear,1,True,True,0,0,0,0,0
+G01_256,1,Linear,1,True,True,0,0,0,0,0
+G01_257,1,Linear,1,True,True,0,0,0,0,0
+G01_258,1,Linear,1,True,True,0,0,0,0,0
+G01_259,1,Linear,1,True,True,0,0,0,0,0
+G01_260,1,Linear,1,True,True,0,0,0,0,0
+G01_261,1,Linear,1,True,True,0,0,0,0,0
+G01_262,1,Linear,1,True,True,9,3,9,3,3
+G01_263,1,Linear,1,True,True,0,0,0,0,0
+G01_264,1,Linear,1,True,True,0,0,0,0,0
+G01_265,1,Linear,1,True,True,0,0,0,0,0
+G01_266,1,Linear,1,True,True,0,0,0,0,0
+G01_267,1,Linear,1,True,True,0,0,0,0,0
+G01_268,1,Linear,1,True,True,0,0,0,0,0
+G01_269,1,Linear,1,True,True,0,0,0,0,0
+G01_270,1,Linear,1,True,True,0,0,0,0,0
+G01_271,1,Linear,1,True,True,0,0,0,0,0
+G01_272,1,Linear,1,True,True,0,0,0,0,0
+G01_273,1,Linear,1,True,True,0,0,0,0,0
+G01_274,1,Linear,1,True,True,0,0,0,0,0
+G01_275,1,Linear,1,True,True,0,0,0,0,0
+G01_276,1,Linear,1,True,True,0,0,0,0,0
+G01_277,1,Linear,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_278,1,Linear,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_279,1,Linear,1,True,True,2.25,1.5,2.25,1.5,1.5
+G01_280,1,Linear,1,True,True,0,0,0,0,0
+G01_281,1,Linear,1,True,True,0,0,0,0,0
+G01_282,1,Linear,1,True,True,0,0,0,0,0
+G01_283,1,Linear,1,True,True,0,0,0,0,0
+G01_284,1,Linear,1,True,True,0,0,0,0,0
+G01_285,1,Linear,1,True,True,0,0,0,0,0
+G01_286,1,Linear,1,True,True,0,0,0,0,0
+G01_287,1,Linear,1,True,True,0,0,0,0,0
+G01_288,1,Linear,1,True,True,0,0,0,0,0
+G01_289,1,Linear,1,True,True,132.25,11.5,132.25,11.5,11.5
+G01_290,1,Linear,1,True,True,0,0,0,0,0
+G01_291,1,Linear,1,True,True,0,0,0,0,0
+G01_292,1,Linear,1,True,True,0,0,0,0,0
+G01_293,1,Linear,1,True,True,0,0,0,0,0
+G01_294,1,Linear,1,True,True,0,0,0,0,0
+G01_295,1,Linear,1,True,True,0,0,0,0,0
+G01_296,1,Linear,1,True,True,0,0,0,0,0
+G01_297,1,Linear,1,True,True,0,0,0,0,0
+G01_298,1,Linear,1,True,True,90.25,9.5,90.25,9.5,9.5
+G01_299,1,Linear,1,True,True,0,0,0,0,0
+G01_300,1,Linear,1,True,True,0,0,0,0,0
+G01_001,1,LOCF,1,True,True,0,0,0,0,0
+G01_002,1,LOCF,1,True,True,0,0,0,0,0
+G01_003,1,LOCF,1,True,True,0,0,0,0,0
+G01_004,1,LOCF,1,True,True,0,0,0,0,0
+G01_005,1,LOCF,1,True,True,0,0,0,0,0
+G01_006,1,LOCF,1,True,True,0,0,0,0,0
+G01_007,1,LOCF,1,True,True,0,0,0,0,0
+G01_008,1,LOCF,1,True,True,0,0,0,0,0
+G01_009,1,LOCF,1,True,True,0,0,0,0,0
+G01_010,1,LOCF,1,True,True,0,0,0,0,0
+G01_011,1,LOCF,1,True,True,0,0,0,0,0
+G01_012,1,LOCF,1,True,True,4,2,4,2,2
+G01_013,1,LOCF,1,True,True,0,0,0,0,0
+G01_014,1,LOCF,1,True,True,0,0,0,0,0
+G01_015,1,LOCF,1,True,True,0,0,0,0,0
+G01_016,1,LOCF,1,True,True,0,0,0,0,0
+G01_017,1,LOCF,1,True,True,0,0,0,0,0
+G01_018,1,LOCF,1,True,True,1,1,1,1,1
+G01_019,1,LOCF,1,True,True,0,0,0,0,0
+G01_020,1,LOCF,1,True,True,0,0,0,0,0
+G01_021,1,LOCF,1,True,True,0,0,0,0,0
+G01_022,1,LOCF,1,True,True,0,0,0,0,0
+G01_023,1,LOCF,1,True,True,0,0,0,0,0
+G01_024,1,LOCF,1,True,True,49,7,49,7,7
+G01_025,1,LOCF,1,True,True,0,0,0,0,0
+G01_026,1,LOCF,1,True,True,0,0,0,0,0
+G01_027,1,LOCF,1,True,True,0,0,0,0,0
+G01_028,1,LOCF,1,True,True,0,0,0,0,0
+G01_029,1,LOCF,1,True,True,0,0,0,0,0
+G01_030,1,LOCF,1,True,True,0,0,0,0,0
+G01_031,1,LOCF,1,True,True,0,0,0,0,0
+G01_032,1,LOCF,1,True,True,0,0,0,0,0
+G01_033,1,LOCF,1,True,True,0,0,0,0,0
+G01_034,1,LOCF,1,True,True,0,0,0,0,0
+G01_035,1,LOCF,1,True,True,0,0,0,0,0
+G01_036,1,LOCF,1,True,True,0,0,0,0,0
+G01_037,1,LOCF,1,True,True,0,0,0,0,0
+G01_038,1,LOCF,1,True,True,0,0,0,0,0
+G01_039,1,LOCF,1,True,True,0,0,0,0,0
+G01_040,1,LOCF,1,True,True,0,0,0,0,0
+G01_041,1,LOCF,1,True,True,4,2,4,2,2
+G01_042,1,LOCF,1,True,True,0,0,0,0,0
+G01_043,1,LOCF,1,True,True,0,0,0,0,0
+G01_044,1,LOCF,1,True,True,0,0,0,0,0
+G01_045,1,LOCF,1,True,True,0,0,0,0,0
+G01_046,1,LOCF,1,True,True,0,0,0,0,0
+G01_047,1,LOCF,1,True,True,0,0,0,0,0
+G01_048,1,LOCF,1,True,True,361,19,361,19,19
+G01_049,1,LOCF,1,True,True,0,0,0,0,0
+G01_050,1,LOCF,1,True,True,0,0,0,0,0
+G01_051,1,LOCF,1,True,True,0,0,0,0,0
+G01_052,1,LOCF,1,True,True,0,0,0,0,0
+G01_053,1,LOCF,1,True,True,0,0,0,0,0
+G01_054,1,LOCF,1,True,True,0,0,0,0,0
+G01_055,1,LOCF,1,True,True,0,0,0,0,0
+G01_056,1,LOCF,1,True,True,0,0,0,0,0
+G01_057,1,LOCF,1,True,True,441,21,441,21,21
+G01_058,1,LOCF,1,True,True,0,0,0,0,0
+G01_059,1,LOCF,1,True,True,0,0,0,0,0
+G01_060,1,LOCF,1,True,True,0,0,0,0,0
+G01_061,1,LOCF,1,True,True,0,0,0,0,0
+G01_062,1,LOCF,1,True,True,0,0,0,0,0
+G01_063,1,LOCF,1,True,True,0,0,0,0,0
+G01_064,1,LOCF,1,True,True,0,0,0,0,0
+G01_065,1,LOCF,1,True,True,0,0,0,0,0
+G01_066,1,LOCF,1,True,True,0,0,0,0,0
+G01_067,1,LOCF,1,True,True,0,0,0,0,0
+G01_068,1,LOCF,1,True,True,0,0,0,0,0
+G01_069,1,LOCF,1,True,True,4,2,4,2,2
+G01_070,1,LOCF,1,True,True,0,0,0,0,0
+G01_071,1,LOCF,1,True,True,0,0,0,0,0
+G01_072,1,LOCF,1,True,True,0,0,0,0,0
+G01_073,1,LOCF,1,True,True,25,5,25,5,5
+G01_074,1,LOCF,1,True,True,0,0,0,0,0
+G01_075,1,LOCF,1,True,True,9,3,9,3,3
+G01_076,1,LOCF,1,True,True,0,0,0,0,0
+G01_077,1,LOCF,1,True,True,64,8,64,8,8
+G01_078,1,LOCF,1,True,True,0,0,0,0,0
+G01_079,1,LOCF,1,True,True,0,0,0,0,0
+G01_080,1,LOCF,1,True,True,0,0,0,0,0
+G01_081,1,LOCF,1,True,True,0,0,0,0,0
+G01_082,1,LOCF,1,True,True,169,13,169,13,13
+G01_083,1,LOCF,1,True,True,0,0,0,0,0
+G01_084,1,LOCF,1,True,True,1,1,1,1,1
+G01_085,1,LOCF,1,True,True,0,0,0,0,0
+G01_086,1,LOCF,1,True,True,49,7,49,7,7
+G01_087,1,LOCF,1,True,True,0,0,0,0,0
+G01_088,1,LOCF,1,True,True,0,0,0,0,0
+G01_089,1,LOCF,1,True,True,0,0,0,0,0
+G01_090,1,LOCF,1,True,True,0,0,0,0,0
+G01_091,1,LOCF,1,True,True,0,0,0,0,0
+G01_092,1,LOCF,1,True,True,0,0,0,0,0
+G01_093,1,LOCF,1,True,True,0,0,0,0,0
+G01_094,1,LOCF,1,True,True,0,0,0,0,0
+G01_095,1,LOCF,1,True,True,0,0,0,0,0
+G01_096,1,LOCF,1,True,True,0,0,0,0,0
+G01_097,1,LOCF,1,True,True,0,0,0,0,0
+G01_098,1,LOCF,1,True,True,0,0,0,0,0
+G01_099,1,LOCF,1,True,True,0,0,0,0,0
+G01_100,1,LOCF,1,True,True,441,21,441,21,21
+G01_101,1,LOCF,1,True,True,0,0,0,0,0
+G01_102,1,LOCF,1,True,True,0,0,0,0,0
+G01_103,1,LOCF,1,True,True,225,15,225,15,15
+G01_104,1,LOCF,1,True,True,0,0,0,0,0
+G01_105,1,LOCF,1,True,True,0,0,0,0,0
+G01_106,1,LOCF,1,True,True,0,0,0,0,0
+G01_107,1,LOCF,1,True,True,0,0,0,0,0
+G01_108,1,LOCF,1,True,True,0,0,0,0,0
+G01_109,1,LOCF,1,True,True,0,0,0,0,0
+G01_110,1,LOCF,1,True,True,0,0,0,0,0
+G01_111,1,LOCF,1,True,True,0,0,0,0,0
+G01_112,1,LOCF,1,True,True,0,0,0,0,0
+G01_113,1,LOCF,1,True,True,0,0,0,0,0
+G01_114,1,LOCF,1,True,True,0,0,0,0,0
+G01_115,1,LOCF,1,True,True,0,0,0,0,0
+G01_116,1,LOCF,1,True,True,0,0,0,0,0
+G01_117,1,LOCF,1,True,True,0,0,0,0,0
+G01_118,1,LOCF,1,True,True,0,0,0,0,0
+G01_119,1,LOCF,1,True,True,0,0,0,0,0
+G01_120,1,LOCF,1,True,True,0,0,0,0,0
+G01_121,1,LOCF,1,True,True,0,0,0,0,0
+G01_122,1,LOCF,1,True,True,0,0,0,0,0
+G01_123,1,LOCF,1,True,True,1,1,1,1,1
+G01_124,1,LOCF,1,True,True,0,0,0,0,0
+G01_125,1,LOCF,1,True,True,1,1,1,1,1
+G01_126,1,LOCF,1,True,True,0,0,0,0,0
+G01_127,1,LOCF,1,True,True,0,0,0,0,0
+G01_128,1,LOCF,1,True,True,0,0,0,0,0
+G01_129,1,LOCF,1,True,True,0,0,0,0,0
+G01_130,1,LOCF,1,True,True,49,7,49,7,7
+G01_131,1,LOCF,1,True,True,0,0,0,0,0
+G01_132,1,LOCF,1,True,True,676,26,676,26,26
+G01_133,1,LOCF,1,True,True,0,0,0,0,0
+G01_134,1,LOCF,1,True,True,0,0,0,0,0
+G01_135,1,LOCF,1,True,True,0,0,0,0,0
+G01_136,1,LOCF,1,True,True,0,0,0,0,0
+G01_137,1,LOCF,1,True,True,0,0,0,0,0
+G01_138,1,LOCF,1,True,True,0,0,0,0,0
+G01_139,1,LOCF,1,True,True,0,0,0,0,0
+G01_140,1,LOCF,1,True,True,0,0,0,0,0
+G01_141,1,LOCF,1,True,True,25,5,25,5,5
+G01_142,1,LOCF,1,True,True,0,0,0,0,0
+G01_143,1,LOCF,1,True,True,0,0,0,0,0
+G01_144,1,LOCF,1,True,True,0,0,0,0,0
+G01_145,1,LOCF,1,True,True,1,1,1,1,1
+G01_146,1,LOCF,1,True,True,0,0,0,0,0
+G01_147,1,LOCF,1,True,True,36,6,36,6,6
+G01_148,1,LOCF,1,True,True,0,0,0,0,0
+G01_149,1,LOCF,1,True,True,0,0,0,0,0
+G01_150,1,LOCF,1,True,True,0,0,0,0,0
+G01_151,1,LOCF,1,True,True,0,0,0,0,0
+G01_152,1,LOCF,1,True,True,0,0,0,0,0
+G01_153,1,LOCF,1,True,True,0,0,0,0,0
+G01_154,1,LOCF,1,True,True,0,0,0,0,0
+G01_155,1,LOCF,1,True,True,9,3,9,3,3
+G01_156,1,LOCF,1,True,True,0,0,0,0,0
+G01_157,1,LOCF,1,True,True,441,21,441,21,21
+G01_158,1,LOCF,1,True,True,0,0,0,0,0
+G01_159,1,LOCF,1,True,True,0,0,0,0,0
+G01_160,1,LOCF,1,True,True,1,1,1,1,1
+G01_161,1,LOCF,1,True,True,0,0,0,0,0
+G01_162,1,LOCF,1,True,True,0,0,0,0,0
+G01_163,1,LOCF,1,True,True,0,0,0,0,0
+G01_164,1,LOCF,1,True,True,0,0,0,0,0
+G01_165,1,LOCF,1,True,True,0,0,0,0,0
+G01_166,1,LOCF,1,True,True,0,0,0,0,0
+G01_167,1,LOCF,1,True,True,1,1,1,1,1
+G01_168,1,LOCF,1,True,True,0,0,0,0,0
+G01_169,1,LOCF,1,True,True,0,0,0,0,0
+G01_170,1,LOCF,1,True,True,0,0,0,0,0
+G01_171,1,LOCF,1,True,True,1,1,1,1,1
+G01_172,1,LOCF,1,True,True,0,0,0,0,0
+G01_173,1,LOCF,1,True,True,1,1,1,1,1
+G01_174,1,LOCF,1,True,True,0,0,0,0,0
+G01_175,1,LOCF,1,True,True,25,5,25,5,5
+G01_176,1,LOCF,1,True,True,0,0,0,0,0
+G01_177,1,LOCF,1,True,True,0,0,0,0,0
+G01_178,1,LOCF,1,True,True,4,2,4,2,2
+G01_179,1,LOCF,1,True,True,0,0,0,0,0
+G01_180,1,LOCF,1,True,True,0,0,0,0,0
+G01_181,1,LOCF,1,True,True,0,0,0,0,0
+G01_182,1,LOCF,1,True,True,0,0,0,0,0
+G01_183,1,LOCF,1,True,True,0,0,0,0,0
+G01_184,1,LOCF,1,True,True,0,0,0,0,0
+G01_185,1,LOCF,1,True,True,0,0,0,0,0
+G01_186,1,LOCF,1,True,True,0,0,0,0,0
+G01_187,1,LOCF,1,True,True,0,0,0,0,0
+G01_188,1,LOCF,1,True,True,625,25,625,25,25
+G01_189,1,LOCF,1,True,True,9,3,9,3,3
+G01_190,1,LOCF,1,True,True,0,0,0,0,0
+G01_191,1,LOCF,1,True,True,0,0,0,0,0
+G01_192,1,LOCF,1,True,True,169,13,169,13,13
+G01_193,1,LOCF,1,True,True,0,0,0,0,0
+G01_194,1,LOCF,1,True,True,0,0,0,0,0
+G01_195,1,LOCF,1,True,True,0,0,0,0,0
+G01_196,1,LOCF,1,True,True,0,0,0,0,0
+G01_197,1,LOCF,1,True,True,0,0,0,0,0
+G01_198,1,LOCF,1,True,True,0,0,0,0,0
+G01_199,1,LOCF,1,True,True,0,0,0,0,0
+G01_200,1,LOCF,1,True,True,0,0,0,0,0
+G01_201,1,LOCF,1,True,True,0,0,0,0,0
+G01_202,1,LOCF,1,True,True,0,0,0,0,0
+G01_203,1,LOCF,1,True,True,64,8,64,8,8
+G01_204,1,LOCF,1,True,True,576,24,576,24,24
+G01_205,1,LOCF,1,True,True,0,0,0,0,0
+G01_206,1,LOCF,1,True,True,0,0,0,0,0
+G01_207,1,LOCF,1,True,True,0,0,0,0,0
+G01_208,1,LOCF,1,True,True,0,0,0,0,0
+G01_209,1,LOCF,1,True,True,0,0,0,0,0
+G01_210,1,LOCF,1,True,True,0,0,0,0,0
+G01_211,1,LOCF,1,True,True,4,2,4,2,2
+G01_212,1,LOCF,1,True,True,0,0,0,0,0
+G01_213,1,LOCF,1,True,True,0,0,0,0,0
+G01_214,1,LOCF,1,True,True,0,0,0,0,0
+G01_215,1,LOCF,1,True,True,0,0,0,0,0
+G01_216,1,LOCF,1,True,True,0,0,0,0,0
+G01_217,1,LOCF,1,True,True,0,0,0,0,0
+G01_218,1,LOCF,1,True,True,0,0,0,0,0
+G01_219,1,LOCF,1,True,True,0,0,0,0,0
+G01_220,1,LOCF,1,True,True,0,0,0,0,0
+G01_221,1,LOCF,1,True,True,0,0,0,0,0
+G01_222,1,LOCF,1,True,True,4,2,4,2,2
+G01_223,1,LOCF,1,True,True,0,0,0,0,0
+G01_224,1,LOCF,1,True,True,0,0,0,0,0
+G01_225,1,LOCF,1,True,True,0,0,0,0,0
+G01_226,1,LOCF,1,True,True,0,0,0,0,0
+G01_227,1,LOCF,1,True,True,0,0,0,0,0
+G01_228,1,LOCF,1,True,True,0,0,0,0,0
+G01_229,1,LOCF,1,True,True,0,0,0,0,0
+G01_230,1,LOCF,1,True,True,0,0,0,0,0
+G01_231,1,LOCF,1,True,True,0,0,0,0,0
+G01_232,1,LOCF,1,True,True,0,0,0,0,0
+G01_233,1,LOCF,1,True,True,0,0,0,0,0
+G01_234,1,LOCF,1,True,True,361,19,361,19,19
+G01_235,1,LOCF,1,True,True,0,0,0,0,0
+G01_236,1,LOCF,1,True,True,0,0,0,0,0
+G01_237,1,LOCF,1,True,True,0,0,0,0,0
+G01_238,1,LOCF,1,True,True,484,22,484,22,22
+G01_239,1,LOCF,1,True,True,0,0,0,0,0
+G01_240,1,LOCF,1,True,True,0,0,0,0,0
+G01_241,1,LOCF,1,True,True,0,0,0,0,0
+G01_242,1,LOCF,1,True,True,0,0,0,0,0
+G01_243,1,LOCF,1,True,True,4,2,4,2,2
+G01_244,1,LOCF,1,True,True,0,0,0,0,0
+G01_245,1,LOCF,1,True,True,0,0,0,0,0
+G01_246,1,LOCF,1,True,True,0,0,0,0,0
+G01_247,1,LOCF,1,True,True,0,0,0,0,0
+G01_248,1,LOCF,1,True,True,0,0,0,0,0
+G01_249,1,LOCF,1,True,True,0,0,0,0,0
+G01_250,1,LOCF,1,True,True,0,0,0,0,0
+G01_251,1,LOCF,1,True,True,1,1,1,1,1
+G01_252,1,LOCF,1,True,True,0,0,0,0,0
+G01_253,1,LOCF,1,True,True,0,0,0,0,0
+G01_254,1,LOCF,1,True,True,0,0,0,0,0
+G01_255,1,LOCF,1,True,True,0,0,0,0,0
+G01_256,1,LOCF,1,True,True,0,0,0,0,0
+G01_257,1,LOCF,1,True,True,0,0,0,0,0
+G01_258,1,LOCF,1,True,True,0,0,0,0,0
+G01_259,1,LOCF,1,True,True,0,0,0,0,0
+G01_260,1,LOCF,1,True,True,0,0,0,0,0
+G01_261,1,LOCF,1,True,True,0,0,0,0,0
+G01_262,1,LOCF,1,True,True,9,3,9,3,3
+G01_263,1,LOCF,1,True,True,0,0,0,0,0
+G01_264,1,LOCF,1,True,True,0,0,0,0,0
+G01_265,1,LOCF,1,True,True,0,0,0,0,0
+G01_266,1,LOCF,1,True,True,0,0,0,0,0
+G01_267,1,LOCF,1,True,True,0,0,0,0,0
+G01_268,1,LOCF,1,True,True,0,0,0,0,0
+G01_269,1,LOCF,1,True,True,0,0,0,0,0
+G01_270,1,LOCF,1,True,True,0,0,0,0,0
+G01_271,1,LOCF,1,True,True,0,0,0,0,0
+G01_272,1,LOCF,1,True,True,0,0,0,0,0
+G01_273,1,LOCF,1,True,True,0,0,0,0,0
+G01_274,1,LOCF,1,True,True,0,0,0,0,0
+G01_275,1,LOCF,1,True,True,0,0,0,0,0
+G01_276,1,LOCF,1,True,True,0,0,0,0,0
+G01_277,1,LOCF,1,True,True,1,1,1,1,1
+G01_278,1,LOCF,1,True,True,0,0,0,0,0
+G01_279,1,LOCF,1,True,True,1,1,1,1,1
+G01_280,1,LOCF,1,True,True,0,0,0,0,0
+G01_281,1,LOCF,1,True,True,0,0,0,0,0
+G01_282,1,LOCF,1,True,True,0,0,0,0,0
+G01_283,1,LOCF,1,True,True,0,0,0,0,0
+G01_284,1,LOCF,1,True,True,0,0,0,0,0
+G01_285,1,LOCF,1,True,True,0,0,0,0,0
+G01_286,1,LOCF,1,True,True,0,0,0,0,0
+G01_287,1,LOCF,1,True,True,0,0,0,0,0
+G01_288,1,LOCF,1,True,True,0,0,0,0,0
+G01_289,1,LOCF,1,True,True,0,0,0,0,0
+G01_290,1,LOCF,1,True,True,0,0,0,0,0
+G01_291,1,LOCF,1,True,True,0,0,0,0,0
+G01_292,1,LOCF,1,True,True,0,0,0,0,0
+G01_293,1,LOCF,1,True,True,0,0,0,0,0
+G01_294,1,LOCF,1,True,True,0,0,0,0,0
+G01_295,1,LOCF,1,True,True,0,0,0,0,0
+G01_296,1,LOCF,1,True,True,0,0,0,0,0
+G01_297,1,LOCF,1,True,True,0,0,0,0,0
+G01_298,1,LOCF,1,True,True,0,0,0,0,0
+G01_299,1,LOCF,1,True,True,0,0,0,0,0
+G01_300,1,LOCF,1,True,True,0,0,0,0,0
+G01_001,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_002,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_003,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_004,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_005,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_006,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_007,1,Train-TOD median,1,True,True,12.25,3.5,12.25,3.5,3.5
+G01_008,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_009,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_010,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_011,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_012,1,Train-TOD median,1,True,True,49,7,49,7,7
+G01_013,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_014,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_015,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_016,1,Train-TOD median,1,True,True,576,24,576,24,24
+G01_017,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_018,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_019,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_020,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_021,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_022,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_023,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_024,1,Train-TOD median,1,True,True,36,6,36,6,6
+G01_025,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_026,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_027,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_028,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_029,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_030,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_031,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_032,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_033,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_034,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_035,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_036,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_037,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_038,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_039,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_040,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_041,1,Train-TOD median,1,True,True,20.25,4.5,20.25,4.5,4.5
+G01_042,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_043,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_044,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_045,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_046,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_047,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_048,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_049,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_050,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_051,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_052,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_053,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_054,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_055,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_056,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_057,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_058,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_059,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_060,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_061,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_062,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_063,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_064,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_065,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_066,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_067,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_068,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_069,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_070,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_071,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_072,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_073,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_074,1,Train-TOD median,1,True,True,6.25,2.5,6.25,2.5,2.5
+G01_075,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_076,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_077,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_078,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_079,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_080,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_081,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_082,1,Train-TOD median,1,True,True,169,13,169,13,13
+G01_083,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_084,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_085,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_086,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_087,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_088,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_089,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_090,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_091,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_092,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_093,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_094,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_095,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_096,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_097,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_098,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_099,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_100,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_101,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_102,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_103,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_104,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_105,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_106,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_107,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_108,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_109,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_110,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_111,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_112,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_113,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_114,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_115,1,Train-TOD median,1,True,True,9,3,9,3,3
+G01_116,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_117,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_118,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_119,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_120,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_121,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_122,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_123,1,Train-TOD median,1,True,True,9,3,9,3,3
+G01_124,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_125,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_126,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_127,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_128,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_129,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_130,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_131,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_132,1,Train-TOD median,1,True,True,676,26,676,26,26
+G01_133,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_134,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_135,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_136,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_137,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_138,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_139,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_140,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_141,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_142,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_143,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_144,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_145,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_146,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_147,1,Train-TOD median,1,True,True,36,6,36,6,6
+G01_148,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_149,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_150,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_151,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_152,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_153,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_154,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_155,1,Train-TOD median,1,True,True,16,4,16,4,4
+G01_156,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_157,1,Train-TOD median,1,True,True,441,21,441,21,21
+G01_158,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_159,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_160,1,Train-TOD median,1,True,True,25,5,25,5,5
+G01_161,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_162,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_163,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_164,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_165,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_166,1,Train-TOD median,1,True,True,9,3,9,3,3
+G01_167,1,Train-TOD median,1,True,True,20.25,4.5,20.25,4.5,4.5
+G01_168,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_169,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_170,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_171,1,Train-TOD median,1,True,True,9,3,9,3,3
+G01_172,1,Train-TOD median,1,True,True,9,3,9,3,3
+G01_173,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_174,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_175,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_176,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_177,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_178,1,Train-TOD median,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_179,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_180,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_181,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_182,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_183,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_184,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_185,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_186,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_187,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_188,1,Train-TOD median,1,True,True,625,25,625,25,25
+G01_189,1,Train-TOD median,1,True,True,49,7,49,7,7
+G01_190,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_191,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_192,1,Train-TOD median,1,True,True,100,10,100,10,10
+G01_193,1,Train-TOD median,1,True,True,64,8,64,8,8
+G01_194,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_195,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_196,1,Train-TOD median,1,True,True,16,4,16,4,4
+G01_197,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_198,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_199,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_200,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_201,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_202,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_203,1,Train-TOD median,1,True,True,64,8,64,8,8
+G01_204,1,Train-TOD median,1,True,True,576,24,576,24,24
+G01_205,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_206,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_207,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_208,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_209,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_210,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_211,1,Train-TOD median,1,True,True,0.25,0.5,0.25,0.5,0.5
+G01_212,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_213,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_214,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_215,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_216,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_217,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_218,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_219,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_220,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_221,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_222,1,Train-TOD median,1,True,True,16,4,16,4,4
+G01_223,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_224,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_225,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_226,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_227,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_228,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_229,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_230,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_231,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_232,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_233,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_234,1,Train-TOD median,1,True,True,361,19,361,19,19
+G01_235,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_236,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_237,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_238,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_239,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_240,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_241,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_242,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_243,1,Train-TOD median,1,True,True,676,26,676,26,26
+G01_244,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_245,1,Train-TOD median,1,True,True,49,7,49,7,7
+G01_246,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_247,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_248,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_249,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_250,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_251,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_252,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_253,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_254,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_255,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_256,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_257,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_258,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_259,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_260,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_261,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_262,1,Train-TOD median,1,True,True,1,1,1,1,1
+G01_263,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_264,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_265,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_266,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_267,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_268,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_269,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_270,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_271,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_272,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_273,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_274,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_275,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_276,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_277,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_278,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_279,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_280,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_281,1,Train-TOD median,1,True,True,4,2,4,2,2
+G01_282,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_283,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_284,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_285,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_286,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_287,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_288,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_289,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_290,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_291,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_292,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_293,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_294,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_295,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_296,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_297,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_298,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_299,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_300,1,Train-TOD median,1,True,True,0,0,0,0,0
+G01_001,1,Spatial median,1,True,True,0,0,0,0,0
+G01_002,1,Spatial median,1,True,True,4,2,4,2,2
+G01_003,1,Spatial median,1,True,True,16,4,16,4,4
+G01_004,1,Spatial median,1,True,True,16,4,16,4,4
+G01_005,1,Spatial median,1,True,True,36,6,36,6,6
+G01_006,1,Spatial median,1,True,True,64,8,64,8,8
+G01_007,1,Spatial median,1,True,True,256,16,256,16,16
+G01_008,1,Spatial median,1,True,True,4,2,4,2,2
+G01_009,1,Spatial median,1,True,True,36,6,36,6,6
+G01_010,1,Spatial median,1,True,True,36,6,36,6,6
+G01_011,1,Spatial median,1,True,True,36,6,36,6,6
+G01_012,1,Spatial median,1,True,True,1296,36,1296,36,36
+G01_013,1,Spatial median,1,True,True,0,0,0,0,0
+G01_014,1,Spatial median,1,True,True,25,5,25,5,5
+G01_015,1,Spatial median,1,True,True,4,2,4,2,2
+G01_016,1,Spatial median,1,True,True,256,16,256,16,16
+G01_017,1,Spatial median,1,True,True,900,30,900,30,30
+G01_018,1,Spatial median,1,True,True,1600,40,1600,40,40
+G01_019,1,Spatial median,1,True,True,0,0,0,0,0
+G01_020,1,Spatial median,1,True,True,0,0,0,0,0
+G01_021,1,Spatial median,1,True,True,36,6,36,6,6
+G01_022,1,Spatial median,1,True,True,64,8,64,8,8
+G01_023,1,Spatial median,1,True,True,16,4,16,4,4
+G01_024,1,Spatial median,1,True,True,529,23,529,23,23
+G01_025,1,Spatial median,1,True,True,36,6,36,6,6
+G01_026,1,Spatial median,1,True,True,0,0,0,0,0
+G01_027,1,Spatial median,1,True,True,16,4,16,4,4
+G01_028,1,Spatial median,1,True,True,36,6,36,6,6
+G01_029,1,Spatial median,1,True,True,0,0,0,0,0
+G01_030,1,Spatial median,1,True,True,0,0,0,0,0
+G01_031,1,Spatial median,1,True,True,36,6,36,6,6
+G01_032,1,Spatial median,1,True,True,36,6,36,6,6
+G01_033,1,Spatial median,1,True,True,4,2,4,2,2
+G01_034,1,Spatial median,1,True,True,16,4,16,4,4
+G01_035,1,Spatial median,1,True,True,16,4,16,4,4
+G01_036,1,Spatial median,1,True,True,16,4,16,4,4
+G01_037,1,Spatial median,1,True,True,36,6,36,6,6
+G01_038,1,Spatial median,1,True,True,0,0,0,0,0
+G01_039,1,Spatial median,1,True,True,36,6,36,6,6
+G01_040,1,Spatial median,1,True,True,4,2,4,2,2
+G01_041,1,Spatial median,1,True,True,841,29,841,29,29
+G01_042,1,Spatial median,1,True,True,100,10,100,10,10
+G01_043,1,Spatial median,1,True,True,4,2,4,2,2
+G01_044,1,Spatial median,1,True,True,2601,51,2601,51,51
+G01_045,1,Spatial median,1,True,True,36,6,36,6,6
+G01_046,1,Spatial median,1,True,True,256,16,256,16,16
+G01_047,1,Spatial median,1,True,True,1681,41,1681,41,41
+G01_048,1,Spatial median,1,True,True,16,4,16,4,4
+G01_049,1,Spatial median,1,True,True,16,4,16,4,4
+G01_050,1,Spatial median,1,True,True,16,4,16,4,4
+G01_051,1,Spatial median,1,True,True,64,8,64,8,8
+G01_052,1,Spatial median,1,True,True,36,6,36,6,6
+G01_053,1,Spatial median,1,True,True,36,6,36,6,6
+G01_054,1,Spatial median,1,True,True,16,4,16,4,4
+G01_055,1,Spatial median,1,True,True,0,0,0,0,0
+G01_056,1,Spatial median,1,True,True,0,0,0,0,0
+G01_057,1,Spatial median,1,True,True,36,6,36,6,6
+G01_058,1,Spatial median,1,True,True,400,20,400,20,20
+G01_059,1,Spatial median,1,True,True,36,6,36,6,6
+G01_060,1,Spatial median,1,True,True,36,6,36,6,6
+G01_061,1,Spatial median,1,True,True,16,4,16,4,4
+G01_062,1,Spatial median,1,True,True,16,4,16,4,4
+G01_063,1,Spatial median,1,True,True,16,4,16,4,4
+G01_064,1,Spatial median,1,True,True,16,4,16,4,4
+G01_065,1,Spatial median,1,True,True,0,0,0,0,0
+G01_066,1,Spatial median,1,True,True,36,6,36,6,6
+G01_067,1,Spatial median,1,True,True,36,6,36,6,6
+G01_068,1,Spatial median,1,True,True,36,6,36,6,6
+G01_069,1,Spatial median,1,True,True,1369,37,1369,37,37
+G01_070,1,Spatial median,1,True,True,16,4,16,4,4
+G01_071,1,Spatial median,1,True,True,16,4,16,4,4
+G01_072,1,Spatial median,1,True,True,36,6,36,6,6
+G01_073,1,Spatial median,1,True,True,4489,67,4489,67,67
+G01_074,1,Spatial median,1,True,True,196,14,196,14,14
+G01_075,1,Spatial median,1,True,True,3136,56,3136,56,56
+G01_076,1,Spatial median,1,True,True,36,6,36,6,6
+G01_077,1,Spatial median,1,True,True,784,28,784,28,28
+G01_078,1,Spatial median,1,True,True,0,0,0,0,0
+G01_079,1,Spatial median,1,True,True,25,5,25,5,5
+G01_080,1,Spatial median,1,True,True,25,5,25,5,5
+G01_081,1,Spatial median,1,True,True,16,4,16,4,4
+G01_082,1,Spatial median,1,True,True,324,18,324,18,18
+G01_083,1,Spatial median,1,True,True,16,4,16,4,4
+G01_084,1,Spatial median,1,True,True,1024,32,1024,32,32
+G01_085,1,Spatial median,1,True,True,0,0,0,0,0
+G01_086,1,Spatial median,1,True,True,81,9,81,9,9
+G01_087,1,Spatial median,1,True,True,16,4,16,4,4
+G01_088,1,Spatial median,1,True,True,16,4,16,4,4
+G01_089,1,Spatial median,1,True,True,0,0,0,0,0
+G01_090,1,Spatial median,1,True,True,16,4,16,4,4
+G01_091,1,Spatial median,1,True,True,64,8,64,8,8
+G01_092,1,Spatial median,1,True,True,64,8,64,8,8
+G01_093,1,Spatial median,1,True,True,16,4,16,4,4
+G01_094,1,Spatial median,1,True,True,16,4,16,4,4
+G01_095,1,Spatial median,1,True,True,441,21,441,21,21
+G01_096,1,Spatial median,1,True,True,16,4,16,4,4
+G01_097,1,Spatial median,1,True,True,0,0,0,0,0
+G01_098,1,Spatial median,1,True,True,16,4,16,4,4
+G01_099,1,Spatial median,1,True,True,16,4,16,4,4
+G01_100,1,Spatial median,1,True,True,16,4,16,4,4
+G01_101,1,Spatial median,1,True,True,36,6,36,6,6
+G01_102,1,Spatial median,1,True,True,36,6,36,6,6
+G01_103,1,Spatial median,1,True,True,144,12,144,12,12
+G01_104,1,Spatial median,1,True,True,16,4,16,4,4
+G01_105,1,Spatial median,1,True,True,100,10,100,10,10
+G01_106,1,Spatial median,1,True,True,36,6,36,6,6
+G01_107,1,Spatial median,1,True,True,3025,55,3025,55,55
+G01_108,1,Spatial median,1,True,True,0,0,0,0,0
+G01_109,1,Spatial median,1,True,True,25,5,25,5,5
+G01_110,1,Spatial median,1,True,True,4,2,4,2,2
+G01_111,1,Spatial median,1,True,True,2601,51,2601,51,51
+G01_112,1,Spatial median,1,True,True,16,4,16,4,4
+G01_113,1,Spatial median,1,True,True,16,4,16,4,4
+G01_114,1,Spatial median,1,True,True,36,6,36,6,6
+G01_115,1,Spatial median,1,True,True,1296,36,1296,36,36
+G01_116,1,Spatial median,1,True,True,4,2,4,2,2
+G01_117,1,Spatial median,1,True,True,1225,35,1225,35,35
+G01_118,1,Spatial median,1,True,True,4,2,4,2,2
+G01_119,1,Spatial median,1,True,True,16,4,16,4,4
+G01_120,1,Spatial median,1,True,True,4,2,4,2,2
+G01_121,1,Spatial median,1,True,True,36,6,36,6,6
+G01_122,1,Spatial median,1,True,True,25,5,25,5,5
+G01_123,1,Spatial median,1,True,True,1681,41,1681,41,41
+G01_124,1,Spatial median,1,True,True,16,4,16,4,4
+G01_125,1,Spatial median,1,True,True,1296,36,1296,36,36
+G01_126,1,Spatial median,1,True,True,4,2,4,2,2
+G01_127,1,Spatial median,1,True,True,961,31,961,31,31
+G01_128,1,Spatial median,1,True,True,36,6,36,6,6
+G01_129,1,Spatial median,1,True,True,36,6,36,6,6
+G01_130,1,Spatial median,1,True,True,81,9,81,9,9
+G01_131,1,Spatial median,1,True,True,36,6,36,6,6
+G01_132,1,Spatial median,1,True,True,256,16,256,16,16
+G01_133,1,Spatial median,1,True,True,64,8,64,8,8
+G01_134,1,Spatial median,1,True,True,0,0,0,0,0
+G01_135,1,Spatial median,1,True,True,64,8,64,8,8
+G01_136,1,Spatial median,1,True,True,36,6,36,6,6
+G01_137,1,Spatial median,1,True,True,16,4,16,4,4
+G01_138,1,Spatial median,1,True,True,0,0,0,0,0
+G01_139,1,Spatial median,1,True,True,4,2,4,2,2
+G01_140,1,Spatial median,1,True,True,36,6,36,6,6
+G01_141,1,Spatial median,1,True,True,2601,51,2601,51,51
+G01_142,1,Spatial median,1,True,True,16,4,16,4,4
+G01_143,1,Spatial median,1,True,True,64,8,64,8,8
+G01_144,1,Spatial median,1,True,True,16,4,16,4,4
+G01_145,1,Spatial median,1,True,True,4624,68,4624,68,68
+G01_146,1,Spatial median,1,True,True,36,6,36,6,6
+G01_147,1,Spatial median,1,True,True,225,15,225,15,15
+G01_148,1,Spatial median,1,True,True,16,4,16,4,4
+G01_149,1,Spatial median,1,True,True,4,2,4,2,2
+G01_150,1,Spatial median,1,True,True,16,4,16,4,4
+G01_151,1,Spatial median,1,True,True,16,4,16,4,4
+G01_152,1,Spatial median,1,True,True,16,4,16,4,4
+G01_153,1,Spatial median,1,True,True,1296,36,1296,36,36
+G01_154,1,Spatial median,1,True,True,169,13,169,13,13
+G01_155,1,Spatial median,1,True,True,1521,39,1521,39,39
+G01_156,1,Spatial median,1,True,True,4,2,4,2,2
+G01_157,1,Spatial median,1,True,True,1,1,1,1,1
+G01_158,1,Spatial median,1,True,True,36,6,36,6,6
+G01_159,1,Spatial median,1,True,True,64,8,64,8,8
+G01_160,1,Spatial median,1,True,True,625,25,625,25,25
+G01_161,1,Spatial median,1,True,True,36,6,36,6,6
+G01_162,1,Spatial median,1,True,True,0,0,0,0,0
+G01_163,1,Spatial median,1,True,True,36,6,36,6,6
+G01_164,1,Spatial median,1,True,True,4,2,4,2,2
+G01_165,1,Spatial median,1,True,True,36,6,36,6,6
+G01_166,1,Spatial median,1,True,True,1225,35,1225,35,35
+G01_167,1,Spatial median,1,True,True,900,30,900,30,30
+G01_168,1,Spatial median,1,True,True,4,2,4,2,2
+G01_169,1,Spatial median,1,True,True,36,6,36,6,6
+G01_170,1,Spatial median,1,True,True,36,6,36,6,6
+G01_171,1,Spatial median,1,True,True,900,30,900,30,30
+G01_172,1,Spatial median,1,True,True,1024,32,1024,32,32
+G01_173,1,Spatial median,1,True,True,3844,62,3844,62,62
+G01_174,1,Spatial median,1,True,True,16,4,16,4,4
+G01_175,1,Spatial median,1,True,True,81,9,81,9,9
+G01_176,1,Spatial median,1,True,True,0,0,0,0,0
+G01_177,1,Spatial median,1,True,True,36,6,36,6,6
+G01_178,1,Spatial median,1,True,True,3969,63,3969,63,63
+G01_179,1,Spatial median,1,True,True,64,8,64,8,8
+G01_180,1,Spatial median,1,True,True,25,5,25,5,5
+G01_181,1,Spatial median,1,True,True,64,8,64,8,8
+G01_182,1,Spatial median,1,True,True,16,4,16,4,4
+G01_183,1,Spatial median,1,True,True,400,20,400,20,20
+G01_184,1,Spatial median,1,True,True,1,1,1,1,1
+G01_185,1,Spatial median,1,True,True,16,4,16,4,4
+G01_186,1,Spatial median,1,True,True,16,4,16,4,4
+G01_187,1,Spatial median,1,True,True,25,5,25,5,5
+G01_188,1,Spatial median,1,True,True,361,19,361,19,19
+G01_189,1,Spatial median,1,True,True,784,28,784,28,28
+G01_190,1,Spatial median,1,True,True,64,8,64,8,8
+G01_191,1,Spatial median,1,True,True,4,2,4,2,2
+G01_192,1,Spatial median,1,True,True,1369,37,1369,37,37
+G01_193,1,Spatial median,1,True,True,256,16,256,16,16
+G01_194,1,Spatial median,1,True,True,16,4,16,4,4
+G01_195,1,Spatial median,1,True,True,256,16,256,16,16
+G01_196,1,Spatial median,1,True,True,81,9,81,9,9
+G01_197,1,Spatial median,1,True,True,4,2,4,2,2
+G01_198,1,Spatial median,1,True,True,4,2,4,2,2
+G01_199,1,Spatial median,1,True,True,64,8,64,8,8
+G01_200,1,Spatial median,1,True,True,36,6,36,6,6
+G01_201,1,Spatial median,1,True,True,256,16,256,16,16
+G01_202,1,Spatial median,1,True,True,4,2,4,2,2
+G01_203,1,Spatial median,1,True,True,169,13,169,13,13
+G01_204,1,Spatial median,1,True,True,324,18,324,18,18
+G01_205,1,Spatial median,1,True,True,16,4,16,4,4
+G01_206,1,Spatial median,1,True,True,36,6,36,6,6
+G01_207,1,Spatial median,1,True,True,64,8,64,8,8
+G01_208,1,Spatial median,1,True,True,64,8,64,8,8
+G01_209,1,Spatial median,1,True,True,4,2,4,2,2
+G01_210,1,Spatial median,1,True,True,64,8,64,8,8
+G01_211,1,Spatial median,1,True,True,900,30,900,30,30
+G01_212,1,Spatial median,1,True,True,36,6,36,6,6
+G01_213,1,Spatial median,1,True,True,4,2,4,2,2
+G01_214,1,Spatial median,1,True,True,36,6,36,6,6
+G01_215,1,Spatial median,1,True,True,36,6,36,6,6
+G01_216,1,Spatial median,1,True,True,256,16,256,16,16
+G01_217,1,Spatial median,1,True,True,0,0,0,0,0
+G01_218,1,Spatial median,1,True,True,25,5,25,5,5
+G01_219,1,Spatial median,1,True,True,36,6,36,6,6
+G01_220,1,Spatial median,1,True,True,16,4,16,4,4
+G01_221,1,Spatial median,1,True,True,400,20,400,20,20
+G01_222,1,Spatial median,1,True,True,1369,37,1369,37,37
+G01_223,1,Spatial median,1,True,True,16,4,16,4,4
+G01_224,1,Spatial median,1,True,True,16,4,16,4,4
+G01_225,1,Spatial median,1,True,True,36,6,36,6,6
+G01_226,1,Spatial median,1,True,True,64,8,64,8,8
+G01_227,1,Spatial median,1,True,True,16,4,16,4,4
+G01_228,1,Spatial median,1,True,True,256,16,256,16,16
+G01_229,1,Spatial median,1,True,True,4,2,4,2,2
+G01_230,1,Spatial median,1,True,True,16,4,16,4,4
+G01_231,1,Spatial median,1,True,True,0,0,0,0,0
+G01_232,1,Spatial median,1,True,True,36,6,36,6,6
+G01_233,1,Spatial median,1,True,True,0,0,0,0,0
+G01_234,1,Spatial median,1,True,True,529,23,529,23,23
+G01_235,1,Spatial median,1,True,True,36,6,36,6,6
+G01_236,1,Spatial median,1,True,True,36,6,36,6,6
+G01_237,1,Spatial median,1,True,True,256,16,256,16,16
+G01_238,1,Spatial median,1,True,True,0,0,0,0,0
+G01_239,1,Spatial median,1,True,True,16,4,16,4,4
+G01_240,1,Spatial median,1,True,True,16,4,16,4,4
+G01_241,1,Spatial median,1,True,True,4,2,4,2,2
+G01_242,1,Spatial median,1,True,True,0,0,0,0,0
+G01_243,1,Spatial median,1,True,True,256,16,256,16,16
+G01_244,1,Spatial median,1,True,True,4,2,4,2,2
+G01_245,1,Spatial median,1,True,True,256,16,256,16,16
+G01_246,1,Spatial median,1,True,True,36,6,36,6,6
+G01_247,1,Spatial median,1,True,True,36,6,36,6,6
+G01_248,1,Spatial median,1,True,True,3025,55,3025,55,55
+G01_249,1,Spatial median,1,True,True,4,2,4,2,2
+G01_250,1,Spatial median,1,True,True,36,6,36,6,6
+G01_251,1,Spatial median,1,True,True,3969,63,3969,63,63
+G01_252,1,Spatial median,1,True,True,0,0,0,0,0
+G01_253,1,Spatial median,1,True,True,16,4,16,4,4
+G01_254,1,Spatial median,1,True,True,64,8,64,8,8
+G01_255,1,Spatial median,1,True,True,16,4,16,4,4
+G01_256,1,Spatial median,1,True,True,441,21,441,21,21
+G01_257,1,Spatial median,1,True,True,36,6,36,6,6
+G01_258,1,Spatial median,1,True,True,16,4,16,4,4
+G01_259,1,Spatial median,1,True,True,0,0,0,0,0
+G01_260,1,Spatial median,1,True,True,16,4,16,4,4
+G01_261,1,Spatial median,1,True,True,36,6,36,6,6
+G01_262,1,Spatial median,1,True,True,900,30,900,30,30
+G01_263,1,Spatial median,1,True,True,36,6,36,6,6
+G01_264,1,Spatial median,1,True,True,36,6,36,6,6
+G01_265,1,Spatial median,1,True,True,16,4,16,4,4
+G01_266,1,Spatial median,1,True,True,0,0,0,0,0
+G01_267,1,Spatial median,1,True,True,16,4,16,4,4
+G01_268,1,Spatial median,1,True,True,16,4,16,4,4
+G01_269,1,Spatial median,1,True,True,16,4,16,4,4
+G01_270,1,Spatial median,1,True,True,100,10,100,10,10
+G01_271,1,Spatial median,1,True,True,4,2,4,2,2
+G01_272,1,Spatial median,1,True,True,36,6,36,6,6
+G01_273,1,Spatial median,1,True,True,400,20,400,20,20
+G01_274,1,Spatial median,1,True,True,0,0,0,0,0
+G01_275,1,Spatial median,1,True,True,16,4,16,4,4
+G01_276,1,Spatial median,1,True,True,36,6,36,6,6
+G01_277,1,Spatial median,1,True,True,4225,65,4225,65,65
+G01_278,1,Spatial median,1,True,True,1296,36,1296,36,36
+G01_279,1,Spatial median,1,True,True,3969,63,3969,63,63
+G01_280,1,Spatial median,1,True,True,36,6,36,6,6
+G01_281,1,Spatial median,1,True,True,729,27,729,27,27
+G01_282,1,Spatial median,1,True,True,0,0,0,0,0
+G01_283,1,Spatial median,1,True,True,25,5,25,5,5
+G01_284,1,Spatial median,1,True,True,25,5,25,5,5
+G01_285,1,Spatial median,1,True,True,64,8,64,8,8
+G01_286,1,Spatial median,1,True,True,81,9,81,9,9
+G01_287,1,Spatial median,1,True,True,16,4,16,4,4
+G01_288,1,Spatial median,1,True,True,400,20,400,20,20
+G01_289,1,Spatial median,1,True,True,64,8,64,8,8
+G01_290,1,Spatial median,1,True,True,25,5,25,5,5
+G01_291,1,Spatial median,1,True,True,16,4,16,4,4
+G01_292,1,Spatial median,1,True,True,16,4,16,4,4
+G01_293,1,Spatial median,1,True,True,0,0,0,0,0
+G01_294,1,Spatial median,1,True,True,16,4,16,4,4
+G01_295,1,Spatial median,1,True,True,16,4,16,4,4
+G01_296,1,Spatial median,1,True,True,64,8,64,8,8
+G01_297,1,Spatial median,1,True,True,16,4,16,4,4
+G01_298,1,Spatial median,1,True,True,100,10,100,10,10
+G01_299,1,Spatial median,1,True,True,36,6,36,6,6
+G01_300,1,Spatial median,1,True,True,16,4,16,4,4
+G04_001,4,Linear,4,True,True,7.5999999999999712,5.1999999999999886,1.8999999999999928,1.3784048752090197,1.2999999999999972
+G04_002,4,Linear,4,True,True,13.400000000000029,6.6000000000000085,3.3500000000000072,1.8303005217723147,1.6500000000000021
+G04_003,4,Linear,4,True,True,0,0,0,0,0
+G04_004,4,Linear,4,True,True,16.399999999999981,7.5999999999999943,4.0999999999999952,2.0248456731316575,1.8999999999999986
+G04_005,4,Linear,4,True,True,0,0,0,0,0
+G04_006,4,Linear,4,True,True,0,0,0,0,0
+G04_007,4,Linear,4,True,True,0,0,0,0,0
+G04_008,4,Linear,4,True,True,0,0,0,0,0
+G04_009,4,Linear,4,True,True,0,0,0,0,0
+G04_010,4,Linear,4,True,True,0,0,0,0,0
+G04_011,4,Linear,4,True,True,0,0,0,0,0
+G04_012,4,Linear,4,True,True,0,0,0,0,0
+G04_013,4,Linear,4,True,True,20.399999999999977,7.9999999999999929,5.0999999999999943,2.2583179581272419,1.9999999999999982
+G04_014,4,Linear,4,True,True,0,0,0,0,0
+G04_015,4,Linear,4,True,True,0,0,0,0,0
+G04_016,4,Linear,4,True,True,0,0,0,0,0
+G04_017,4,Linear,4,True,True,0,0,0,0,0
+G04_018,4,Linear,4,True,True,0,0,0,0,0
+G04_019,4,Linear,4,True,True,0,0,0,0,0
+G04_020,4,Linear,4,True,True,0,0,0,0,0
+G04_021,4,Linear,4,True,True,0,0,0,0,0
+G04_022,4,Linear,4,True,True,0,0,0,0,0
+G04_023,4,Linear,4,True,True,8.3999999999999542,4.7999999999999829,2.0999999999999885,1.4491376746189399,1.1999999999999957
+G04_024,4,Linear,4,True,True,361,19,90.25,9.5,4.75
+G04_025,4,Linear,4,True,True,110,20,27.5,5.2440442408507577,5
+G04_026,4,Linear,4,True,True,0,0,0,0,0
+G04_027,4,Linear,4,True,True,0,0,0,0,0
+G04_028,4,Linear,4,True,True,0,0,0,0,0
+G04_029,4,Linear,4,True,True,0,0,0,0,0
+G04_030,4,Linear,4,True,True,0,0,0,0,0
+G04_031,4,Linear,4,True,True,0,0,0,0,0
+G04_032,4,Linear,4,True,True,0,0,0,0,0
+G04_033,4,Linear,4,True,True,0,0,0,0,0
+G04_034,4,Linear,4,True,True,35.599999999999987,10,8.8999999999999968,2.983286778035259,2.5
+G04_035,4,Linear,4,True,True,0,0,0,0,0
+G04_036,4,Linear,4,True,True,340.20000000000005,33,85.050000000000011,9.2222556893636387,8.25
+G04_037,4,Linear,4,True,True,0,0,0,0,0
+G04_038,4,Linear,4,True,True,0,0,0,0,0
+G04_039,4,Linear,4,True,True,0,0,0,0,0
+G04_040,4,Linear,4,True,True,0,0,0,0,0
+G04_041,4,Linear,4,True,True,0,0,0,0,0
+G04_042,4,Linear,4,True,True,0,0,0,0,0
+G04_043,4,Linear,4,True,True,0,0,0,0,0
+G04_044,4,Linear,4,True,True,0,0,0,0,0
+G04_045,4,Linear,4,True,True,0,0,0,0,0
+G04_046,4,Linear,4,True,True,0,0,0,0,0
+G04_047,4,Linear,4,True,True,484,22,121,11,5.5
+G04_048,4,Linear,4,True,True,0,0,0,0,0
+G04_049,4,Linear,4,True,True,0,0,0,0,0
+G04_050,4,Linear,4,True,True,0,0,0,0,0
+G04_051,4,Linear,4,True,True,0,0,0,0,0
+G04_052,4,Linear,4,True,True,270,30,67.5,8.2158383625774913,7.5
+G04_053,4,Linear,4,True,True,16.600000000000001,6.2000000000000028,4.1500000000000004,2.0371548787463363,1.5500000000000007
+G04_054,4,Linear,4,True,True,0,0,0,0,0
+G04_055,4,Linear,4,True,True,0,0,0,0,0
+G04_056,4,Linear,4,True,True,0,0,0,0,0
+G04_057,4,Linear,4,True,True,19.799999999999962,8.1999999999999886,4.9499999999999904,2.2248595461286969,2.0499999999999972
+G04_058,4,Linear,4,True,True,0,0,0,0,0
+G04_059,4,Linear,4,True,True,981,61,245.25,15.660459763365825,15.25
+G04_060,4,Linear,4,True,True,0,0,0,0,0
+G04_061,4,Linear,4,True,True,634.80000000000018,46,158.70000000000005,12.597618822618822,11.5
+G04_062,4,Linear,4,True,True,0,0,0,0,0
+G04_063,4,Linear,4,True,True,0,0,0,0,0
+G04_064,4,Linear,4,True,True,4,4,1,1,1
+G04_065,4,Linear,4,True,True,0,0,0,0,0
+G04_066,4,Linear,4,True,True,0,0,0,0,0
+G04_067,4,Linear,4,True,True,0,0,0,0,0
+G04_068,4,Linear,4,True,True,0,0,0,0,0
+G04_069,4,Linear,4,True,True,0,0,0,0,0
+G04_070,4,Linear,4,True,True,0,0,0,0,0
+G04_071,4,Linear,4,True,True,256,16,64,8,4
+G04_072,4,Linear,4,True,True,0,0,0,0,0
+G04_073,4,Linear,4,True,True,0,0,0,0,0
+G04_074,4,Linear,4,True,True,25,5,6.25,2.5,1.25
+G04_075,4,Linear,4,True,True,0,0,0,0,0
+G04_076,4,Linear,4,True,True,18.000000000000007,8,4.5000000000000018,2.1213203435596428,2
+G04_077,4,Linear,4,True,True,0,0,0,0,0
+G04_078,4,Linear,4,True,True,628.19999999999993,47,157.04999999999998,12.531959144523253,11.75
+G04_079,4,Linear,4,True,True,0,0,0,0,0
+G04_080,4,Linear,4,True,True,0,0,0,0,0
+G04_081,4,Linear,4,True,True,0,0,0,0,0
+G04_082,4,Linear,4,True,True,0,0,0,0,0
+G04_083,4,Linear,4,True,True,890,56,222.5,14.916433890176299,14
+G04_084,4,Linear,4,True,True,0,0,0,0,0
+G04_085,4,Linear,4,True,True,0,0,0,0,0
+G04_086,4,Linear,4,True,True,0,0,0,0,0
+G04_087,4,Linear,4,True,True,0,0,0,0,0
+G04_088,4,Linear,4,True,True,0,0,0,0,0
+G04_089,4,Linear,4,True,True,0,0,0,0,0
+G04_090,4,Linear,4,True,True,0,0,0,0,0
+G04_091,4,Linear,4,True,True,0,0,0,0,0
+G04_092,4,Linear,4,True,True,58.599999999999895,14.199999999999989,14.649999999999974,3.8275318418009241,3.5499999999999972
+G04_093,4,Linear,4,True,True,0,0,0,0,0
+G04_094,4,Linear,4,True,True,0,0,0,0,0
+G04_095,4,Linear,4,True,True,0,0,0,0,0
+G04_096,4,Linear,4,True,True,65,15,16.25,4.0311288741492746,3.75
+G04_097,4,Linear,4,True,True,678,44,169.5,13.019216566291536,11
+G04_098,4,Linear,4,True,True,366.60000000000002,33.400000000000006,91.650000000000006,9.573400649716902,8.3500000000000014
+G04_099,4,Linear,4,True,True,0,0,0,0,0
+G04_100,4,Linear,4,True,True,256,16,64,8,4
+G04_101,4,Linear,4,True,True,0,0,0,0,0
+G04_102,4,Linear,4,True,True,235.2000000000001,28,58.800000000000026,7.6681158050723273,7
+G04_103,4,Linear,4,True,True,0,0,0,0,0
+G04_104,4,Linear,4,True,True,0,0,0,0,0
+G04_105,4,Linear,4,True,True,0,0,0,0,0
+G04_106,4,Linear,4,True,True,0,0,0,0,0
+G04_107,4,Linear,4,True,True,0,0,0,0,0
+G04_108,4,Linear,4,True,True,0,0,0,0,0
+G04_109,4,Linear,4,True,True,0,0,0,0,0
+G04_110,4,Linear,4,True,True,0,0,0,0,0
+G04_111,4,Linear,4,True,True,0,0,0,0,0
+G04_112,4,Linear,4,True,True,0,0,0,0,0
+G04_113,4,Linear,4,True,True,23.399999999999974,8.5999999999999943,5.8499999999999934,2.4186773244895634,2.1499999999999986
+G04_114,4,Linear,4,True,True,0,0,0,0,0
+G04_115,4,Linear,4,True,True,3.7999999999999883,3,0.94999999999999707,0.97467943448089489,0.75
+G04_116,4,Linear,4,True,True,0,0,0,0,0
+G04_117,4,Linear,4,True,True,0,0,0,0,0
+G04_118,4,Linear,4,True,True,0,0,0,0,0
+G04_119,4,Linear,4,True,True,47.999999999999972,13.599999999999994,11.999999999999993,3.4641016151377535,3.3999999999999986
+G04_120,4,Linear,4,True,True,29.199999999999957,10.399999999999991,7.2999999999999892,2.701851217221257,2.5999999999999979
+G04_121,4,Linear,4,True,True,484,22,121,11,5.5
+G04_122,4,Linear,4,True,True,0,0,0,0,0
+G04_123,4,Linear,4,True,True,145.19999999999993,22,36.299999999999983,6.0249481325568262,5.5
+G04_124,4,Linear,4,True,True,0,0,0,0,0
+G04_125,4,Linear,4,True,True,0,0,0,0,0
+G04_126,4,Linear,4,True,True,0,0,0,0,0
+G04_127,4,Linear,4,True,True,0,0,0,0,0
+G04_128,4,Linear,4,True,True,2,2,0.5,0.70710678118654757,0.5
+G04_129,4,Linear,4,True,True,0,0,0,0,0
+G04_130,4,Linear,4,True,True,0,0,0,0,0
+G04_131,4,Linear,4,True,True,9.199999999999994,5.5999999999999943,2.2999999999999985,1.5165750888103096,1.3999999999999986
+G04_132,4,Linear,4,True,True,0,0,0,0,0
+G04_133,4,Linear,4,True,True,0,0,0,0,0
+G04_134,4,Linear,4,True,True,202.80000000000007,26,50.700000000000017,7.1203932475671605,6.5
+G04_135,4,Linear,4,True,True,0,0,0,0,0
+G04_136,4,Linear,4,True,True,0,0,0,0,0
+G04_137,4,Linear,4,True,True,0,0,0,0,0
+G04_138,4,Linear,4,True,True,38,12,9.5,3.082207001484488,3
+G04_139,4,Linear,4,True,True,0,0,0,0,0
+G04_140,4,Linear,4,True,True,0,0,0,0,0
+G04_141,4,Linear,4,True,True,0,0,0,0,0
+G04_142,4,Linear,4,True,True,0,0,0,0,0
+G04_143,4,Linear,4,True,True,0,0,0,0,0
+G04_144,4,Linear,4,True,True,0,0,0,0,0
+G04_145,4,Linear,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_146,4,Linear,4,True,True,0,0,0,0,0
+G04_147,4,Linear,4,True,True,0,0,0,0,0
+G04_148,4,Linear,4,True,True,7.4000000000000394,4.2000000000000171,1.8500000000000099,1.360147050873548,1.0500000000000043
+G04_149,4,Linear,4,True,True,0,0,0,0,0
+G04_150,4,Linear,4,True,True,625,25,156.25,12.5,6.25
+G04_151,4,Linear,4,True,True,0,0,0,0,0
+G04_152,4,Linear,4,True,True,0,0,0,0,0
+G04_153,4,Linear,4,True,True,0,0,0,0,0
+G04_154,4,Linear,4,True,True,0,0,0,0,0
+G04_155,4,Linear,4,True,True,0,0,0,0,0
+G04_156,4,Linear,4,True,True,7.5999999999999996,4.4000000000000057,1.8999999999999999,1.3784048752090221,1.1000000000000014
+G04_157,4,Linear,4,True,True,0,0,0,0,0
+G04_158,4,Linear,4,True,True,0,0,0,0,0
+G04_159,4,Linear,4,True,True,0,0,0,0,0
+G04_160,4,Linear,4,True,True,0,0,0,0,0
+G04_161,4,Linear,4,True,True,484,22,121,11,5.5
+G04_162,4,Linear,4,True,True,161.40000000000015,21,40.350000000000037,6.3521649852629016,5.25
+G04_163,4,Linear,4,True,True,0,0,0,0,0
+G04_164,4,Linear,4,True,True,172.79999999999993,24,43.199999999999982,6.572670690061992,6
+G04_165,4,Linear,4,True,True,0,0,0,0,0
+G04_166,4,Linear,4,True,True,120.39999999999999,18,30.099999999999998,5.486346689738081,4.5
+G04_167,4,Linear,4,True,True,0,0,0,0,0
+G04_168,4,Linear,4,True,True,0,0,0,0,0
+G04_169,4,Linear,4,True,True,0,0,0,0,0
+G04_170,4,Linear,4,True,True,0,0,0,0,0
+G04_171,4,Linear,4,True,True,35,11,8.75,2.9580398915498081,2.75
+G04_172,4,Linear,4,True,True,0,0,0,0,0
+G04_173,4,Linear,4,True,True,0,0,0,0,0
+G04_174,4,Linear,4,True,True,0,0,0,0,0
+G04_175,4,Linear,4,True,True,0,0,0,0,0
+G04_176,4,Linear,4,True,True,0,0,0,0,0
+G04_177,4,Linear,4,True,True,882,42,220.5,14.849242404917497,10.5
+G04_178,4,Linear,4,True,True,0,0,0,0,0
+G04_179,4,Linear,4,True,True,0,0,0,0,0
+G04_180,4,Linear,4,True,True,0,0,0,0,0
+G04_181,4,Linear,4,True,True,0,0,0,0,0
+G04_182,4,Linear,4,True,True,0,0,0,0,0
+G04_183,4,Linear,4,True,True,0,0,0,0,0
+G04_184,4,Linear,4,True,True,0,0,0,0,0
+G04_185,4,Linear,4,True,True,0,0,0,0,0
+G04_186,4,Linear,4,True,True,0,0,0,0,0
+G04_187,4,Linear,4,True,True,0,0,0,0,0
+G04_188,4,Linear,4,True,True,42,12,10.5,3.2403703492039302,3
+G04_189,4,Linear,4,True,True,0,0,0,0,0
+G04_190,4,Linear,4,True,True,441,21,110.25,10.5,5.25
+G04_191,4,Linear,4,True,True,0,0,0,0,0
+G04_192,4,Linear,4,True,True,0,0,0,0,0
+G04_193,4,Linear,4,True,True,0.99999999999999434,1.7999999999999972,0.24999999999999858,0.49999999999999856,0.44999999999999929
+G04_194,4,Linear,4,True,True,4.800000000000006,4,1.2000000000000015,1.0954451150103328,1
+G04_195,4,Linear,4,True,True,0,0,0,0,0
+G04_196,4,Linear,4,True,True,0,0,0,0,0
+G04_197,4,Linear,4,True,True,8.4000000000000039,4.3999999999999986,2.100000000000001,1.4491376746189442,1.0999999999999996
+G04_198,4,Linear,4,True,True,0,0,0,0,0
+G04_199,4,Linear,4,True,True,0,0,0,0,0
+G04_200,4,Linear,4,True,True,25,5,6.25,2.5,1.25
+G04_201,4,Linear,4,True,True,0,0,0,0,0
+G04_202,4,Linear,4,True,True,388.80000000000013,36,97.200000000000031,9.8590060350929924,9
+G04_203,4,Linear,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_204,4,Linear,4,True,True,0,0,0,0,0
+G04_205,4,Linear,4,True,True,0,0,0,0,0
+G04_206,4,Linear,4,True,True,5.6000000000000165,3.6000000000000085,1.4000000000000041,1.183215956619925,0.90000000000000213
+G04_207,4,Linear,4,True,True,0,0,0,0,0
+G04_208,4,Linear,4,True,True,0,0,0,0,0
+G04_209,4,Linear,4,True,True,0,0,0,0,0
+G04_210,4,Linear,4,True,True,0,0,0,0,0
+G04_211,4,Linear,4,True,True,0,0,0,0,0
+G04_212,4,Linear,4,True,True,0,0,0,0,0
+G04_213,4,Linear,4,True,True,0,0,0,0,0
+G04_214,4,Linear,4,True,True,0,0,0,0,0
+G04_215,4,Linear,4,True,True,0,0,0,0,0
+G04_216,4,Linear,4,True,True,0,0,0,0,0
+G04_217,4,Linear,4,True,True,0,0,0,0,0
+G04_218,4,Linear,4,True,True,0,0,0,0,0
+G04_219,4,Linear,4,True,True,0,0,0,0,0
+G04_220,4,Linear,4,True,True,361,19,90.25,9.5,4.75
+G04_221,4,Linear,4,True,True,0,0,0,0,0
+G04_222,4,Linear,4,True,True,0,0,0,0,0
+G04_223,4,Linear,4,True,True,0,0,0,0,0
+G04_224,4,Linear,4,True,True,0,0,0,0,0
+G04_225,4,Linear,4,True,True,0,0,0,0,0
+G04_226,4,Linear,4,True,True,0,0,0,0,0
+G04_227,4,Linear,4,True,True,25.400000000000034,8.2000000000000028,6.3500000000000085,2.5199206336708322,2.0500000000000007
+G04_228,4,Linear,4,True,True,0,0,0,0,0
+G04_229,4,Linear,4,True,True,121,11,30.25,5.5,2.75
+G04_230,4,Linear,4,True,True,306,32,76.5,8.7464278422679502,8
+G04_231,4,Linear,4,True,True,0,0,0,0,0
+G04_232,4,Linear,4,True,True,0,0,0,0,0
+G04_233,4,Linear,4,True,True,0,0,0,0,0
+G04_234,4,Linear,4,True,True,0,0,0,0,0
+G04_235,4,Linear,4,True,True,0,0,0,0,0
+G04_236,4,Linear,4,True,True,0,0,0,0,0
+G04_237,4,Linear,4,True,True,0,0,0,0,0
+G04_238,4,Linear,4,True,True,42.59999999999998,11.399999999999999,10.649999999999995,3.2634337744161432,2.8499999999999996
+G04_239,4,Linear,4,True,True,0,0,0,0,0
+G04_240,4,Linear,4,True,True,0,0,0,0,0
+G04_241,4,Linear,4,True,True,529,23,132.25,11.5,5.75
+G04_242,4,Linear,4,True,True,0,0,0,0,0
+G04_243,4,Linear,4,True,True,0,0,0,0,0
+G04_244,4,Linear,4,True,True,0,0,0,0,0
+G04_245,4,Linear,4,True,True,0,0,0,0,0
+G04_246,4,Linear,4,True,True,0,0,0,0,0
+G04_247,4,Linear,4,True,True,0,0,0,0,0
+G04_248,4,Linear,4,True,True,0,0,0,0,0
+G04_249,4,Linear,4,True,True,0,0,0,0,0
+G04_250,4,Linear,4,True,True,0,0,0,0,0
+G04_251,4,Linear,4,True,True,0,0,0,0,0
+G04_252,4,Linear,4,True,True,0,0,0,0,0
+G04_253,4,Linear,4,True,True,0,0,0,0,0
+G04_254,4,Linear,4,True,True,0,0,0,0,0
+G04_255,4,Linear,4,True,True,0,0,0,0,0
+G04_256,4,Linear,4,True,True,13.399999999999999,6.2000000000000028,3.3499999999999996,1.8303005217723125,1.5500000000000007
+G04_257,4,Linear,4,True,True,2.9999999999999942,3,0.74999999999999856,0.86602540378443782,0.75
+G04_258,4,Linear,4,True,True,0,0,0,0,0
+G04_259,4,Linear,4,True,True,0,0,0,0,0
+G04_260,4,Linear,4,True,True,0,0,0,0,0
+G04_261,4,Linear,4,True,True,5.5999999999999996,4,1.3999999999999999,1.1832159566199232,1
+G04_262,4,Linear,4,True,True,0,0,0,0,0
+G04_263,4,Linear,4,True,True,764.19999999999993,51,191.04999999999998,13.822083779228079,12.75
+G04_264,4,Linear,4,True,True,0,0,0,0,0
+G04_265,4,Linear,4,True,True,0,0,0,0,0
+G04_266,4,Linear,4,True,True,0,0,0,0,0
+G04_267,4,Linear,4,True,True,0,0,0,0,0
+G04_268,4,Linear,4,True,True,13.799999999999992,6.5999999999999943,3.449999999999998,1.8574175621006705,1.6499999999999986
+G04_269,4,Linear,4,True,True,0,0,0,0,0
+G04_270,4,Linear,4,True,True,0,0,0,0,0
+G04_271,4,Linear,4,True,True,0,0,0,0,0
+G04_272,4,Linear,4,True,True,441,21,110.25,10.5,5.25
+G04_273,4,Linear,4,True,True,0,0,0,0,0
+G04_274,4,Linear,4,True,True,0,0,0,0,0
+G04_275,4,Linear,4,True,True,0,0,0,0,0
+G04_276,4,Linear,4,True,True,0,0,0,0,0
+G04_277,4,Linear,4,True,True,0,0,0,0,0
+G04_278,4,Linear,4,True,True,189.20000000000005,26,47.300000000000011,6.8774995456197603,6.5
+G04_279,4,Linear,4,True,True,0,0,0,0,0
+G04_280,4,Linear,4,True,True,37.79999999999999,11,9.4499999999999975,3.0740852297878791,2.75
+G04_281,4,Linear,4,True,True,0,0,0,0,0
+G04_282,4,Linear,4,True,True,0,0,0,0,0
+G04_283,4,Linear,4,True,True,12.199999999999966,6.1999999999999886,3.0499999999999914,1.7464249196572956,1.5499999999999972
+G04_284,4,Linear,4,True,True,0,0,0,0,0
+G04_285,4,Linear,4,True,True,0,0,0,0,0
+G04_286,4,Linear,4,True,True,0,0,0,0,0
+G04_287,4,Linear,4,True,True,580.79999999999995,44,145.19999999999999,12.049896265113654,11
+G04_288,4,Linear,4,True,True,576,24,144,12,6
+G04_289,4,Linear,4,True,True,0,0,0,0,0
+G04_290,4,Linear,4,True,True,211.40000000000001,27.400000000000006,52.850000000000001,7.2698005474703367,6.8500000000000014
+G04_291,4,Linear,4,True,True,0,0,0,0,0
+G04_292,4,Linear,4,True,True,11.6,6,2.8999999999999999,1.70293863659264,1.5
+G04_293,4,Linear,4,True,True,0,0,0,0,0
+G04_294,4,Linear,4,True,True,0,0,0,0,0
+G04_295,4,Linear,4,True,True,0,0,0,0,0
+G04_296,4,Linear,4,True,True,152.2000000000001,21.800000000000011,38.050000000000026,6.1684682053164561,5.4500000000000028
+G04_297,4,Linear,4,True,True,0,0,0,0,0
+G04_298,4,Linear,4,True,True,361,19,90.25,9.5,4.75
+G04_299,4,Linear,4,True,True,0,0,0,0,0
+G04_300,4,Linear,4,True,True,145.19999999999993,22,36.299999999999983,6.0249481325568262,5.5
+G04_001,4,LOCF,4,True,True,2,2,0.5,0.70710678118654757,0.5
+G04_002,4,LOCF,4,True,True,41,9,10.25,3.2015621187164243,2.25
+G04_003,4,LOCF,4,True,True,0,0,0,0,0
+G04_004,4,LOCF,4,True,True,34,10,8.5,2.9154759474226504,2.5
+G04_005,4,LOCF,4,True,True,0,0,0,0,0
+G04_006,4,LOCF,4,True,True,0,0,0,0,0
+G04_007,4,LOCF,4,True,True,0,0,0,0,0
+G04_008,4,LOCF,4,True,True,0,0,0,0,0
+G04_009,4,LOCF,4,True,True,0,0,0,0,0
+G04_010,4,LOCF,4,True,True,0,0,0,0,0
+G04_011,4,LOCF,4,True,True,0,0,0,0,0
+G04_012,4,LOCF,4,True,True,0,0,0,0,0
+G04_013,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_014,4,LOCF,4,True,True,0,0,0,0,0
+G04_015,4,LOCF,4,True,True,0,0,0,0,0
+G04_016,4,LOCF,4,True,True,0,0,0,0,0
+G04_017,4,LOCF,4,True,True,0,0,0,0,0
+G04_018,4,LOCF,4,True,True,0,0,0,0,0
+G04_019,4,LOCF,4,True,True,0,0,0,0,0
+G04_020,4,LOCF,4,True,True,0,0,0,0,0
+G04_021,4,LOCF,4,True,True,0,0,0,0,0
+G04_022,4,LOCF,4,True,True,0,0,0,0,0
+G04_023,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_024,4,LOCF,4,True,True,361,19,90.25,9.5,4.75
+G04_025,4,LOCF,4,True,True,70,16,17.5,4.1833001326703778,4
+G04_026,4,LOCF,4,True,True,0,0,0,0,0
+G04_027,4,LOCF,4,True,True,0,0,0,0,0
+G04_028,4,LOCF,4,True,True,0,0,0,0,0
+G04_029,4,LOCF,4,True,True,0,0,0,0,0
+G04_030,4,LOCF,4,True,True,0,0,0,0,0
+G04_031,4,LOCF,4,True,True,0,0,0,0,0
+G04_032,4,LOCF,4,True,True,0,0,0,0,0
+G04_033,4,LOCF,4,True,True,0,0,0,0,0
+G04_034,4,LOCF,4,True,True,26,8,6.5,2.5495097567963922,2
+G04_035,4,LOCF,4,True,True,0,0,0,0,0
+G04_036,4,LOCF,4,True,True,1809,81,452.25,21.266170318136737,20.25
+G04_037,4,LOCF,4,True,True,0,0,0,0,0
+G04_038,4,LOCF,4,True,True,0,0,0,0,0
+G04_039,4,LOCF,4,True,True,0,0,0,0,0
+G04_040,4,LOCF,4,True,True,0,0,0,0,0
+G04_041,4,LOCF,4,True,True,0,0,0,0,0
+G04_042,4,LOCF,4,True,True,0,0,0,0,0
+G04_043,4,LOCF,4,True,True,0,0,0,0,0
+G04_044,4,LOCF,4,True,True,0,0,0,0,0
+G04_045,4,LOCF,4,True,True,0,0,0,0,0
+G04_046,4,LOCF,4,True,True,0,0,0,0,0
+G04_047,4,LOCF,4,True,True,484,22,121,11,5.5
+G04_048,4,LOCF,4,True,True,0,0,0,0,0
+G04_049,4,LOCF,4,True,True,0,0,0,0,0
+G04_050,4,LOCF,4,True,True,0,0,0,0,0
+G04_051,4,LOCF,4,True,True,0,0,0,0,0
+G04_052,4,LOCF,4,True,True,0,0,0,0,0
+G04_053,4,LOCF,4,True,True,175,23,43.75,6.6143782776614763,5.75
+G04_054,4,LOCF,4,True,True,0,0,0,0,0
+G04_055,4,LOCF,4,True,True,0,0,0,0,0
+G04_056,4,LOCF,4,True,True,0,0,0,0,0
+G04_057,4,LOCF,4,True,True,27,9,6.75,2.598076211353316,2.25
+G04_058,4,LOCF,4,True,True,0,0,0,0,0
+G04_059,4,LOCF,4,True,True,441,21,110.25,10.5,5.25
+G04_060,4,LOCF,4,True,True,0,0,0,0,0
+G04_061,4,LOCF,4,True,True,0,0,0,0,0
+G04_062,4,LOCF,4,True,True,0,0,0,0,0
+G04_063,4,LOCF,4,True,True,0,0,0,0,0
+G04_064,4,LOCF,4,True,True,4,4,1,1,1
+G04_065,4,LOCF,4,True,True,0,0,0,0,0
+G04_066,4,LOCF,4,True,True,0,0,0,0,0
+G04_067,4,LOCF,4,True,True,0,0,0,0,0
+G04_068,4,LOCF,4,True,True,0,0,0,0,0
+G04_069,4,LOCF,4,True,True,0,0,0,0,0
+G04_070,4,LOCF,4,True,True,0,0,0,0,0
+G04_071,4,LOCF,4,True,True,256,16,64,8,4
+G04_072,4,LOCF,4,True,True,0,0,0,0,0
+G04_073,4,LOCF,4,True,True,0,0,0,0,0
+G04_074,4,LOCF,4,True,True,25,5,6.25,2.5,1.25
+G04_075,4,LOCF,4,True,True,0,0,0,0,0
+G04_076,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_077,4,LOCF,4,True,True,0,0,0,0,0
+G04_078,4,LOCF,4,True,True,1117,47,279.25,16.710774967068403,11.75
+G04_079,4,LOCF,4,True,True,0,0,0,0,0
+G04_080,4,LOCF,4,True,True,0,0,0,0,0
+G04_081,4,LOCF,4,True,True,0,0,0,0,0
+G04_082,4,LOCF,4,True,True,0,0,0,0,0
+G04_083,4,LOCF,4,True,True,92,14,23,4.7958315233127191,3.5
+G04_084,4,LOCF,4,True,True,0,0,0,0,0
+G04_085,4,LOCF,4,True,True,0,0,0,0,0
+G04_086,4,LOCF,4,True,True,0,0,0,0,0
+G04_087,4,LOCF,4,True,True,0,0,0,0,0
+G04_088,4,LOCF,4,True,True,0,0,0,0,0
+G04_089,4,LOCF,4,True,True,0,0,0,0,0
+G04_090,4,LOCF,4,True,True,0,0,0,0,0
+G04_091,4,LOCF,4,True,True,0,0,0,0,0
+G04_092,4,LOCF,4,True,True,49,7,12.25,3.5,1.75
+G04_093,4,LOCF,4,True,True,0,0,0,0,0
+G04_094,4,LOCF,4,True,True,0,0,0,0,0
+G04_095,4,LOCF,4,True,True,0,0,0,0,0
+G04_096,4,LOCF,4,True,True,121,11,30.25,5.5,2.75
+G04_097,4,LOCF,4,True,True,678,44,169.5,13.019216566291536,11
+G04_098,4,LOCF,4,True,True,459,27,114.75,10.712142642814275,6.75
+G04_099,4,LOCF,4,True,True,0,0,0,0,0
+G04_100,4,LOCF,4,True,True,256,16,64,8,4
+G04_101,4,LOCF,4,True,True,0,0,0,0,0
+G04_102,4,LOCF,4,True,True,0,0,0,0,0
+G04_103,4,LOCF,4,True,True,0,0,0,0,0
+G04_104,4,LOCF,4,True,True,0,0,0,0,0
+G04_105,4,LOCF,4,True,True,0,0,0,0,0
+G04_106,4,LOCF,4,True,True,0,0,0,0,0
+G04_107,4,LOCF,4,True,True,0,0,0,0,0
+G04_108,4,LOCF,4,True,True,0,0,0,0,0
+G04_109,4,LOCF,4,True,True,0,0,0,0,0
+G04_110,4,LOCF,4,True,True,0,0,0,0,0
+G04_111,4,LOCF,4,True,True,0,0,0,0,0
+G04_112,4,LOCF,4,True,True,0,0,0,0,0
+G04_113,4,LOCF,4,True,True,27,7,6.75,2.598076211353316,1.75
+G04_114,4,LOCF,4,True,True,0,0,0,0,0
+G04_115,4,LOCF,4,True,True,1,1,0.25,0.5,0.25
+G04_116,4,LOCF,4,True,True,0,0,0,0,0
+G04_117,4,LOCF,4,True,True,0,0,0,0,0
+G04_118,4,LOCF,4,True,True,0,0,0,0,0
+G04_119,4,LOCF,4,True,True,174,22,43.5,6.5954529791364598,5.5
+G04_120,4,LOCF,4,True,True,22,8,5.5,2.3452078799117149,2
+G04_121,4,LOCF,4,True,True,484,22,121,11,5.5
+G04_122,4,LOCF,4,True,True,0,0,0,0,0
+G04_123,4,LOCF,4,True,True,0,0,0,0,0
+G04_124,4,LOCF,4,True,True,0,0,0,0,0
+G04_125,4,LOCF,4,True,True,0,0,0,0,0
+G04_126,4,LOCF,4,True,True,0,0,0,0,0
+G04_127,4,LOCF,4,True,True,0,0,0,0,0
+G04_128,4,LOCF,4,True,True,2,2,0.5,0.70710678118654757,0.5
+G04_129,4,LOCF,4,True,True,0,0,0,0,0
+G04_130,4,LOCF,4,True,True,0,0,0,0,0
+G04_131,4,LOCF,4,True,True,12,6,3,1.7320508075688772,1.5
+G04_132,4,LOCF,4,True,True,0,0,0,0,0
+G04_133,4,LOCF,4,True,True,0,0,0,0,0
+G04_134,4,LOCF,4,True,True,676,52,169,13,13
+G04_135,4,LOCF,4,True,True,0,0,0,0,0
+G04_136,4,LOCF,4,True,True,0,0,0,0,0
+G04_137,4,LOCF,4,True,True,0,0,0,0,0
+G04_138,4,LOCF,4,True,True,38,12,9.5,3.082207001484488,3
+G04_139,4,LOCF,4,True,True,0,0,0,0,0
+G04_140,4,LOCF,4,True,True,0,0,0,0,0
+G04_141,4,LOCF,4,True,True,0,0,0,0,0
+G04_142,4,LOCF,4,True,True,0,0,0,0,0
+G04_143,4,LOCF,4,True,True,0,0,0,0,0
+G04_144,4,LOCF,4,True,True,0,0,0,0,0
+G04_145,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_146,4,LOCF,4,True,True,0,0,0,0,0
+G04_147,4,LOCF,4,True,True,0,0,0,0,0
+G04_148,4,LOCF,4,True,True,5,3,1.25,1.1180339887498949,0.75
+G04_149,4,LOCF,4,True,True,0,0,0,0,0
+G04_150,4,LOCF,4,True,True,625,25,156.25,12.5,6.25
+G04_151,4,LOCF,4,True,True,0,0,0,0,0
+G04_152,4,LOCF,4,True,True,0,0,0,0,0
+G04_153,4,LOCF,4,True,True,0,0,0,0,0
+G04_154,4,LOCF,4,True,True,0,0,0,0,0
+G04_155,4,LOCF,4,True,True,0,0,0,0,0
+G04_156,4,LOCF,4,True,True,22,8,5.5,2.3452078799117149,2
+G04_157,4,LOCF,4,True,True,0,0,0,0,0
+G04_158,4,LOCF,4,True,True,0,0,0,0,0
+G04_159,4,LOCF,4,True,True,0,0,0,0,0
+G04_160,4,LOCF,4,True,True,0,0,0,0,0
+G04_161,4,LOCF,4,True,True,484,22,121,11,5.5
+G04_162,4,LOCF,4,True,True,99,15,24.75,4.9749371855330997,3.75
+G04_163,4,LOCF,4,True,True,0,0,0,0,0
+G04_164,4,LOCF,4,True,True,576,48,144,12,12
+G04_165,4,LOCF,4,True,True,0,0,0,0,0
+G04_166,4,LOCF,4,True,True,42,12,10.5,3.2403703492039302,3
+G04_167,4,LOCF,4,True,True,0,0,0,0,0
+G04_168,4,LOCF,4,True,True,0,0,0,0,0
+G04_169,4,LOCF,4,True,True,0,0,0,0,0
+G04_170,4,LOCF,4,True,True,0,0,0,0,0
+G04_171,4,LOCF,4,True,True,125,19,31.25,5.5901699437494745,4.75
+G04_172,4,LOCF,4,True,True,0,0,0,0,0
+G04_173,4,LOCF,4,True,True,0,0,0,0,0
+G04_174,4,LOCF,4,True,True,0,0,0,0,0
+G04_175,4,LOCF,4,True,True,0,0,0,0,0
+G04_176,4,LOCF,4,True,True,0,0,0,0,0
+G04_177,4,LOCF,4,True,True,882,42,220.5,14.849242404917497,10.5
+G04_178,4,LOCF,4,True,True,0,0,0,0,0
+G04_179,4,LOCF,4,True,True,0,0,0,0,0
+G04_180,4,LOCF,4,True,True,0,0,0,0,0
+G04_181,4,LOCF,4,True,True,0,0,0,0,0
+G04_182,4,LOCF,4,True,True,0,0,0,0,0
+G04_183,4,LOCF,4,True,True,0,0,0,0,0
+G04_184,4,LOCF,4,True,True,0,0,0,0,0
+G04_185,4,LOCF,4,True,True,0,0,0,0,0
+G04_186,4,LOCF,4,True,True,0,0,0,0,0
+G04_187,4,LOCF,4,True,True,0,0,0,0,0
+G04_188,4,LOCF,4,True,True,262,32,65.5,8.0932070281193234,8
+G04_189,4,LOCF,4,True,True,0,0,0,0,0
+G04_190,4,LOCF,4,True,True,441,21,110.25,10.5,5.25
+G04_191,4,LOCF,4,True,True,0,0,0,0,0
+G04_192,4,LOCF,4,True,True,0,0,0,0,0
+G04_193,4,LOCF,4,True,True,1,1,0.25,0.5,0.25
+G04_194,4,LOCF,4,True,True,16,8,4,2,2
+G04_195,4,LOCF,4,True,True,0,0,0,0,0
+G04_196,4,LOCF,4,True,True,0,0,0,0,0
+G04_197,4,LOCF,4,True,True,14,6,3.5,1.8708286933869707,1.5
+G04_198,4,LOCF,4,True,True,0,0,0,0,0
+G04_199,4,LOCF,4,True,True,0,0,0,0,0
+G04_200,4,LOCF,4,True,True,25,5,6.25,2.5,1.25
+G04_201,4,LOCF,4,True,True,0,0,0,0,0
+G04_202,4,LOCF,4,True,True,1296,72,324,18,18
+G04_203,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_204,4,LOCF,4,True,True,0,0,0,0,0
+G04_205,4,LOCF,4,True,True,0,0,0,0,0
+G04_206,4,LOCF,4,True,True,10,4,2.5,1.5811388300841898,1
+G04_207,4,LOCF,4,True,True,0,0,0,0,0
+G04_208,4,LOCF,4,True,True,0,0,0,0,0
+G04_209,4,LOCF,4,True,True,0,0,0,0,0
+G04_210,4,LOCF,4,True,True,0,0,0,0,0
+G04_211,4,LOCF,4,True,True,0,0,0,0,0
+G04_212,4,LOCF,4,True,True,0,0,0,0,0
+G04_213,4,LOCF,4,True,True,0,0,0,0,0
+G04_214,4,LOCF,4,True,True,0,0,0,0,0
+G04_215,4,LOCF,4,True,True,0,0,0,0,0
+G04_216,4,LOCF,4,True,True,0,0,0,0,0
+G04_217,4,LOCF,4,True,True,0,0,0,0,0
+G04_218,4,LOCF,4,True,True,0,0,0,0,0
+G04_219,4,LOCF,4,True,True,0,0,0,0,0
+G04_220,4,LOCF,4,True,True,361,19,90.25,9.5,4.75
+G04_221,4,LOCF,4,True,True,0,0,0,0,0
+G04_222,4,LOCF,4,True,True,0,0,0,0,0
+G04_223,4,LOCF,4,True,True,0,0,0,0,0
+G04_224,4,LOCF,4,True,True,0,0,0,0,0
+G04_225,4,LOCF,4,True,True,0,0,0,0,0
+G04_226,4,LOCF,4,True,True,0,0,0,0,0
+G04_227,4,LOCF,4,True,True,23,9,5.75,2.3979157616563596,2.25
+G04_228,4,LOCF,4,True,True,0,0,0,0,0
+G04_229,4,LOCF,4,True,True,121,11,30.25,5.5,2.75
+G04_230,4,LOCF,4,True,True,642,48,160.5,12.668859459319927,12
+G04_231,4,LOCF,4,True,True,0,0,0,0,0
+G04_232,4,LOCF,4,True,True,0,0,0,0,0
+G04_233,4,LOCF,4,True,True,0,0,0,0,0
+G04_234,4,LOCF,4,True,True,0,0,0,0,0
+G04_235,4,LOCF,4,True,True,0,0,0,0,0
+G04_236,4,LOCF,4,True,True,0,0,0,0,0
+G04_237,4,LOCF,4,True,True,0,0,0,0,0
+G04_238,4,LOCF,4,True,True,81,15,20.25,4.5,3.75
+G04_239,4,LOCF,4,True,True,0,0,0,0,0
+G04_240,4,LOCF,4,True,True,0,0,0,0,0
+G04_241,4,LOCF,4,True,True,529,23,132.25,11.5,5.75
+G04_242,4,LOCF,4,True,True,0,0,0,0,0
+G04_243,4,LOCF,4,True,True,0,0,0,0,0
+G04_244,4,LOCF,4,True,True,0,0,0,0,0
+G04_245,4,LOCF,4,True,True,0,0,0,0,0
+G04_246,4,LOCF,4,True,True,0,0,0,0,0
+G04_247,4,LOCF,4,True,True,0,0,0,0,0
+G04_248,4,LOCF,4,True,True,0,0,0,0,0
+G04_249,4,LOCF,4,True,True,0,0,0,0,0
+G04_250,4,LOCF,4,True,True,0,0,0,0,0
+G04_251,4,LOCF,4,True,True,0,0,0,0,0
+G04_252,4,LOCF,4,True,True,0,0,0,0,0
+G04_253,4,LOCF,4,True,True,0,0,0,0,0
+G04_254,4,LOCF,4,True,True,0,0,0,0,0
+G04_255,4,LOCF,4,True,True,0,0,0,0,0
+G04_256,4,LOCF,4,True,True,41,11,10.25,3.2015621187164243,2.75
+G04_257,4,LOCF,4,True,True,27,9,6.75,2.598076211353316,2.25
+G04_258,4,LOCF,4,True,True,0,0,0,0,0
+G04_259,4,LOCF,4,True,True,0,0,0,0,0
+G04_260,4,LOCF,4,True,True,0,0,0,0,0
+G04_261,4,LOCF,4,True,True,2,2,0.5,0.70710678118654757,0.5
+G04_262,4,LOCF,4,True,True,0,0,0,0,0
+G04_263,4,LOCF,4,True,True,993,51,248.25,15.75595125658873,12.75
+G04_264,4,LOCF,4,True,True,0,0,0,0,0
+G04_265,4,LOCF,4,True,True,0,0,0,0,0
+G04_266,4,LOCF,4,True,True,0,0,0,0,0
+G04_267,4,LOCF,4,True,True,0,0,0,0,0
+G04_268,4,LOCF,4,True,True,9,5,2.25,1.5,1.25
+G04_269,4,LOCF,4,True,True,0,0,0,0,0
+G04_270,4,LOCF,4,True,True,0,0,0,0,0
+G04_271,4,LOCF,4,True,True,0,0,0,0,0
+G04_272,4,LOCF,4,True,True,441,21,110.25,10.5,5.25
+G04_273,4,LOCF,4,True,True,0,0,0,0,0
+G04_274,4,LOCF,4,True,True,0,0,0,0,0
+G04_275,4,LOCF,4,True,True,0,0,0,0,0
+G04_276,4,LOCF,4,True,True,0,0,0,0,0
+G04_277,4,LOCF,4,True,True,0,0,0,0,0
+G04_278,4,LOCF,4,True,True,340,26,85,9.2195444572928871,6.5
+G04_279,4,LOCF,4,True,True,0,0,0,0,0
+G04_280,4,LOCF,4,True,True,25,9,6.25,2.5,2.25
+G04_281,4,LOCF,4,True,True,0,0,0,0,0
+G04_282,4,LOCF,4,True,True,0,0,0,0,0
+G04_283,4,LOCF,4,True,True,15,7,3.75,1.9364916731037085,1.75
+G04_284,4,LOCF,4,True,True,0,0,0,0,0
+G04_285,4,LOCF,4,True,True,0,0,0,0,0
+G04_286,4,LOCF,4,True,True,0,0,0,0,0
+G04_287,4,LOCF,4,True,True,0,0,0,0,0
+G04_288,4,LOCF,4,True,True,576,24,144,12,6
+G04_289,4,LOCF,4,True,True,0,0,0,0,0
+G04_290,4,LOCF,4,True,True,1475,59,368.75,19.20286436967152,14.75
+G04_291,4,LOCF,4,True,True,0,0,0,0,0
+G04_292,4,LOCF,4,True,True,6,4,1.5,1.2247448713915889,1
+G04_293,4,LOCF,4,True,True,0,0,0,0,0
+G04_294,4,LOCF,4,True,True,0,0,0,0,0
+G04_295,4,LOCF,4,True,True,0,0,0,0,0
+G04_296,4,LOCF,4,True,True,157,17,39.25,6.2649820430708338,4.25
+G04_297,4,LOCF,4,True,True,0,0,0,0,0
+G04_298,4,LOCF,4,True,True,361,19,90.25,9.5,4.75
+G04_299,4,LOCF,4,True,True,0,0,0,0,0
+G04_300,4,LOCF,4,True,True,484,44,121,11,11
+G04_001,4,Train-TOD median,4,True,True,88.25,18.5,22.0625,4.6970735570139839,4.625
+G04_002,4,Train-TOD median,4,True,True,82.25,16.5,20.5625,4.5345892868042634,4.125
+G04_003,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_004,4,Train-TOD median,4,True,True,7.5,4,1.875,1.3693063937629153,1
+G04_005,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_006,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_007,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_008,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_009,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_010,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_011,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_012,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_013,4,Train-TOD median,4,True,True,14.25,6.5,3.5625,1.8874586088176875,1.625
+G04_014,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_015,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_016,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_017,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_018,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_019,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_020,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_021,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_022,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_023,4,Train-TOD median,4,True,True,21,9,5.25,2.2912878474779199,2.25
+G04_024,4,Train-TOD median,4,True,True,361,19,90.25,9.5,4.75
+G04_025,4,Train-TOD median,4,True,True,130,16,32.5,5.7008771254956896,4
+G04_026,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_027,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_028,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_029,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_030,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_031,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_032,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_033,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_034,4,Train-TOD median,4,True,True,19.25,6.5,4.8125,2.1937410968480306,1.625
+G04_035,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_036,4,Train-TOD median,4,True,True,225,15,56.25,7.5,3.75
+G04_037,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_038,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_039,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_040,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_041,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_042,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_043,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_044,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_045,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_046,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_047,4,Train-TOD median,4,True,True,484,22,121,11,5.5
+G04_048,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_049,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_050,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_051,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_052,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_053,4,Train-TOD median,4,True,True,36.25,6.5,9.0625,3.0103986446980739,1.625
+G04_054,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_055,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_056,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_057,4,Train-TOD median,4,True,True,7,5,1.75,1.3228756555322954,1.25
+G04_058,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_059,4,Train-TOD median,4,True,True,441,21,110.25,10.5,5.25
+G04_060,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_061,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_062,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_063,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_064,4,Train-TOD median,4,True,True,17.25,7.5,4.3125,2.0766559657295187,1.875
+G04_065,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_066,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_067,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_068,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_069,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_070,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_071,4,Train-TOD median,4,True,True,256,16,64,8,4
+G04_072,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_073,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_074,4,Train-TOD median,4,True,True,25,5,6.25,2.5,1.25
+G04_075,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_076,4,Train-TOD median,4,True,True,28,10,7,2.6457513110645907,2.5
+G04_077,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_078,4,Train-TOD median,4,True,True,1117,47,279.25,16.710774967068403,11.75
+G04_079,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_080,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_081,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_082,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_083,4,Train-TOD median,4,True,True,2444,98,611,24.718414188616549,24.5
+G04_084,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_085,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_086,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_087,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_088,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_089,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_090,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_091,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_092,4,Train-TOD median,4,True,True,446.25,40.5,111.5625,10.562315087138805,10.125
+G04_093,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_094,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_095,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_096,4,Train-TOD median,4,True,True,121,11,30.25,5.5,2.75
+G04_097,4,Train-TOD median,4,True,True,678,44,169.5,13.019216566291536,11
+G04_098,4,Train-TOD median,4,True,True,1509,67,377.25,19.422924599555031,16.75
+G04_099,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_100,4,Train-TOD median,4,True,True,256,16,64,8,4
+G04_101,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_102,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_103,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_104,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_105,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_106,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_107,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_108,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_109,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_110,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_111,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_112,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_113,4,Train-TOD median,4,True,True,109.25,16.5,27.3125,5.2261362400917184,4.125
+G04_114,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_115,4,Train-TOD median,4,True,True,42,12,10.5,3.2403703492039302,3
+G04_116,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_117,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_118,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_119,4,Train-TOD median,4,True,True,605.5,48,151.375,12.303454799364282,12
+G04_120,4,Train-TOD median,4,True,True,27.5,9,6.875,2.6220221204253789,2.25
+G04_121,4,Train-TOD median,4,True,True,484,22,121,11,5.5
+G04_122,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_123,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_124,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_125,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_126,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_127,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_128,4,Train-TOD median,4,True,True,16.25,7.5,4.0625,2.0155644370746373,1.875
+G04_129,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_130,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_131,4,Train-TOD median,4,True,True,47.25,12.5,11.8125,3.4369317712168801,3.125
+G04_132,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_133,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_134,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_135,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_136,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_137,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_138,4,Train-TOD median,4,True,True,235,29,58.75,7.6648548583779457,7.25
+G04_139,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_140,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_141,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_142,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_143,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_144,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_145,4,Train-TOD median,4,True,True,57.25,14.5,14.3125,3.7831864876053891,3.625
+G04_146,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_147,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_148,4,Train-TOD median,4,True,True,49.25,13.5,12.3125,3.5089172119045497,3.375
+G04_149,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_150,4,Train-TOD median,4,True,True,625,25,156.25,12.5,6.25
+G04_151,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_152,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_153,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_154,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_155,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_156,4,Train-TOD median,4,True,True,72,16,18,4.2426406871192848,4
+G04_157,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_158,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_159,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_160,4,Train-TOD median,4,True,True,401.5,40,100.375,10.01873245475694,10
+G04_161,4,Train-TOD median,4,True,True,484,22,121,11,5.5
+G04_162,4,Train-TOD median,4,True,True,425,39,106.25,10.307764064044152,9.75
+G04_163,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_164,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_165,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_166,4,Train-TOD median,4,True,True,3402,116,850.5,29.16333314283537,29
+G04_167,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_168,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_169,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_170,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_171,4,Train-TOD median,4,True,True,18.25,7.5,4.5625,2.1360009363293826,1.875
+G04_172,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_173,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_174,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_175,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_176,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_177,4,Train-TOD median,4,True,True,882,42,220.5,14.849242404917497,10.5
+G04_178,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_179,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_180,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_181,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_182,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_183,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_184,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_185,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_186,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_187,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_188,4,Train-TOD median,4,True,True,25.25,9.5,6.3125,2.5124689052802225,2.375
+G04_189,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_190,4,Train-TOD median,4,True,True,441,21,110.25,10.5,5.25
+G04_191,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_192,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_193,4,Train-TOD median,4,True,True,17.25,7.5,4.3125,2.0766559657295187,1.875
+G04_194,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_195,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_196,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_197,4,Train-TOD median,4,True,True,50.25,12.5,12.5625,3.5443617196894563,3.125
+G04_198,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_199,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_200,4,Train-TOD median,4,True,True,25,5,6.25,2.5,1.25
+G04_201,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_202,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_203,4,Train-TOD median,4,True,True,54.25,14.5,13.5625,3.6827299656640586,3.625
+G04_204,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_205,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_206,4,Train-TOD median,4,True,True,46,12,11.5,3.3911649915626341,3
+G04_207,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_208,4,Train-TOD median,4,True,True,112.25,13.5,28.0625,5.2974050251042728,3.375
+G04_209,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_210,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_211,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_212,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_213,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_214,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_215,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_216,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_217,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_218,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_219,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_220,4,Train-TOD median,4,True,True,361,19,90.25,9.5,4.75
+G04_221,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_222,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_223,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_224,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_225,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_226,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_227,4,Train-TOD median,4,True,True,443,41,110.75,10.523782589924593,10.25
+G04_228,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_229,4,Train-TOD median,4,True,True,121,11,30.25,5.5,2.75
+G04_230,4,Train-TOD median,4,True,True,578.25,45.5,144.5625,12.023414656411049,11.375
+G04_231,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_232,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_233,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_234,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_235,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_236,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_237,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_238,4,Train-TOD median,4,True,True,68.5,13,17.125,4.1382363393117121,3.25
+G04_239,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_240,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_241,4,Train-TOD median,4,True,True,529,23,132.25,11.5,5.75
+G04_242,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_243,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_244,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_245,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_246,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_247,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_248,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_249,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_250,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_251,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_252,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_253,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_254,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_255,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_256,4,Train-TOD median,4,True,True,84.25,17.5,21.0625,4.5893899376714549,4.375
+G04_257,4,Train-TOD median,4,True,True,6.25,2.5,1.5625,1.25,0.625
+G04_258,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_259,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_260,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_261,4,Train-TOD median,4,True,True,23,9,5.75,2.3979157616563596,2.25
+G04_262,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_263,4,Train-TOD median,4,True,True,1301,51,325.25,18.034688796871432,12.75
+G04_264,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_265,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_266,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_267,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_268,4,Train-TOD median,4,True,True,81.25,17.5,20.3125,4.5069390943299865,4.375
+G04_269,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_270,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_271,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_272,4,Train-TOD median,4,True,True,441,21,110.25,10.5,5.25
+G04_273,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_274,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_275,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_276,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_277,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_278,4,Train-TOD median,4,True,True,340,26,85,9.2195444572928871,6.5
+G04_279,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_280,4,Train-TOD median,4,True,True,55.25,13.5,13.8125,3.7165171868296265,3.375
+G04_281,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_282,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_283,4,Train-TOD median,4,True,True,14,6,3.5,1.8708286933869707,1.5
+G04_284,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_285,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_286,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_287,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_288,4,Train-TOD median,4,True,True,576,24,144,12,6
+G04_289,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_290,4,Train-TOD median,4,True,True,1205,49,301.25,17.356554957709783,12.25
+G04_291,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_292,4,Train-TOD median,4,True,True,19.25,8.5,4.8125,2.1937410968480306,2.125
+G04_293,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_294,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_295,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_296,4,Train-TOD median,4,True,True,479.25,37.5,119.8125,10.945889639494817,9.375
+G04_297,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_298,4,Train-TOD median,4,True,True,361,19,90.25,9.5,4.75
+G04_299,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_300,4,Train-TOD median,4,True,True,0,0,0,0,0
+G04_001,4,Spatial median,4,True,True,3142,112,785.5,28.026772914483036,28
+G04_002,4,Spatial median,4,True,True,4707,137,1176.75,34.303789878087812,34.25
+G04_003,4,Spatial median,4,True,True,64,16,16,4,4
+G04_004,4,Spatial median,4,True,True,3746,122,936.5,30.602287496198713,30.5
+G04_005,4,Spatial median,4,True,True,144,24,36,6,6
+G04_006,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_007,4,Spatial median,4,True,True,156,24,39,6.2449979983983983,6
+G04_008,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_009,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_010,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_011,4,Spatial median,4,True,True,176,24,44,6.6332495807107996,6
+G04_012,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_013,4,Spatial median,4,True,True,5186,144,1296.5,36.006943774777667,36
+G04_014,4,Spatial median,4,True,True,389,35,97.25,9.8615414616580104,8.75
+G04_015,4,Spatial median,4,True,True,16,4,4,2,1
+G04_016,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_017,4,Spatial median,4,True,True,224,24,56,7.4833147735478827,6
+G04_018,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_019,4,Spatial median,4,True,True,144,24,36,6,6
+G04_020,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_021,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_022,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_023,4,Spatial median,4,True,True,3254,114,813.5,28.521921393903323,28.5
+G04_024,4,Spatial median,4,True,True,33,9,8.25,2.8722813232690143,2.25
+G04_025,4,Spatial median,4,True,True,614,48,153.5,12.389511693363866,12
+G04_026,4,Spatial median,4,True,True,212,28,53,7.2801098892805181,7
+G04_027,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_028,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_029,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_030,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_031,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_032,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_033,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_034,4,Spatial median,4,True,True,16422,256,4105.5,64.074175765280046,64
+G04_035,4,Spatial median,4,True,True,144,24,36,6,6
+G04_036,4,Spatial median,4,True,True,1279,67,319.75,17.881554742247666,16.75
+G04_037,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_038,4,Spatial median,4,True,True,16,4,4,2,1
+G04_039,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_040,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_041,4,Spatial median,4,True,True,52,12,13,3.6055512754639891,3
+G04_042,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_043,4,Spatial median,4,True,True,64,16,16,4,4
+G04_044,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_045,4,Spatial median,4,True,True,16,4,4,2,1
+G04_046,4,Spatial median,4,True,True,28,8,7,2.6457513110645907,2
+G04_047,4,Spatial median,4,True,True,293,33,73.25,8.558621384311845,8.25
+G04_048,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_049,4,Spatial median,4,True,True,0,0,0,0,0
+G04_050,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_051,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_052,4,Spatial median,4,True,True,1312,72,328,18.110770276274835,18
+G04_053,4,Spatial median,4,True,True,8219,181,2054.75,45.329350315220708,45.25
+G04_054,4,Spatial median,4,True,True,64,16,16,4,4
+G04_055,4,Spatial median,4,True,True,144,24,36,6,6
+G04_056,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_057,4,Spatial median,4,True,True,3917,125,979.25,31.2929704566377,31.25
+G04_058,4,Spatial median,4,True,True,144,24,36,6,6
+G04_059,4,Spatial median,4,True,True,858,44,214.5,14.64581851587681,11
+G04_060,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_061,4,Spatial median,4,True,True,144,24,36,6,6
+G04_062,4,Spatial median,4,True,True,64,16,16,4,4
+G04_063,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_064,4,Spatial median,4,True,True,5940,154,1485,38.535697735995385,38.5
+G04_065,4,Spatial median,4,True,True,393,27,98.25,9.9121138007995047,6.75
+G04_066,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_067,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_068,4,Spatial median,4,True,True,76,16,19,4.358898943540674,4
+G04_069,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_070,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_071,4,Spatial median,4,True,True,108,18,27,5.196152422706632,4.5
+G04_072,4,Spatial median,4,True,True,144,24,36,6,6
+G04_073,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_074,4,Spatial median,4,True,True,231,29,57.75,7.5993420767853319,7.25
+G04_075,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_076,4,Spatial median,4,True,True,5490,148,1372.5,37.047267105685407,37
+G04_077,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_078,4,Spatial median,4,True,True,617,47,154.25,12.419742348374221,11.75
+G04_079,4,Spatial median,4,True,True,1168,68,292,17.088007490635061,17
+G04_080,4,Spatial median,4,True,True,64,16,16,4,4
+G04_081,4,Spatial median,4,True,True,144,24,36,6,6
+G04_082,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_083,4,Spatial median,4,True,True,952,56,238,15.427248620541512,14
+G04_084,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_085,4,Spatial median,4,True,True,16,4,4,2,1
+G04_086,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_087,4,Spatial median,4,True,True,16,4,4,2,1
+G04_088,4,Spatial median,4,True,True,1312,72,328,18.110770276274835,18
+G04_089,4,Spatial median,4,True,True,16,4,4,2,1
+G04_090,4,Spatial median,4,True,True,64,16,16,4,4
+G04_091,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_092,4,Spatial median,4,True,True,1297,71,324.25,18.006943105369107,17.75
+G04_093,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_094,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_095,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_096,4,Spatial median,4,True,True,63,13,15.75,3.9686269665968861,3.25
+G04_097,4,Spatial median,4,True,True,294,32,73.5,8.5732140997411239,8
+G04_098,4,Spatial median,4,True,True,2026,88,506.5,22.5055548698538,22
+G04_099,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_100,4,Spatial median,4,True,True,172,22,43,6.5574385243020004,5.5
+G04_101,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_102,4,Spatial median,4,True,True,1168,68,292,17.088007490635061,17
+G04_103,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_104,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_105,4,Spatial median,4,True,True,96,16,24,4.8989794855663558,4
+G04_106,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_107,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_108,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_109,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_110,4,Spatial median,4,True,True,100,20,25,5,5
+G04_111,4,Spatial median,4,True,True,16,4,4,2,1
+G04_112,4,Spatial median,4,True,True,144,24,36,6,6
+G04_113,4,Spatial median,4,True,True,12951,227,3237.75,56.901230215171971,56.75
+G04_114,4,Spatial median,4,True,True,16,4,4,2,1
+G04_115,4,Spatial median,4,True,True,3101,111,775.25,27.843311584651708,27.75
+G04_116,4,Spatial median,4,True,True,144,24,36,6,6
+G04_117,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_118,4,Spatial median,4,True,True,16,4,4,2,1
+G04_119,4,Spatial median,4,True,True,9910,198,2477.5,49.77449145897927,49.5
+G04_120,4,Spatial median,4,True,True,15890,252,3972.5,63.027771656627685,63
+G04_121,4,Spatial median,4,True,True,220,24,55,7.416198487095663,6
+G04_122,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_123,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_124,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_125,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_126,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_127,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_128,4,Spatial median,4,True,True,3266,114,816.5,28.574464124459098,28.5
+G04_129,4,Spatial median,4,True,True,1312,72,328,18.110770276274835,18
+G04_130,4,Spatial median,4,True,True,144,24,36,6,6
+G04_131,4,Spatial median,4,True,True,2812,106,703,26.514147167125703,26.5
+G04_132,4,Spatial median,4,True,True,1501,71,375.25,19.371370627810517,17.75
+G04_133,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_134,4,Spatial median,4,True,True,1056,64,264,16.248076809271922,16
+G04_135,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_136,4,Spatial median,4,True,True,212,28,53,7.2801098892805181,7
+G04_137,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_138,4,Spatial median,4,True,True,14426,240,3606.5,60.054142238483436,60
+G04_139,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_140,4,Spatial median,4,True,True,11676,216,2919,54.027770636960398,54
+G04_141,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_142,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_143,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_144,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_145,4,Spatial median,4,True,True,5342,146,1335.5,36.544493429243211,36.5
+G04_146,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_147,4,Spatial median,4,True,True,144,24,36,6,6
+G04_148,4,Spatial median,4,True,True,3327,115,831.75,28.840076282839476,28.75
+G04_149,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_150,4,Spatial median,4,True,True,1033,53,258.25,16.070158679988197,13.25
+G04_151,4,Spatial median,4,True,True,64,16,16,4,4
+G04_152,4,Spatial median,4,True,True,1312,72,328,18.110770276274835,18
+G04_153,4,Spatial median,4,True,True,16,4,4,2,1
+G04_154,4,Spatial median,4,True,True,11676,216,2919,54.027770636960398,54
+G04_155,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_156,4,Spatial median,4,True,True,2894,106,723.5,26.89795531262553,26.5
+G04_157,4,Spatial median,4,True,True,64,16,16,4,4
+G04_158,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_159,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_160,4,Spatial median,4,True,True,100,20,25,5,5
+G04_161,4,Spatial median,4,True,True,220,26,55,7.416198487095663,6.5
+G04_162,4,Spatial median,4,True,True,1525,77,381.25,19.525624189766635,19.25
+G04_163,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_164,4,Spatial median,4,True,True,1024,64,256,16,16
+G04_165,4,Spatial median,4,True,True,0,0,0,0,0
+G04_166,4,Spatial median,4,True,True,1478,76,369.5,19.222382786741086,19
+G04_167,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_168,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_169,4,Spatial median,4,True,True,144,24,36,6,6
+G04_170,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_171,4,Spatial median,4,True,True,17337,263,4334.25,65.835021075412442,65.75
+G04_172,4,Spatial median,4,True,True,144,24,36,6,6
+G04_173,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_174,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_175,4,Spatial median,4,True,True,1168,68,292,17.088007490635061,17
+G04_176,4,Spatial median,4,True,True,16,4,4,2,1
+G04_177,4,Spatial median,4,True,True,546,46,136.5,11.683321445547923,11.5
+G04_178,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_179,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_180,4,Spatial median,4,True,True,64,16,16,4,4
+G04_181,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_182,4,Spatial median,4,True,True,16,4,4,2,1
+G04_183,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_184,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_185,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_186,4,Spatial median,4,True,True,144,24,36,6,6
+G04_187,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_188,4,Spatial median,4,True,True,2918,108,729.5,27.009257672139011,27
+G04_189,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_190,4,Spatial median,4,True,True,945,49,236.25,15.370426148939398,12.25
+G04_191,4,Spatial median,4,True,True,76,16,19,4.358898943540674,4
+G04_192,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_193,4,Spatial median,4,True,True,4569,135,1142.25,33.797189232242374,33.75
+G04_194,4,Spatial median,4,True,True,11252,212,2813,53.037722424704477,53
+G04_195,4,Spatial median,4,True,True,16,4,4,2,1
+G04_196,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_197,4,Spatial median,4,True,True,11079,209,2769.75,52.628414378546502,52.25
+G04_198,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_199,4,Spatial median,4,True,True,144,24,36,6,6
+G04_200,4,Spatial median,4,True,True,12251,221,3062.75,55.34211777660844,55.25
+G04_201,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_202,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_203,4,Spatial median,4,True,True,3146,112,786.5,28.044607324760317,28
+G04_204,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_205,4,Spatial median,4,True,True,912,60,228,15.0996688705415,15
+G04_206,4,Spatial median,4,True,True,5482,148,1370.5,37.020264720825537,37
+G04_207,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_208,4,Spatial median,4,True,True,1312,72,328,18.110770276274835,18
+G04_209,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_210,4,Spatial median,4,True,True,144,24,36,6,6
+G04_211,4,Spatial median,4,True,True,156,24,39,6.2449979983983983,6
+G04_212,4,Spatial median,4,True,True,144,20,36,6,5
+G04_213,4,Spatial median,4,True,True,241,19,60.25,7.7620873481300121,4.75
+G04_214,4,Spatial median,4,True,True,144,20,36,6,5
+G04_215,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_216,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_217,4,Spatial median,4,True,True,1456,76,364,19.078784028338912,19
+G04_218,4,Spatial median,4,True,True,108,16,27,5.196152422706632,4
+G04_219,4,Spatial median,4,True,True,16,4,4,2,1
+G04_220,4,Spatial median,4,True,True,33,9,8.25,2.8722813232690143,2.25
+G04_221,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_222,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_223,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_224,4,Spatial median,4,True,True,64,16,16,4,4
+G04_225,4,Spatial median,4,True,True,256,32,64,8,8
+G04_226,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_227,4,Spatial median,4,True,True,3647,119,911.75,30.195198293768499,29.75
+G04_228,4,Spatial median,4,True,True,16,4,4,2,1
+G04_229,4,Spatial median,4,True,True,531,39,132.75,11.521718621802913,9.75
+G04_230,4,Spatial median,4,True,True,87,17,21.75,4.6636895265444078,4.25
+G04_231,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_232,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_233,4,Spatial median,4,True,True,144,24,36,6,6
+G04_234,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_235,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_236,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_237,4,Spatial median,4,True,True,64,16,16,4,4
+G04_238,4,Spatial median,4,True,True,18371,271,4592.75,67.769831045975025,67.75
+G04_239,4,Spatial median,4,True,True,144,24,36,6,6
+G04_240,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_241,4,Spatial median,4,True,True,193,25,48.25,6.946221994724902,6.25
+G04_242,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_243,4,Spatial median,4,True,True,16,4,4,2,1
+G04_244,4,Spatial median,4,True,True,496,36,124,11.135528725660043,9
+G04_245,4,Spatial median,4,True,True,76,16,19,4.358898943540674,4
+G04_246,4,Spatial median,4,True,True,144,24,36,6,6
+G04_247,4,Spatial median,4,True,True,64,16,16,4,4
+G04_248,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_249,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_250,4,Spatial median,4,True,True,76,16,19,4.358898943540674,4
+G04_251,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_252,4,Spatial median,4,True,True,64,16,16,4,4
+G04_253,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_254,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_255,4,Spatial median,4,True,True,144,24,36,6,6
+G04_256,4,Spatial median,4,True,True,4855,139,1213.75,34.838915023289687,34.75
+G04_257,4,Spatial median,4,True,True,11349,213,2837.25,53.265842713694113,53.25
+G04_258,4,Spatial median,4,True,True,16,4,4,2,1
+G04_259,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_260,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_261,4,Spatial median,4,True,True,3266,114,816.5,28.574464124459098,28.5
+G04_262,4,Spatial median,4,True,True,144,24,36,6,6
+G04_263,4,Spatial median,4,True,True,729,47,182.25,13.5,11.75
+G04_264,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_265,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_266,4,Spatial median,4,True,True,208,28,52,7.2111025509279782,7
+G04_267,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_268,4,Spatial median,4,True,True,5435,147,1358.75,36.86122624113311,36.75
+G04_269,4,Spatial median,4,True,True,272,20,68,8.2462112512353212,5
+G04_270,4,Spatial median,4,True,True,16,4,4,2,1
+G04_271,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_272,4,Spatial median,4,True,True,307,27,76.75,8.7607077339676156,6.75
+G04_273,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_274,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_275,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_276,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_277,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_278,4,Spatial median,4,True,True,756,50,189,13.74772708486752,12.5
+G04_279,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_280,4,Spatial median,4,True,True,1203,67,300.75,17.342145196024624,16.75
+G04_281,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_282,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_283,4,Spatial median,4,True,True,3927,125,981.75,31.332890067786597,31.25
+G04_284,4,Spatial median,4,True,True,16,4,4,2,1
+G04_285,4,Spatial median,4,True,True,144,24,36,6,6
+G04_286,4,Spatial median,4,True,True,80,16,20,4.4721359549995796,4
+G04_287,4,Spatial median,4,True,True,496,40,124,11.135528725660043,10
+G04_288,4,Spatial median,4,True,True,400,32,100,10,8
+G04_289,4,Spatial median,4,True,True,16,4,4,2,1
+G04_290,4,Spatial median,4,True,True,509,39,127.25,11.280514172678478,9.75
+G04_291,4,Spatial median,4,True,True,32,8,8,2.8284271247461903,2
+G04_292,4,Spatial median,4,True,True,3382,116,845.5,29.077482697097423,29
+G04_293,4,Spatial median,4,True,True,0,0,0,0,0
+G04_294,4,Spatial median,4,True,True,48,12,12,3.4641016151377544,3
+G04_295,4,Spatial median,4,True,True,160,24,40,6.324555320336759,6
+G04_296,4,Spatial median,4,True,True,2213,89,553.25,23.521266972678152,22.25
+G04_297,4,Spatial median,4,True,True,112,20,28,5.2915026221291814,5
+G04_298,4,Spatial median,4,True,True,157,23,39.25,6.2649820430708338,5.75
+G04_299,4,Spatial median,4,True,True,16,4,4,2,1
+G04_300,4,Spatial median,4,True,True,52,12,13,3.6055512754639891,3
+G12_001,12,Linear,12,True,True,0,0,0,0,0
+G12_002,12,Linear,12,True,True,0,0,0,0,0
+G12_003,12,Linear,12,True,True,0,0,0,0,0
+G12_004,12,Linear,12,True,True,0,0,0,0,0
+G12_005,12,Linear,12,True,True,0,0,0,0,0
+G12_006,12,Linear,12,True,True,0,0,0,0,0
+G12_007,12,Linear,12,True,True,37.384615384615373,16.769230769230766,3.1153846153846145,1.7650452162436561,1.3974358974358971
+G12_008,12,Linear,12,True,True,484,22,40.333333333333336,6.3508529610858835,1.8333333333333333
+G12_009,12,Linear,12,True,True,54.307692307692314,22,4.5256410256410264,2.1273554065179203,1.8333333333333333
+G12_010,12,Linear,12,True,True,0,0,0,0,0
+G12_011,12,Linear,12,True,True,0,0,0,0,0
+G12_012,12,Linear,12,True,True,240.3846153846155,43.615384615384613,20.032051282051292,4.4757179627464563,3.6346153846153846
+G12_013,12,Linear,12,True,True,0,0,0,0,0
+G12_014,12,Linear,12,True,True,0,0,0,0,0
+G12_015,12,Linear,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_016,12,Linear,12,True,True,509,39,42.416666666666664,6.5128078941933074,3.25
+G12_017,12,Linear,12,True,True,0,0,0,0,0
+G12_018,12,Linear,12,True,True,316.92307692307708,58,26.410256410256423,5.1390910101161298,4.833333333333333
+G12_019,12,Linear,12,True,True,0,0,0,0,0
+G12_020,12,Linear,12,True,True,1369.0769230769231,110.92307692307691,114.08974358974359,10.681280053895394,9.2435897435897427
+G12_021,12,Linear,12,True,True,69.923076923076934,27,5.8269230769230775,2.4139020437712624,2.25
+G12_022,12,Linear,12,True,True,940.38461538461524,92.230769230769226,78.365384615384599,8.8524225280645403,7.6858974358974352
+G12_023,12,Linear,12,True,True,0,0,0,0,0
+G12_024,12,Linear,12,True,True,2266.6153846153848,153.07692307692304,188.88461538461539,13.74352994629165,12.756410256410254
+G12_025,12,Linear,12,True,True,0,0,0,0,0
+G12_026,12,Linear,12,True,True,0,0,0,0,0
+G12_027,12,Linear,12,True,True,0,0,0,0,0
+G12_028,12,Linear,12,True,True,0,0,0,0,0
+G12_029,12,Linear,12,True,True,0,0,0,0,0
+G12_030,12,Linear,12,True,True,1793,73,149.41666666666666,12.223611032205936,6.083333333333333
+G12_031,12,Linear,12,True,True,0,0,0,0,0
+G12_032,12,Linear,12,True,True,0,0,0,0,0
+G12_033,12,Linear,12,True,True,576,24,48,6.9282032302755088,2
+G12_034,12,Linear,12,True,True,576,24,48,6.9282032302755088,2
+G12_035,12,Linear,12,True,True,1351.3846153846157,108.30769230769232,112.61538461538464,10.612039606757254,9.0256410256410273
+G12_036,12,Linear,12,True,True,786.53846153846212,86.846153846153882,65.544871794871838,8.0959787422443146,7.2371794871794899
+G12_037,12,Linear,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_038,12,Linear,12,True,True,23.615384615384666,14.692307692307708,1.9679487179487223,1.4028359554661842,1.2243589743589756
+G12_039,12,Linear,12,True,True,1729.2307692307693,124,144.10256410256412,12.004272743592763,10.333333333333334
+G12_040,12,Linear,12,True,True,0,0,0,0,0
+G12_041,12,Linear,12,True,True,181.38461538461542,42,15.115384615384619,3.8878508993253096,3.5
+G12_042,12,Linear,12,True,True,258.61538461538464,43.07692307692308,21.551282051282055,4.6423358399928434,3.5897435897435899
+G12_043,12,Linear,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_044,12,Linear,12,True,True,0,0,0,0,0
+G12_045,12,Linear,12,True,True,0,0,0,0,0
+G12_046,12,Linear,12,True,True,0,0,0,0,0
+G12_047,12,Linear,12,True,True,0,0,0,0,0
+G12_048,12,Linear,12,True,True,0,0,0,0,0
+G12_049,12,Linear,12,True,True,0,0,0,0,0
+G12_050,12,Linear,12,True,True,130.84615384615384,37,10.903846153846153,3.3020972356740423,3.0833333333333335
+G12_051,12,Linear,12,True,True,0,0,0,0,0
+G12_052,12,Linear,12,True,True,0,0,0,0,0
+G12_053,12,Linear,12,True,True,1206.9230769230771,99.07692307692308,100.57692307692309,10.028804668400072,8.2564102564102573
+G12_054,12,Linear,12,True,True,0,0,0,0,0
+G12_055,12,Linear,12,True,True,0,0,0,0,0
+G12_056,12,Linear,12,True,True,174.23076923076923,41,14.519230769230768,3.8104108399529268,3.4166666666666665
+G12_057,12,Linear,12,True,True,1326.5384615384614,106.07692307692307,110.54487179487178,10.514032137808586,8.8397435897435894
+G12_058,12,Linear,12,True,True,1279,71,106.58333333333333,10.323920443965719,5.916666666666667
+G12_059,12,Linear,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_060,12,Linear,12,True,True,0,0,0,0,0
+G12_061,12,Linear,12,True,True,1693,71,141.08333333333334,11.877850535064555,5.916666666666667
+G12_062,12,Linear,12,True,True,0,0,0,0,0
+G12_063,12,Linear,12,True,True,865.38461538461513,90,72.115384615384599,8.492077756084468,7.5
+G12_064,12,Linear,12,True,True,8.3846153846154117,8.5384615384615472,0.69871794871795101,0.83589350321554179,0.71153846153846223
+G12_065,12,Linear,12,True,True,0,0,0,0,0
+G12_066,12,Linear,12,True,True,0,0,0,0,0
+G12_067,12,Linear,12,True,True,0,0,0,0,0
+G12_068,12,Linear,12,True,True,0,0,0,0,0
+G12_069,12,Linear,12,True,True,0,0,0,0,0
+G12_070,12,Linear,12,True,True,0,0,0,0,0
+G12_071,12,Linear,12,True,True,0,0,0,0,0
+G12_072,12,Linear,12,True,True,0,0,0,0,0
+G12_073,12,Linear,12,True,True,0,0,0,0,0
+G12_074,12,Linear,12,True,True,0,0,0,0,0
+G12_075,12,Linear,12,True,True,0,0,0,0,0
+G12_076,12,Linear,12,True,True,0,0,0,0,0
+G12_077,12,Linear,12,True,True,0,0,0,0,0
+G12_078,12,Linear,12,True,True,0,0,0,0,0
+G12_079,12,Linear,12,True,True,43.461538461538481,19.769230769230774,3.6217948717948736,1.9031013824268201,1.6474358974358978
+G12_080,12,Linear,12,True,True,529,23,44.083333333333336,6.6395280956806966,1.9166666666666667
+G12_081,12,Linear,12,True,True,1861.5384615384614,132,155.12820512820511,12.455047375590553,11
+G12_082,12,Linear,12,True,True,0,0,0,0,0
+G12_083,12,Linear,12,True,True,34.615384615384642,16.15384615384616,2.8846153846153868,1.6984155512168944,1.3461538461538467
+G12_084,12,Linear,12,True,True,0,0,0,0,0
+G12_085,12,Linear,12,True,True,0,0,0,0,0
+G12_086,12,Linear,12,True,True,0,0,0,0,0
+G12_087,12,Linear,12,True,True,0,0,0,0,0
+G12_088,12,Linear,12,True,True,0,0,0,0,0
+G12_089,12,Linear,12,True,True,141.76923076923092,38.846153846153868,11.814102564102576,3.4371649020817396,3.237179487179489
+G12_090,12,Linear,12,True,True,2513.9999999999991,155.23076923076923,209.49999999999991,14.474114826130126,12.935897435897436
+G12_091,12,Linear,12,True,True,0,0,0,0,0
+G12_092,12,Linear,12,True,True,0,0,0,0,0
+G12_093,12,Linear,12,True,True,169,13,14.083333333333334,3.7527767497325675,1.0833333333333333
+G12_094,12,Linear,12,True,True,0,0,0,0,0
+G12_095,12,Linear,12,True,True,27.615384615384645,15.923076923076934,2.3012820512820538,1.5169977097154939,1.3269230769230778
+G12_096,12,Linear,12,True,True,0,0,0,0,0
+G12_097,12,Linear,12,True,True,0,0,0,0,0
+G12_098,12,Linear,12,True,True,0,0,0,0,0
+G12_099,12,Linear,12,True,True,0,0,0,0,0
+G12_100,12,Linear,12,True,True,99.230769230769212,28.307692307692307,8.2692307692307683,2.8756270219259603,2.358974358974359
+G12_101,12,Linear,12,True,True,0,0,0,0,0
+G12_102,12,Linear,12,True,True,0,0,0,0,0
+G12_103,12,Linear,12,True,True,0,0,0,0,0
+G12_104,12,Linear,12,True,True,0,0,0,0,0
+G12_105,12,Linear,12,True,True,0,0,0,0,0
+G12_106,12,Linear,12,True,True,0,0,0,0,0
+G12_107,12,Linear,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_108,12,Linear,12,True,True,0,0,0,0,0
+G12_109,12,Linear,12,True,True,0,0,0,0,0
+G12_110,12,Linear,12,True,True,0,0,0,0,0
+G12_111,12,Linear,12,True,True,676,26,56.333333333333336,7.5055534994651349,2.1666666666666665
+G12_112,12,Linear,12,True,True,21.923076923076909,13.461538461538453,1.8269230769230758,1.3516371839081209,1.1217948717948711
+G12_113,12,Linear,12,True,True,0,0,0,0,0
+G12_114,12,Linear,12,True,True,0,0,0,0,0
+G12_115,12,Linear,12,True,True,0,0,0,0,0
+G12_116,12,Linear,12,True,True,0,0,0,0,0
+G12_117,12,Linear,12,True,True,47.46153846153841,19,3.9551282051282008,1.9887504129800202,1.5833333333333333
+G12_118,12,Linear,12,True,True,0,0,0,0,0
+G12_119,12,Linear,12,True,True,0,0,0,0,0
+G12_120,12,Linear,12,True,True,0,0,0,0,0
+G12_121,12,Linear,12,True,True,0,0,0,0,0
+G12_122,12,Linear,12,True,True,2679,115,223.25,14.941552797483935,9.5833333333333339
+G12_123,12,Linear,12,True,True,576,24,48,6.9282032302755088,2
+G12_124,12,Linear,12,True,True,0,0,0,0,0
+G12_125,12,Linear,12,True,True,0,0,0,0,0
+G12_126,12,Linear,12,True,True,0,0,0,0,0
+G12_127,12,Linear,12,True,True,0,0,0,0,0
+G12_128,12,Linear,12,True,True,0,0,0,0,0
+G12_129,12,Linear,12,True,True,0,0,0,0,0
+G12_130,12,Linear,12,True,True,0,0,0,0,0
+G12_131,12,Linear,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_132,12,Linear,12,True,True,188.46153846153848,42,15.705128205128206,3.9629696195060853,3.5
+G12_133,12,Linear,12,True,True,0,0,0,0,0
+G12_134,12,Linear,12,True,True,0,0,0,0,0
+G12_135,12,Linear,12,True,True,553.84615384615404,72,46.153846153846168,6.7936622048675757,6
+G12_136,12,Linear,12,True,True,0,0,0,0,0
+G12_137,12,Linear,12,True,True,0,0,0,0,0
+G12_138,12,Linear,12,True,True,841,41,70.083333333333329,8.3715789032495724,3.4166666666666665
+G12_139,12,Linear,12,True,True,161.92307692307696,39.000000000000014,13.493589743589746,3.6733621851908023,3.2500000000000013
+G12_140,12,Linear,12,True,True,0,0,0,0,0
+G12_141,12,Linear,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_142,12,Linear,12,True,True,0,0,0,0,0
+G12_143,12,Linear,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_144,12,Linear,12,True,True,0,0,0,0,0
+G12_145,12,Linear,12,True,True,0,0,0,0,0
+G12_146,12,Linear,12,True,True,2268,106,189,13.74772708486752,8.8333333333333339
+G12_147,12,Linear,12,True,True,19.461538461538392,12.076923076923066,1.621794871794866,1.2734971031749016,1.0064102564102555
+G12_148,12,Linear,12,True,True,0,0,0,0,0
+G12_149,12,Linear,12,True,True,0,0,0,0,0
+G12_150,12,Linear,12,True,True,22.615384615384624,14.615384615384606,1.8846153846153852,1.3728129459672884,1.2179487179487172
+G12_151,12,Linear,12,True,True,755,85,62.916666666666664,7.932002689527196,7.083333333333333
+G12_152,12,Linear,12,True,True,61.53846153846159,24,5.1282051282051322,2.2645540682891925,2
+G12_153,12,Linear,12,True,True,0,0,0,0,0
+G12_154,12,Linear,12,True,True,0,0,0,0,0
+G12_155,12,Linear,12,True,True,0,0,0,0,0
+G12_156,12,Linear,12,True,True,257.53846153846143,46.615384615384613,21.461538461538453,4.6326599768964751,3.8846153846153846
+G12_157,12,Linear,12,True,True,0,0,0,0,0
+G12_158,12,Linear,12,True,True,0,0,0,0,0
+G12_159,12,Linear,12,True,True,0,0,0,0,0
+G12_160,12,Linear,12,True,True,1889,75,157.41666666666666,12.546579879260589,6.25
+G12_161,12,Linear,12,True,True,65.615384615384571,24.692307692307679,5.4679487179487145,2.338364539148829,2.0576923076923066
+G12_162,12,Linear,12,True,True,1934,76,161.16666666666666,12.69514342836136,6.333333333333333
+G12_163,12,Linear,12,True,True,180,38,15,3.872983346207417,3.1666666666666665
+G12_164,12,Linear,12,True,True,8.6153846153846381,8.7692307692307736,0.71794871794871984,0.84731854573632448,0.73076923076923117
+G12_165,12,Linear,12,True,True,12.153846153846157,9.2307692307692264,1.012820512820513,1.006389841373865,0.76923076923076883
+G12_166,12,Linear,12,True,True,0,0,0,0,0
+G12_167,12,Linear,12,True,True,0,0,0,0,0
+G12_168,12,Linear,12,True,True,0,0,0,0,0
+G12_169,12,Linear,12,True,True,0,0,0,0,0
+G12_170,12,Linear,12,True,True,1809.2307692307697,124.92307692307695,150.7692307692308,12.27881227029841,10.410256410256412
+G12_171,12,Linear,12,True,True,0,0,0,0,0
+G12_172,12,Linear,12,True,True,0,0,0,0,0
+G12_173,12,Linear,12,True,True,147.2307692307692,37.53846153846154,12.269230769230766,3.5027461753930682,3.1282051282051282
+G12_174,12,Linear,12,True,True,44,18,3.6666666666666665,1.9148542155126762,1.5
+G12_175,12,Linear,12,True,True,0,0,0,0,0
+G12_176,12,Linear,12,True,True,0,0,0,0,0
+G12_177,12,Linear,12,True,True,576,24,48,6.9282032302755088,2
+G12_178,12,Linear,12,True,True,0,0,0,0,0
+G12_179,12,Linear,12,True,True,0,0,0,0,0
+G12_180,12,Linear,12,True,True,0,0,0,0,0
+G12_181,12,Linear,12,True,True,0,0,0,0,0
+G12_182,12,Linear,12,True,True,1662,80,138.5,11.76860229593982,6.666666666666667
+G12_183,12,Linear,12,True,True,15.538461538461544,10,1.2948717948717954,1.1379243361804841,0.83333333333333337
+G12_184,12,Linear,12,True,True,0,0,0,0,0
+G12_185,12,Linear,12,True,True,52,10,4.333333333333333,2.0816659994661326,0.83333333333333337
+G12_186,12,Linear,12,True,True,0,0,0,0,0
+G12_187,12,Linear,12,True,True,0,0,0,0,0
+G12_188,12,Linear,12,True,True,0,0,0,0,0
+G12_189,12,Linear,12,True,True,1781,73,148.41666666666666,12.182637919049661,6.083333333333333
+G12_190,12,Linear,12,True,True,0,0,0,0,0
+G12_191,12,Linear,12,True,True,283.92307692307696,53,23.660256410256412,4.864180959859163,4.416666666666667
+G12_192,12,Linear,12,True,True,0,0,0,0,0
+G12_193,12,Linear,12,True,True,2167.3846153846162,142,180.61538461538467,13.439322327237511,11.833333333333334
+G12_194,12,Linear,12,True,True,246.15384615384622,48,20.512820512820518,4.5291081365783832,4
+G12_195,12,Linear,12,True,True,0,0,0,0,0
+G12_196,12,Linear,12,True,True,0,0,0,0,0
+G12_197,12,Linear,12,True,True,0,0,0,0,0
+G12_198,12,Linear,12,True,True,20.692307692307761,12.692307692307708,1.72435897435898,1.3131484966899136,1.057692307692309
+G12_199,12,Linear,12,True,True,215.84615384615401,44.307692307692328,17.9871794871795,4.2411295060607967,3.6923076923076938
+G12_200,12,Linear,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_201,12,Linear,12,True,True,1454,66,121.16666666666667,11.007573150638912,5.5
+G12_202,12,Linear,12,True,True,121,11,10.083333333333334,3.1754264805429417,0.91666666666666663
+G12_203,12,Linear,12,True,True,0,0,0,0,0
+G12_204,12,Linear,12,True,True,17.84615384615384,12.307692307692307,1.4871794871794866,1.2194996872404218,1.0256410256410255
+G12_205,12,Linear,12,True,True,1538.4615384615383,120,128.2051282051282,11.322770341445958,10
+G12_206,12,Linear,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_207,12,Linear,12,True,True,30.923076923076923,16.769230769230774,2.5769230769230771,1.6052797503622467,1.3974358974358978
+G12_208,12,Linear,12,True,True,1791,83,149.25,12.216791722870616,6.916666666666667
+G12_209,12,Linear,12,True,True,0,0,0,0,0
+G12_210,12,Linear,12,True,True,0,0,0,0,0
+G12_211,12,Linear,12,True,True,0,0,0,0,0
+G12_001,12,LOCF,12,True,True,0,0,0,0,0
+G12_002,12,LOCF,12,True,True,0,0,0,0,0
+G12_003,12,LOCF,12,True,True,0,0,0,0,0
+G12_004,12,LOCF,12,True,True,0,0,0,0,0
+G12_005,12,LOCF,12,True,True,0,0,0,0,0
+G12_006,12,LOCF,12,True,True,0,0,0,0,0
+G12_007,12,LOCF,12,True,True,56,20,4.666666666666667,2.1602468994692869,1.6666666666666667
+G12_008,12,LOCF,12,True,True,484,22,40.333333333333336,6.3508529610858835,1.8333333333333333
+G12_009,12,LOCF,12,True,True,682,76,56.833333333333336,7.5387885852657615,6.333333333333333
+G12_010,12,LOCF,12,True,True,0,0,0,0,0
+G12_011,12,LOCF,12,True,True,0,0,0,0,0
+G12_012,12,LOCF,12,True,True,1005,103,83.75,9.1515026088615627,8.5833333333333339
+G12_013,12,LOCF,12,True,True,0,0,0,0,0
+G12_014,12,LOCF,12,True,True,0,0,0,0,0
+G12_015,12,LOCF,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_016,12,LOCF,12,True,True,509,39,42.416666666666664,6.5128078941933074,3.25
+G12_017,12,LOCF,12,True,True,0,0,0,0,0
+G12_018,12,LOCF,12,True,True,1312,124,109.33333333333333,10.456258094238748,10.333333333333334
+G12_019,12,LOCF,12,True,True,0,0,0,0,0
+G12_020,12,LOCF,12,True,True,3104,156,258.66666666666669,16.083117442419759,13
+G12_021,12,LOCF,12,True,True,63,25,5.25,2.2912878474779199,2.0833333333333335
+G12_022,12,LOCF,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_023,12,LOCF,12,True,True,0,0,0,0,0
+G12_024,12,LOCF,12,True,True,3242,150,270.16666666666669,16.436747447918847,12.5
+G12_025,12,LOCF,12,True,True,0,0,0,0,0
+G12_026,12,LOCF,12,True,True,0,0,0,0,0
+G12_027,12,LOCF,12,True,True,0,0,0,0,0
+G12_028,12,LOCF,12,True,True,0,0,0,0,0
+G12_029,12,LOCF,12,True,True,0,0,0,0,0
+G12_030,12,LOCF,12,True,True,1793,73,149.41666666666666,12.223611032205936,6.083333333333333
+G12_031,12,LOCF,12,True,True,0,0,0,0,0
+G12_032,12,LOCF,12,True,True,0,0,0,0,0
+G12_033,12,LOCF,12,True,True,576,24,48,6.9282032302755088,2
+G12_034,12,LOCF,12,True,True,576,24,48,6.9282032302755088,2
+G12_035,12,LOCF,12,True,True,256,16,21.333333333333332,4.6188021535170058,1.3333333333333333
+G12_036,12,LOCF,12,True,True,2401,97,200.08333333333334,14.145081595145832,8.0833333333333339
+G12_037,12,LOCF,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_038,12,LOCF,12,True,True,103,27,8.5833333333333339,2.9297326385411577,2.25
+G12_039,12,LOCF,12,True,True,6352,268,529.33333333333337,23.007245235649865,22.333333333333332
+G12_040,12,LOCF,12,True,True,0,0,0,0,0
+G12_041,12,LOCF,12,True,True,110,32,9.1666666666666661,3.0276503540974917,2.6666666666666665
+G12_042,12,LOCF,12,True,True,1494,112,124.5,11.157956802210698,9.3333333333333339
+G12_043,12,LOCF,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_044,12,LOCF,12,True,True,0,0,0,0,0
+G12_045,12,LOCF,12,True,True,0,0,0,0,0
+G12_046,12,LOCF,12,True,True,0,0,0,0,0
+G12_047,12,LOCF,12,True,True,0,0,0,0,0
+G12_048,12,LOCF,12,True,True,0,0,0,0,0
+G12_049,12,LOCF,12,True,True,0,0,0,0,0
+G12_050,12,LOCF,12,True,True,221,49,18.416666666666668,4.2914643965279113,4.083333333333333
+G12_051,12,LOCF,12,True,True,0,0,0,0,0
+G12_052,12,LOCF,12,True,True,0,0,0,0,0
+G12_053,12,LOCF,12,True,True,5308,236,442.33333333333331,21.031722072463143,19.666666666666668
+G12_054,12,LOCF,12,True,True,0,0,0,0,0
+G12_055,12,LOCF,12,True,True,0,0,0,0,0
+G12_056,12,LOCF,12,True,True,321,59,26.75,5.1720402163943007,4.916666666666667
+G12_057,12,LOCF,12,True,True,1105,47,92.083333333333329,9.5960061136565216,3.9166666666666665
+G12_058,12,LOCF,12,True,True,1279,71,106.58333333333333,10.323920443965719,5.916666666666667
+G12_059,12,LOCF,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_060,12,LOCF,12,True,True,0,0,0,0,0
+G12_061,12,LOCF,12,True,True,1693,71,141.08333333333334,11.877850535064555,5.916666666666667
+G12_062,12,LOCF,12,True,True,0,0,0,0,0
+G12_063,12,LOCF,12,True,True,2700,180,225,15,15
+G12_064,12,LOCF,12,True,True,31,17,2.5833333333333335,1.6072751268321592,1.4166666666666667
+G12_065,12,LOCF,12,True,True,0,0,0,0,0
+G12_066,12,LOCF,12,True,True,0,0,0,0,0
+G12_067,12,LOCF,12,True,True,0,0,0,0,0
+G12_068,12,LOCF,12,True,True,0,0,0,0,0
+G12_069,12,LOCF,12,True,True,0,0,0,0,0
+G12_070,12,LOCF,12,True,True,0,0,0,0,0
+G12_071,12,LOCF,12,True,True,0,0,0,0,0
+G12_072,12,LOCF,12,True,True,0,0,0,0,0
+G12_073,12,LOCF,12,True,True,0,0,0,0,0
+G12_074,12,LOCF,12,True,True,0,0,0,0,0
+G12_075,12,LOCF,12,True,True,0,0,0,0,0
+G12_076,12,LOCF,12,True,True,0,0,0,0,0
+G12_077,12,LOCF,12,True,True,0,0,0,0,0
+G12_078,12,LOCF,12,True,True,0,0,0,0,0
+G12_079,12,LOCF,12,True,True,25,5,2.0833333333333335,1.4433756729740645,0.41666666666666669
+G12_080,12,LOCF,12,True,True,529,23,44.083333333333336,6.6395280956806966,1.9166666666666667
+G12_081,12,LOCF,12,True,True,0,0,0,0,0
+G12_082,12,LOCF,12,True,True,0,0,0,0,0
+G12_083,12,LOCF,12,True,True,56,22,4.666666666666667,2.1602468994692869,1.8333333333333333
+G12_084,12,LOCF,12,True,True,0,0,0,0,0
+G12_085,12,LOCF,12,True,True,0,0,0,0,0
+G12_086,12,LOCF,12,True,True,0,0,0,0,0
+G12_087,12,LOCF,12,True,True,0,0,0,0,0
+G12_088,12,LOCF,12,True,True,0,0,0,0,0
+G12_089,12,LOCF,12,True,True,499,55,41.583333333333336,6.4485140407177015,4.583333333333333
+G12_090,12,LOCF,12,True,True,2822,118,235.16666666666666,15.335144820531257,9.8333333333333339
+G12_091,12,LOCF,12,True,True,0,0,0,0,0
+G12_092,12,LOCF,12,True,True,0,0,0,0,0
+G12_093,12,LOCF,12,True,True,169,13,14.083333333333334,3.7527767497325675,1.0833333333333333
+G12_094,12,LOCF,12,True,True,0,0,0,0,0
+G12_095,12,LOCF,12,True,True,37,19,3.0833333333333335,1.7559422921421233,1.5833333333333333
+G12_096,12,LOCF,12,True,True,0,0,0,0,0
+G12_097,12,LOCF,12,True,True,0,0,0,0,0
+G12_098,12,LOCF,12,True,True,0,0,0,0,0
+G12_099,12,LOCF,12,True,True,0,0,0,0,0
+G12_100,12,LOCF,12,True,True,290,50,24.166666666666668,4.9159604012508753,4.166666666666667
+G12_101,12,LOCF,12,True,True,0,0,0,0,0
+G12_102,12,LOCF,12,True,True,0,0,0,0,0
+G12_103,12,LOCF,12,True,True,0,0,0,0,0
+G12_104,12,LOCF,12,True,True,0,0,0,0,0
+G12_105,12,LOCF,12,True,True,0,0,0,0,0
+G12_106,12,LOCF,12,True,True,0,0,0,0,0
+G12_107,12,LOCF,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_108,12,LOCF,12,True,True,0,0,0,0,0
+G12_109,12,LOCF,12,True,True,0,0,0,0,0
+G12_110,12,LOCF,12,True,True,0,0,0,0,0
+G12_111,12,LOCF,12,True,True,676,26,56.333333333333336,7.5055534994651349,2.1666666666666665
+G12_112,12,LOCF,12,True,True,51,19,4.25,2.0615528128088303,1.5833333333333333
+G12_113,12,LOCF,12,True,True,0,0,0,0,0
+G12_114,12,LOCF,12,True,True,0,0,0,0,0
+G12_115,12,LOCF,12,True,True,0,0,0,0,0
+G12_116,12,LOCF,12,True,True,0,0,0,0,0
+G12_117,12,LOCF,12,True,True,67,25,5.583333333333333,2.3629078131263039,2.0833333333333335
+G12_118,12,LOCF,12,True,True,0,0,0,0,0
+G12_119,12,LOCF,12,True,True,0,0,0,0,0
+G12_120,12,LOCF,12,True,True,0,0,0,0,0
+G12_121,12,LOCF,12,True,True,0,0,0,0,0
+G12_122,12,LOCF,12,True,True,2679,115,223.25,14.941552797483935,9.5833333333333339
+G12_123,12,LOCF,12,True,True,576,24,48,6.9282032302755088,2
+G12_124,12,LOCF,12,True,True,0,0,0,0,0
+G12_125,12,LOCF,12,True,True,0,0,0,0,0
+G12_126,12,LOCF,12,True,True,0,0,0,0,0
+G12_127,12,LOCF,12,True,True,0,0,0,0,0
+G12_128,12,LOCF,12,True,True,0,0,0,0,0
+G12_129,12,LOCF,12,True,True,0,0,0,0,0
+G12_130,12,LOCF,12,True,True,0,0,0,0,0
+G12_131,12,LOCF,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_132,12,LOCF,12,True,True,0,0,0,0,0
+G12_133,12,LOCF,12,True,True,0,0,0,0,0
+G12_134,12,LOCF,12,True,True,0,0,0,0,0
+G12_135,12,LOCF,12,True,True,0,0,0,0,0
+G12_136,12,LOCF,12,True,True,0,0,0,0,0
+G12_137,12,LOCF,12,True,True,0,0,0,0,0
+G12_138,12,LOCF,12,True,True,841,41,70.083333333333329,8.3715789032495724,3.4166666666666665
+G12_139,12,LOCF,12,True,True,77,25,6.416666666666667,2.5331140255951108,2.0833333333333335
+G12_140,12,LOCF,12,True,True,0,0,0,0,0
+G12_141,12,LOCF,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_142,12,LOCF,12,True,True,0,0,0,0,0
+G12_143,12,LOCF,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_144,12,LOCF,12,True,True,0,0,0,0,0
+G12_145,12,LOCF,12,True,True,0,0,0,0,0
+G12_146,12,LOCF,12,True,True,2268,106,189,13.74772708486752,8.8333333333333339
+G12_147,12,LOCF,12,True,True,29,15,2.4166666666666665,1.5545631755148024,1.25
+G12_148,12,LOCF,12,True,True,0,0,0,0,0
+G12_149,12,LOCF,12,True,True,0,0,0,0,0
+G12_150,12,LOCF,12,True,True,38,18,3.1666666666666665,1.7795130420052185,1.5
+G12_151,12,LOCF,12,True,True,1863,145,155.25,12.459935794377111,12.083333333333334
+G12_152,12,LOCF,12,True,True,0,0,0,0,0
+G12_153,12,LOCF,12,True,True,0,0,0,0,0
+G12_154,12,LOCF,12,True,True,0,0,0,0,0
+G12_155,12,LOCF,12,True,True,0,0,0,0,0
+G12_156,12,LOCF,12,True,True,1596,114,133,11.532562594670797,9.5
+G12_157,12,LOCF,12,True,True,0,0,0,0,0
+G12_158,12,LOCF,12,True,True,0,0,0,0,0
+G12_159,12,LOCF,12,True,True,0,0,0,0,0
+G12_160,12,LOCF,12,True,True,1889,75,157.41666666666666,12.546579879260589,6.25
+G12_161,12,LOCF,12,True,True,697,69,58.083333333333336,7.6212422434491174,5.75
+G12_162,12,LOCF,12,True,True,1934,76,161.16666666666666,12.69514342836136,6.333333333333333
+G12_163,12,LOCF,12,True,True,1252,112,104.33333333333333,10.214368964029708,9.3333333333333339
+G12_164,12,LOCF,12,True,True,12,10,1,1,0.83333333333333337
+G12_165,12,LOCF,12,True,True,16,10,1.3333333333333333,1.1547005383792515,0.83333333333333337
+G12_166,12,LOCF,12,True,True,0,0,0,0,0
+G12_167,12,LOCF,12,True,True,0,0,0,0,0
+G12_168,12,LOCF,12,True,True,0,0,0,0,0
+G12_169,12,LOCF,12,True,True,0,0,0,0,0
+G12_170,12,LOCF,12,True,True,1568,56,130.66666666666666,11.430952132988164,4.666666666666667
+G12_171,12,LOCF,12,True,True,0,0,0,0,0
+G12_172,12,LOCF,12,True,True,0,0,0,0,0
+G12_173,12,LOCF,12,True,True,1914,136,159.5,12.629330940315089,11.333333333333334
+G12_174,12,LOCF,12,True,True,44,18,3.6666666666666665,1.9148542155126762,1.5
+G12_175,12,LOCF,12,True,True,0,0,0,0,0
+G12_176,12,LOCF,12,True,True,0,0,0,0,0
+G12_177,12,LOCF,12,True,True,576,24,48,6.9282032302755088,2
+G12_178,12,LOCF,12,True,True,0,0,0,0,0
+G12_179,12,LOCF,12,True,True,0,0,0,0,0
+G12_180,12,LOCF,12,True,True,0,0,0,0,0
+G12_181,12,LOCF,12,True,True,0,0,0,0,0
+G12_182,12,LOCF,12,True,True,1662,80,138.5,11.76860229593982,6.666666666666667
+G12_183,12,LOCF,12,True,True,16,10,1.3333333333333333,1.1547005383792515,0.83333333333333337
+G12_184,12,LOCF,12,True,True,0,0,0,0,0
+G12_185,12,LOCF,12,True,True,52,10,4.333333333333333,2.0816659994661326,0.83333333333333337
+G12_186,12,LOCF,12,True,True,0,0,0,0,0
+G12_187,12,LOCF,12,True,True,0,0,0,0,0
+G12_188,12,LOCF,12,True,True,0,0,0,0,0
+G12_189,12,LOCF,12,True,True,1781,73,148.41666666666666,12.182637919049661,6.083333333333333
+G12_190,12,LOCF,12,True,True,0,0,0,0,0
+G12_191,12,LOCF,12,True,True,1327,125,110.58333333333333,10.515861036231572,10.416666666666666
+G12_192,12,LOCF,12,True,True,0,0,0,0,0
+G12_193,12,LOCF,12,True,True,3504,158,292,17.088007490635061,13.166666666666666
+G12_194,12,LOCF,12,True,True,768,96,64,8,8
+G12_195,12,LOCF,12,True,True,0,0,0,0,0
+G12_196,12,LOCF,12,True,True,0,0,0,0,0
+G12_197,12,LOCF,12,True,True,0,0,0,0,0
+G12_198,12,LOCF,12,True,True,89,27,7.416666666666667,2.7233557730613653,2.25
+G12_199,12,LOCF,12,True,True,1582,110,131.83333333333334,11.481869766433224,9.1666666666666661
+G12_200,12,LOCF,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_201,12,LOCF,12,True,True,1454,66,121.16666666666667,11.007573150638912,5.5
+G12_202,12,LOCF,12,True,True,121,11,10.083333333333334,3.1754264805429417,0.91666666666666663
+G12_203,12,LOCF,12,True,True,0,0,0,0,0
+G12_204,12,LOCF,12,True,True,464,66,38.666666666666664,6.2182527020592095,5.5
+G12_205,12,LOCF,12,True,True,4800,240,400,20,20
+G12_206,12,LOCF,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_207,12,LOCF,12,True,True,46,20,3.8333333333333335,1.9578900207451218,1.6666666666666667
+G12_208,12,LOCF,12,True,True,1791,83,149.25,12.216791722870616,6.916666666666667
+G12_209,12,LOCF,12,True,True,0,0,0,0,0
+G12_210,12,LOCF,12,True,True,0,0,0,0,0
+G12_211,12,LOCF,12,True,True,0,0,0,0,0
+G12_001,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_002,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_003,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_004,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_005,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_006,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_007,12,Train-TOD median,12,True,True,83.5,27,6.958333333333333,2.6378652985574025,2.25
+G12_008,12,Train-TOD median,12,True,True,484,22,40.333333333333336,6.3508529610858835,1.8333333333333333
+G12_009,12,Train-TOD median,12,True,True,390.5,56,32.541666666666664,5.7045303633749436,4.666666666666667
+G12_010,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_011,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_012,12,Train-TOD median,12,True,True,355.5,40,29.625,5.44288526426931,3.3333333333333335
+G12_013,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_014,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_015,12,Train-TOD median,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_016,12,Train-TOD median,12,True,True,509,39,42.416666666666664,6.5128078941933074,3.25
+G12_017,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_018,12,Train-TOD median,12,True,True,36.75,18.5,3.0625,1.75,1.5416666666666667
+G12_019,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_020,12,Train-TOD median,12,True,True,1928,98,160.66666666666666,12.675435561221029,8.1666666666666661
+G12_021,12,Train-TOD median,12,True,True,120.25,32.5,10.020833333333334,3.1655699855370965,2.7083333333333335
+G12_022,12,Train-TOD median,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_023,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_024,12,Train-TOD median,12,True,True,3242,150,270.16666666666669,16.436747447918847,12.5
+G12_025,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_026,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_027,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_028,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_029,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_030,12,Train-TOD median,12,True,True,1793,73,149.41666666666666,12.223611032205936,6.083333333333333
+G12_031,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_032,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_033,12,Train-TOD median,12,True,True,576,24,48,6.9282032302755088,2
+G12_034,12,Train-TOD median,12,True,True,576,24,48,6.9282032302755088,2
+G12_035,12,Train-TOD median,12,True,True,256,16,21.333333333333332,4.6188021535170058,1.3333333333333333
+G12_036,12,Train-TOD median,12,True,True,2401,97,200.08333333333334,14.145081595145832,8.0833333333333339
+G12_037,12,Train-TOD median,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_038,12,Train-TOD median,12,True,True,49.5,20,4.125,2.0310096011589902,1.6666666666666667
+G12_039,12,Train-TOD median,12,True,True,400,20,33.333333333333336,5.7735026918962582,1.6666666666666667
+G12_040,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_041,12,Train-TOD median,12,True,True,170,39,14.166666666666666,3.7638632635454048,3.25
+G12_042,12,Train-TOD median,12,True,True,753.5,78,62.791666666666664,7.924119299118777,6.5
+G12_043,12,Train-TOD median,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_044,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_045,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_046,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_047,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_048,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_049,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_050,12,Train-TOD median,12,True,True,471.25,72.5,39.270833333333336,6.2666445035069076,6.041666666666667
+G12_051,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_052,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_053,12,Train-TOD median,12,True,True,800,40,66.666666666666671,8.1649658092772608,3.3333333333333335
+G12_054,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_055,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_056,12,Train-TOD median,12,True,True,37.25,15.5,3.1041666666666665,1.7618645426554977,1.2916666666666667
+G12_057,12,Train-TOD median,12,True,True,1105,47,92.083333333333329,9.5960061136565216,3.9166666666666665
+G12_058,12,Train-TOD median,12,True,True,1279,71,106.58333333333333,10.323920443965719,5.916666666666667
+G12_059,12,Train-TOD median,12,True,True,361,19,30.083333333333332,5.4848275573014442,1.5833333333333333
+G12_060,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_061,12,Train-TOD median,12,True,True,1693,71,141.08333333333334,11.877850535064555,5.916666666666667
+G12_062,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_063,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_064,12,Train-TOD median,12,True,True,65.75,22.5,5.479166666666667,2.3407619841980232,1.875
+G12_065,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_066,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_067,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_068,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_069,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_070,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_071,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_072,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_073,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_074,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_075,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_076,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_077,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_078,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_079,12,Train-TOD median,12,True,True,25,5,2.0833333333333335,1.4433756729740645,0.41666666666666669
+G12_080,12,Train-TOD median,12,True,True,529,23,44.083333333333336,6.6395280956806966,1.9166666666666667
+G12_081,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_082,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_083,12,Train-TOD median,12,True,True,30.25,15.5,2.5208333333333335,1.5877132402714709,1.2916666666666667
+G12_084,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_085,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_086,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_087,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_088,12,Train-TOD median,12,True,True,664.75,71.5,55.395833333333336,7.4428377204755272,5.958333333333333
+G12_089,12,Train-TOD median,12,True,True,523.25,76.5,43.604166666666664,6.6033451118858437,6.375
+G12_090,12,Train-TOD median,12,True,True,2822,118,235.16666666666666,15.335144820531257,9.8333333333333339
+G12_091,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_092,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_093,12,Train-TOD median,12,True,True,169,13,14.083333333333334,3.7527767497325675,1.0833333333333333
+G12_094,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_095,12,Train-TOD median,12,True,True,275.75,54.5,22.979166666666668,4.7936590060898858,4.541666666666667
+G12_096,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_097,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_098,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_099,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_100,12,Train-TOD median,12,True,True,56.25,21.5,4.6875,2.1650635094610968,1.7916666666666667
+G12_101,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_102,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_103,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_104,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_105,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_106,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_107,12,Train-TOD median,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_108,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_109,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_110,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_111,12,Train-TOD median,12,True,True,676,26,56.333333333333336,7.5055534994651349,2.1666666666666665
+G12_112,12,Train-TOD median,12,True,True,91.5,30,7.625,2.7613402542968153,2.5
+G12_113,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_114,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_115,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_116,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_117,12,Train-TOD median,12,True,True,140.5,36,11.708333333333334,3.4217441946079683,3
+G12_118,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_119,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_120,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_121,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_122,12,Train-TOD median,12,True,True,2679,115,223.25,14.941552797483935,9.5833333333333339
+G12_123,12,Train-TOD median,12,True,True,576,24,48,6.9282032302755088,2
+G12_124,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_125,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_126,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_127,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_128,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_129,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_130,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_131,12,Train-TOD median,12,True,True,625,25,52.083333333333336,7.2168783648703219,2.0833333333333335
+G12_132,12,Train-TOD median,12,True,True,81,9,6.75,2.598076211353316,0.75
+G12_133,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_134,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_135,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_136,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_137,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_138,12,Train-TOD median,12,True,True,841,41,70.083333333333329,8.3715789032495724,3.4166666666666665
+G12_139,12,Train-TOD median,12,True,True,785.75,92.5,65.479166666666671,8.0919198381265911,7.708333333333333
+G12_140,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_141,12,Train-TOD median,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_142,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_143,12,Train-TOD median,12,True,True,441,21,36.75,6.0621778264910704,1.75
+G12_144,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_145,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_146,12,Train-TOD median,12,True,True,2268,106,189,13.74772708486752,8.8333333333333339
+G12_147,12,Train-TOD median,12,True,True,21.5,13,1.7916666666666667,1.3385315336840842,1.0833333333333333
+G12_148,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_149,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_150,12,Train-TOD median,12,True,True,32.75,16.5,2.7291666666666665,1.6520189667999174,1.375
+G12_151,12,Train-TOD median,12,True,True,225,15,18.75,4.3301270189221936,1.25
+G12_152,12,Train-TOD median,12,True,True,9,3,0.75,0.8660254037844386,0.25
+G12_153,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_154,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_155,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_156,12,Train-TOD median,12,True,True,583.5,50,48.625,6.9731628404906765,4.166666666666667
+G12_157,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_158,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_159,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_160,12,Train-TOD median,12,True,True,1889,75,157.41666666666666,12.546579879260589,6.25
+G12_161,12,Train-TOD median,12,True,True,156,27,13,3.6055512754639891,2.25
+G12_162,12,Train-TOD median,12,True,True,1934,76,161.16666666666666,12.69514342836136,6.333333333333333
+G12_163,12,Train-TOD median,12,True,True,1473.5,128,122.79166666666667,11.081140133879124,10.666666666666666
+G12_164,12,Train-TOD median,12,True,True,147.25,38.5,12.270833333333334,3.5029749261639505,3.2083333333333335
+G12_165,12,Train-TOD median,12,True,True,354.5,60,29.541666666666668,5.4352246197067764,5
+G12_166,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_167,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_168,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_169,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_170,12,Train-TOD median,12,True,True,1568,56,130.66666666666666,11.430952132988164,4.666666666666667
+G12_171,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_172,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_173,12,Train-TOD median,12,True,True,258.25,42.5,21.520833333333332,4.6390552199055932,3.5416666666666665
+G12_174,12,Train-TOD median,12,True,True,169.5,42,14.125,3.758324094593227,3.5
+G12_175,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_176,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_177,12,Train-TOD median,12,True,True,576,24,48,6.9282032302755088,2
+G12_178,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_179,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_180,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_181,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_182,12,Train-TOD median,12,True,True,1662,80,138.5,11.76860229593982,6.666666666666667
+G12_183,12,Train-TOD median,12,True,True,161.75,41.5,13.479166666666666,3.6713984619851145,3.4583333333333335
+G12_184,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_185,12,Train-TOD median,12,True,True,124,22,10.333333333333334,3.2145502536643185,1.8333333333333333
+G12_186,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_187,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_188,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_189,12,Train-TOD median,12,True,True,1781,73,148.41666666666666,12.182637919049661,6.083333333333333
+G12_190,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_191,12,Train-TOD median,12,True,True,39.5,20,3.2916666666666665,1.8142950880897701,1.6666666666666667
+G12_192,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_193,12,Train-TOD median,12,True,True,3408,142,284,16.852299546352718,11.833333333333334
+G12_194,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_195,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_196,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_197,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_198,12,Train-TOD median,12,True,True,53.5,23,4.458333333333333,2.1114765765533212,1.9166666666666667
+G12_199,12,Train-TOD median,12,True,True,600.25,54.5,50.020833333333336,7.0725407975729162,4.541666666666667
+G12_200,12,Train-TOD median,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_201,12,Train-TOD median,12,True,True,1454,66,121.16666666666667,11.007573150638912,5.5
+G12_202,12,Train-TOD median,12,True,True,121,11,10.083333333333334,3.1754264805429417,0.91666666666666663
+G12_203,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_204,12,Train-TOD median,12,True,True,168.5,37,14.041666666666666,3.7472211926528525,3.0833333333333335
+G12_205,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_206,12,Train-TOD median,12,True,True,925,43,77.083333333333329,8.7797114607106153,3.5833333333333335
+G12_207,12,Train-TOD median,12,True,True,94.5,30,7.875,2.8062430400804561,2.5
+G12_208,12,Train-TOD median,12,True,True,1791,83,149.25,12.216791722870616,6.916666666666667
+G12_209,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_210,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_211,12,Train-TOD median,12,True,True,0,0,0,0,0
+G12_001,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_002,12,Spatial median,12,True,True,33756,636,2813,53.037722424704477,53
+G12_003,12,Spatial median,12,True,True,64,16,5.333333333333333,2.3094010767585029,1.3333333333333333
+G12_004,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_005,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_006,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_007,12,Spatial median,12,True,True,54240,806,4520,67.230945255886439,67.166666666666671
+G12_008,12,Spatial median,12,True,True,324,48,27,5.196152422706632,4
+G12_009,12,Spatial median,12,True,True,6378,272,531.5,23.054283766797006,22.666666666666668
+G12_010,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_011,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_012,12,Spatial median,12,True,True,4481,229,373.41666666666669,19.32399199613441,19.083333333333332
+G12_013,12,Spatial median,12,True,True,480,72,40,6.324555320336759,6
+G12_014,12,Spatial median,12,True,True,384,64,32,5.6568542494923806,5.333333333333333
+G12_015,12,Spatial median,12,True,True,417,41,34.75,5.8949130612757976,3.4166666666666665
+G12_016,12,Spatial median,12,True,True,5077,239,423.08333333333331,20.568989604094153,19.916666666666668
+G12_017,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_018,12,Spatial median,12,True,True,9704,340,808.66666666666663,28.437065014988214,28.333333333333332
+G12_019,12,Spatial median,12,True,True,636,84,53,7.2801098892805181,7
+G12_020,12,Spatial median,12,True,True,1392,94,116,10.770329614269007,7.833333333333333
+G12_021,12,Spatial median,12,True,True,16547,445,1378.9166666666667,37.133767202731626,37.083333333333336
+G12_022,12,Spatial median,12,True,True,410,46,34.166666666666664,5.8452259722500601,3.8333333333333335
+G12_023,12,Spatial median,12,True,True,144,36,12,3.4641016151377544,3
+G12_024,12,Spatial median,12,True,True,1740,108,145,12.041594578792296,9
+G12_025,12,Spatial median,12,True,True,748,92,62.333333333333336,7.8951461882180078,7.666666666666667
+G12_026,12,Spatial median,12,True,True,144,36,12,3.4641016151377544,3
+G12_027,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_028,12,Spatial median,12,True,True,288,56,24,4.8989794855663558,4.666666666666667
+G12_029,12,Spatial median,12,True,True,3392,200,282.66666666666669,16.812693617224657,16.666666666666668
+G12_030,12,Spatial median,12,True,True,2194,148,182.83333333333334,13.521587677981213,12.333333333333334
+G12_031,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_032,12,Spatial median,12,True,True,304,28,25.333333333333332,5.0332229568471663,2.3333333333333335
+G12_033,12,Spatial median,12,True,True,592,68,49.333333333333336,7.0237691685684931,5.666666666666667
+G12_034,12,Spatial median,12,True,True,592,68,49.333333333333336,7.0237691685684931,5.666666666666667
+G12_035,12,Spatial median,12,True,True,492,70,41,6.4031242374328485,5.833333333333333
+G12_036,12,Spatial median,12,True,True,1289,103,107.41666666666667,10.364201207361168,8.5833333333333339
+G12_037,12,Spatial median,12,True,True,641,51,53.416666666666664,7.3086706497602325,4.25
+G12_038,12,Spatial median,12,True,True,11805,375,983.75,31.36478917512439,31.25
+G12_039,12,Spatial median,12,True,True,528,72,44,6.6332495807107996,6
+G12_040,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_041,12,Spatial median,12,True,True,43510,722,3625.8333333333335,60.214892952934271,60.166666666666664
+G12_042,12,Spatial median,12,True,True,8350,304,695.83333333333337,26.378652985574025,25.333333333333332
+G12_043,12,Spatial median,12,True,True,641,51,53.416666666666664,7.3086706497602325,4.25
+G12_044,12,Spatial median,12,True,True,480,72,40,6.324555320336759,6
+G12_045,12,Spatial median,12,True,True,35452,652,2954.3333333333335,54.353779384080859,54.333333333333336
+G12_046,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_047,12,Spatial median,12,True,True,3392,200,282.66666666666669,16.812693617224657,16.666666666666668
+G12_048,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_049,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_050,12,Spatial median,12,True,True,15951,437,1329.25,36.458880948268281,36.416666666666664
+G12_051,12,Spatial median,12,True,True,144,36,12,3.4641016151377544,3
+G12_052,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_053,12,Spatial median,12,True,True,628,68,52.333333333333336,7.2341781380702352,5.666666666666667
+G12_054,12,Spatial median,12,True,True,33756,636,2813,53.037722424704477,53
+G12_055,12,Spatial median,12,True,True,64,16,5.333333333333333,2.3094010767585029,1.3333333333333333
+G12_056,12,Spatial median,12,True,True,49621,771,4135.083333333333,64.30461362401094,64.25
+G12_057,12,Spatial median,12,True,True,154,32,12.833333333333334,3.5823642100341129,2.6666666666666665
+G12_058,12,Spatial median,12,True,True,713,71,59.416666666666664,7.7082207198981179,5.916666666666667
+G12_059,12,Spatial median,12,True,True,197,35,16.416666666666668,4.0517485937144064,2.9166666666666665
+G12_060,12,Spatial median,12,True,True,176,44,14.666666666666666,3.8297084310253524,3.6666666666666665
+G12_061,12,Spatial median,12,True,True,1609,131,134.08333333333334,11.579435795121165,10.916666666666666
+G12_062,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_063,12,Spatial median,12,True,True,3504,204,292,17.088007490635061,17
+G12_064,12,Spatial median,12,True,True,10779,359,898.25,29.970819141291418,29.916666666666668
+G12_065,12,Spatial median,12,True,True,64,16,5.333333333333333,2.3094010767585029,1.3333333333333333
+G12_066,12,Spatial median,12,True,True,96,24,8,2.8284271247461903,2
+G12_067,12,Spatial median,12,True,True,128,32,10.666666666666666,3.2659863237109041,2.6666666666666665
+G12_068,12,Spatial median,12,True,True,400,64,33.333333333333336,5.7735026918962582,5.333333333333333
+G12_069,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_070,12,Spatial median,12,True,True,528,76,44,6.6332495807107996,6.333333333333333
+G12_071,12,Spatial median,12,True,True,384,64,32,5.6568542494923806,5.333333333333333
+G12_072,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_073,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_074,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_075,12,Spatial median,12,True,True,320,48,26.666666666666668,5.1639777949432224,4
+G12_076,12,Spatial median,12,True,True,176,44,14.666666666666666,3.8297084310253524,3.6666666666666665
+G12_077,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_078,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_079,12,Spatial median,12,True,True,34755,645,2896.25,53.816818932374666,53.75
+G12_080,12,Spatial median,12,True,True,933,95,77.75,8.8175960442741985,7.916666666666667
+G12_081,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_082,12,Spatial median,12,True,True,176,44,14.666666666666666,3.8297084310253524,3.6666666666666665
+G12_083,12,Spatial median,12,True,True,10480,354,873.33333333333337,29.552213679068668,29.5
+G12_084,12,Spatial median,12,True,True,128,32,10.666666666666666,3.2659863237109041,2.6666666666666665
+G12_085,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_086,12,Spatial median,12,True,True,176,44,14.666666666666666,3.8297084310253524,3.6666666666666665
+G12_087,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_088,12,Spatial median,12,True,True,412,68,34.333333333333336,5.8594652770823155,5.666666666666667
+G12_089,12,Spatial median,12,True,True,11355,365,946.25,30.761176830544048,30.416666666666668
+G12_090,12,Spatial median,12,True,True,976,80,81.333333333333329,9.0184995056457886,6.666666666666667
+G12_091,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_092,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_093,12,Spatial median,12,True,True,823,89,68.583333333333329,8.2815054992032291,7.416666666666667
+G12_094,12,Spatial median,12,True,True,48,12,4,2,1
+G12_095,12,Spatial median,12,True,True,15131,425,1260.9166666666667,35.509388429916207,35.416666666666664
+G12_096,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_097,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_098,12,Spatial median,12,True,True,576,80,48,6.9282032302755088,6.666666666666667
+G12_099,12,Spatial median,12,True,True,48,12,4,2,1
+G12_100,12,Spatial median,12,True,True,13106,394,1092.1666666666667,33.04794496888826,32.833333333333336
+G12_101,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_102,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_103,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_104,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_105,12,Spatial median,12,True,True,468,72,39,6.2449979983983983,6
+G12_106,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_107,12,Spatial median,12,True,True,1257,93,104.75,10.23474474522936,7.75
+G12_108,12,Spatial median,12,True,True,112,28,9.3333333333333339,3.0550504633038935,2.3333333333333335
+G12_109,12,Spatial median,12,True,True,320,56,26.666666666666668,5.1639777949432224,4.666666666666667
+G12_110,12,Spatial median,12,True,True,576,80,48,6.9282032302755088,6.666666666666667
+G12_111,12,Spatial median,12,True,True,452,42,37.666666666666664,6.1373175465073224,3.5
+G12_112,12,Spatial median,12,True,True,7227,275,602.25,24.540782383616055,22.916666666666668
+G12_113,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_114,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_115,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_116,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_117,12,Spatial median,12,True,True,9273,333,772.75,27.798381247835277,27.75
+G12_118,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_119,12,Spatial median,12,True,True,128,32,10.666666666666666,3.2659863237109041,2.6666666666666665
+G12_120,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_121,12,Spatial median,12,True,True,228,48,19,4.358898943540674,4
+G12_122,12,Spatial median,12,True,True,1638,120,136.5,11.683321445547923,10
+G12_123,12,Spatial median,12,True,True,592,68,49.333333333333336,7.0237691685684931,5.666666666666667
+G12_124,12,Spatial median,12,True,True,144,36,12,3.4641016151377544,3
+G12_125,12,Spatial median,12,True,True,400,64,33.333333333333336,5.7735026918962582,5.333333333333333
+G12_126,12,Spatial median,12,True,True,336,56,28,5.2915026221291814,4.666666666666667
+G12_127,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_128,12,Spatial median,12,True,True,48,12,4,2,1
+G12_129,12,Spatial median,12,True,True,80,20,6.666666666666667,2.5819888974716112,1.6666666666666667
+G12_130,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_131,12,Spatial median,12,True,True,579,59,48.25,6.946221994724902,4.916666666666667
+G12_132,12,Spatial median,12,True,True,3648,208,304,17.435595774162696,17.333333333333332
+G12_133,12,Spatial median,12,True,True,320,32,26.666666666666668,5.1639777949432224,2.6666666666666665
+G12_134,12,Spatial median,12,True,True,48,12,4,2,1
+G12_135,12,Spatial median,12,True,True,480,72,40,6.324555320336759,6
+G12_136,12,Spatial median,12,True,True,2745,179,228.75,15.124483462254174,14.916666666666666
+G12_137,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_138,12,Spatial median,12,True,True,611,61,50.916666666666664,7.1355915428692152,5.083333333333333
+G12_139,12,Spatial median,12,True,True,11969,375,997.41666666666663,31.581904101346812,31.25
+G12_140,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_141,12,Spatial median,12,True,True,389,61,32.416666666666664,5.6935636175129076,5.083333333333333
+G12_142,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_143,12,Spatial median,12,True,True,1169,89,97.416666666666671,9.8699881796619522,7.416666666666667
+G12_144,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_145,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_146,12,Spatial median,12,True,True,868,86,72.333333333333329,8.5049005481153817,7.166666666666667
+G12_147,12,Spatial median,12,True,True,10903,361,908.58333333333337,30.142716090845784,30.083333333333332
+G12_148,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_149,12,Spatial median,12,True,True,432,68,36,6,5.666666666666667
+G12_150,12,Spatial median,12,True,True,11874,376,989.5,31.456318920051661,31.333333333333332
+G12_151,12,Spatial median,12,True,True,4241,219,353.41666666666669,18.799379422381651,18.25
+G12_152,12,Spatial median,12,True,True,692,88,57.666666666666664,7.5938571665963446,7.333333333333333
+G12_153,12,Spatial median,12,True,True,64,16,5.333333333333333,2.3094010767585029,1.3333333333333333
+G12_154,12,Spatial median,12,True,True,668,70,55.666666666666664,7.4610097618664639,5.833333333333333
+G12_155,12,Spatial median,12,True,True,464,68,38.666666666666664,6.2182527020592095,5.666666666666667
+G12_156,12,Spatial median,12,True,True,5292,242,441,21,20.166666666666668
+G12_157,12,Spatial median,12,True,True,32,8,2.6666666666666665,1.6329931618554521,0.66666666666666663
+G12_158,12,Spatial median,12,True,True,336,56,28,5.2915026221291814,4.666666666666667
+G12_159,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_160,12,Spatial median,12,True,True,1301,107,108.41666666666667,10.412332431624851,8.9166666666666661
+G12_161,12,Spatial median,12,True,True,7105,281,592.08333333333337,24.332762550383247,23.416666666666668
+G12_162,12,Spatial median,12,True,True,974,92,81.166666666666671,9.0092545011597203,7.666666666666667
+G12_163,12,Spatial median,12,True,True,32248,620,2687.3333333333335,51.839495882322517,51.666666666666664
+G12_164,12,Spatial median,12,True,True,9340,334,778.33333333333337,27.898626011567906,27.833333333333332
+G12_165,12,Spatial median,12,True,True,9248,332,770.66666666666663,27.760883751542686,27.666666666666668
+G12_166,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_167,12,Spatial median,12,True,True,96,24,8,2.8284271247461903,2
+G12_168,12,Spatial median,12,True,True,3504,204,292,17.088007490635061,17
+G12_169,12,Spatial median,12,True,True,144,36,12,3.4641016151377544,3
+G12_170,12,Spatial median,12,True,True,551,59,45.916666666666664,6.7761837834187073,4.916666666666667
+G12_171,12,Spatial median,12,True,True,33788,636,2815.6666666666665,53.062855809564816,53
+G12_172,12,Spatial median,12,True,True,96,24,8,2.8284271247461903,2
+G12_173,12,Spatial median,12,True,True,35110,644,2925.8333333333335,54.090972752699997,53.666666666666664
+G12_174,12,Spatial median,12,True,True,15772,434,1314.3333333333333,36.253735439721702,36.166666666666664
+G12_175,12,Spatial median,12,True,True,80,20,6.666666666666667,2.5819888974716112,1.6666666666666667
+G12_176,12,Spatial median,12,True,True,160,40,13.333333333333334,3.6514837167011076,3.3333333333333335
+G12_177,12,Spatial median,12,True,True,624,72,52,7.2111025509279782,6
+G12_178,12,Spatial median,12,True,True,80,20,6.666666666666667,2.5819888974716112,1.6666666666666667
+G12_179,12,Spatial median,12,True,True,176,44,14.666666666666666,3.8297084310253524,3.6666666666666665
+G12_180,12,Spatial median,12,True,True,400,68,33.333333333333336,5.7735026918962582,5.666666666666667
+G12_181,12,Spatial median,12,True,True,96,24,8,2.8284271247461903,2
+G12_182,12,Spatial median,12,True,True,2789,145,232.41666666666666,15.245217829426599,12.083333333333334
+G12_183,12,Spatial median,12,True,True,9112,330,759.33333333333337,27.556003580587177,27.5
+G12_184,12,Spatial median,12,True,True,336,60,28,5.2915026221291814,5
+G12_185,12,Spatial median,12,True,True,924,98,77,8.7749643873921226,8.1666666666666661
+G12_186,12,Spatial median,12,True,True,80,20,6.666666666666667,2.5819888974716112,1.6666666666666667
+G12_187,12,Spatial median,12,True,True,336,56,28,5.2915026221291814,4.666666666666667
+G12_188,12,Spatial median,12,True,True,96,24,8,2.8284271247461903,2
+G12_189,12,Spatial median,12,True,True,920,96,76.666666666666671,8.755950357709132,8
+G12_190,12,Spatial median,12,True,True,480,72,40,6.324555320336759,6
+G12_191,12,Spatial median,12,True,True,9759,341,813.25,28.517538463198399,28.416666666666668
+G12_192,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_193,12,Spatial median,12,True,True,2165,141,180.41666666666666,13.431927138972526,11.75
+G12_194,12,Spatial median,12,True,True,252,52,21,4.5825756949558398,4.333333333333333
+G12_195,12,Spatial median,12,True,True,304,56,25.333333333333332,5.0332229568471663,4.666666666666667
+G12_196,12,Spatial median,12,True,True,320,32,26.666666666666668,5.1639777949432224,2.6666666666666665
+G12_197,12,Spatial median,12,True,True,228,48,19,4.358898943540674,4
+G12_198,12,Spatial median,12,True,True,11691,373,974.25,31.212978070027216,31.083333333333332
+G12_199,12,Spatial median,12,True,True,5878,252,489.83333333333331,22.132178684741664,21
+G12_200,12,Spatial median,12,True,True,1114,88,92.833333333333329,9.6350056218630886,7.333333333333333
+G12_201,12,Spatial median,12,True,True,2049,129,170.75,13.067134345371979,10.75
+G12_202,12,Spatial median,12,True,True,777,83,64.75,8.0467384697155406,6.916666666666667
+G12_203,12,Spatial median,12,True,True,368,64,30.666666666666668,5.5377492419453835,5.333333333333333
+G12_204,12,Spatial median,12,True,True,13664,402,1138.6666666666667,33.744135292916702,33.5
+G12_205,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_206,12,Spatial median,12,True,True,589,55,49.083333333333336,7.0059498523279009,4.583333333333333
+G12_207,12,Spatial median,12,True,True,16762,448,1396.8333333333333,37.374233548439939,37.333333333333336
+G12_208,12,Spatial median,12,True,True,2629,135,219.08333333333334,14.801463891566041,11.25
+G12_209,12,Spatial median,12,True,True,272,52,22.666666666666668,4.7609522856952333,4.333333333333333
+G12_210,12,Spatial median,12,True,True,468,72,39,6.2449979983983983,6
+G12_211,12,Spatial median,12,True,True,3792,212,316,17.776388834631177,17.666666666666668
+G24_001,24,Linear,24,True,True,236.11999999999969,64.999999999999986,9.8383333333333205,3.1366117600578685,2.7083333333333326
+G24_002,24,Linear,24,True,True,3250.5199999999995,240.52000000000001,135.4383333333333,11.637797615242039,10.021666666666667
+G24_003,24,Linear,24,True,True,0,0,0,0,0
+G24_004,24,Linear,24,True,True,0,0,0,0,0
+G24_005,24,Linear,24,True,True,576,24,24,4.8989794855663558,1
+G24_006,24,Linear,24,True,True,100,10,4.166666666666667,2.0412414523193152,0.41666666666666669
+G24_007,24,Linear,24,True,True,0,0,0,0,0
+G24_008,24,Linear,24,True,True,414.92000000000002,77,17.288333333333334,4.1579241615658811,3.2083333333333335
+G24_009,24,Linear,24,True,True,0,0,0,0,0
+G24_010,24,Linear,24,True,True,53,29,2.2083333333333335,1.4860462083439174,1.2083333333333333
+G24_011,24,Linear,24,True,True,276.60000000000002,66.200000000000003,11.525,3.3948490393535913,2.7583333333333333
+G24_012,24,Linear,24,True,True,0,0,0,0,0
+G24_013,24,Linear,24,True,True,1949,87,81.208333333333329,9.0115666414521574,3.625
+G24_014,24,Linear,24,True,True,50.759999999999984,27.560000000000002,2.1149999999999993,1.4543039572248986,1.1483333333333334
+G24_015,24,Linear,24,True,True,85.320000000000022,40.280000000000001,3.555000000000001,1.8854707634964805,1.6783333333333335
+G24_016,24,Linear,24,True,True,0,0,0,0,0
+G24_017,24,Linear,24,True,True,0,0,0,0,0
+G24_001,24,LOCF,24,True,True,2855,235,118.95833333333333,10.9068021588976,9.7916666666666661
+G24_002,24,LOCF,24,True,True,1313,51,54.708333333333336,7.3965081851731451,2.125
+G24_003,24,LOCF,24,True,True,0,0,0,0,0
+G24_004,24,LOCF,24,True,True,0,0,0,0,0
+G24_005,24,LOCF,24,True,True,576,24,24,4.8989794855663558,1
+G24_006,24,LOCF,24,True,True,100,10,4.166666666666667,2.0412414523193152,0.41666666666666669
+G24_007,24,LOCF,24,True,True,0,0,0,0,0
+G24_008,24,LOCF,24,True,True,653,67,27.208333333333332,5.2161607848429412,2.7916666666666665
+G24_009,24,LOCF,24,True,True,0,0,0,0,0
+G24_010,24,LOCF,24,True,True,53,29,2.2083333333333335,1.4860462083439174,1.2083333333333333
+G24_011,24,LOCF,24,True,True,533,99,22.208333333333332,4.712571838532897,4.125
+G24_012,24,LOCF,24,True,True,0,0,0,0,0
+G24_013,24,LOCF,24,True,True,1949,87,81.208333333333329,9.0115666414521574,3.625
+G24_014,24,LOCF,24,True,True,245,65,10.208333333333334,3.1950482521134691,2.7083333333333335
+G24_015,24,LOCF,24,True,True,103,41,4.291666666666667,2.0716338157760088,1.7083333333333333
+G24_016,24,LOCF,24,True,True,0,0,0,0,0
+G24_017,24,LOCF,24,True,True,0,0,0,0,0
+G24_001,24,Train-TOD median,24,True,True,209.5,49,8.7291666666666661,2.9545163168726392,2.0416666666666665
+G24_002,24,Train-TOD median,24,True,True,1313,51,54.708333333333336,7.3965081851731451,2.125
+G24_003,24,Train-TOD median,24,True,True,982,110,40.916666666666664,6.3966136874651625,4.583333333333333
+G24_004,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_005,24,Train-TOD median,24,True,True,576,24,24,4.8989794855663558,1
+G24_006,24,Train-TOD median,24,True,True,100,10,4.166666666666667,2.0412414523193152,0.41666666666666669
+G24_007,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_008,24,Train-TOD median,24,True,True,93.75,21.5,3.90625,1.976423537605237,0.89583333333333337
+G24_009,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_010,24,Train-TOD median,24,True,True,343.5,83,14.3125,3.7831864876053891,3.4583333333333335
+G24_011,24,Train-TOD median,24,True,True,189,51,7.875,2.8062430400804561,2.125
+G24_012,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_013,24,Train-TOD median,24,True,True,1949,87,81.208333333333329,9.0115666414521574,3.625
+G24_014,24,Train-TOD median,24,True,True,128.75,44.5,5.364583333333333,2.3161570182812161,1.8541666666666667
+G24_015,24,Train-TOD median,24,True,True,229,68,9.5416666666666661,3.0889588321417731,2.8333333333333335
+G24_016,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_017,24,Train-TOD median,24,True,True,0,0,0,0,0
+G24_001,24,Spatial median,24,True,True,18871,659,786.29166666666663,28.040892758018007,27.458333333333332
+G24_002,24,Spatial median,24,True,True,1229,149,51.208333333333336,7.1559998136761669,6.208333333333333
+G24_003,24,Spatial median,24,True,True,1160,160,48.333333333333336,6.9522178715380702,6.666666666666667
+G24_004,24,Spatial median,24,True,True,240,60,10,3.1622776601683795,2.5
+G24_005,24,Spatial median,24,True,True,928,128,38.666666666666664,6.2182527020592095,5.333333333333333
+G24_006,24,Spatial median,24,True,True,1304,166,54.333333333333336,7.3711147958319936,6.916666666666667
+G24_007,24,Spatial median,24,True,True,704,120,29.333333333333332,5.41602560309064,5
+G24_008,24,Spatial median,24,True,True,11213,503,467.20833333333331,21.615002505975642,20.958333333333332
+G24_009,24,Spatial median,24,True,True,736,120,30.666666666666668,5.5377492419453835,5
+G24_010,24,Spatial median,24,True,True,18187,659,757.79166666666663,27.528016032156525,27.458333333333332
+G24_011,24,Spatial median,24,True,True,101787,1561,4241.125,65.123920336539939,65.041666666666671
+G24_012,24,Spatial median,24,True,True,672,120,28,5.2915026221291814,5
+G24_013,24,Spatial median,24,True,True,2658,216,110.75,10.523782589924593,9
+G24_014,24,Spatial median,24,True,True,21055,709,877.29166666666663,29.61910982232023,29.541666666666668
+G24_015,24,Spatial median,24,True,True,32157,877,1339.875,36.604303025737288,36.541666666666664
+G24_016,24,Spatial median,24,True,True,864,136,36,6,5.666666666666667
+G24_017,24,Spatial median,24,True,True,704,124,29.333333333333332,5.41602560309064,5.166666666666667

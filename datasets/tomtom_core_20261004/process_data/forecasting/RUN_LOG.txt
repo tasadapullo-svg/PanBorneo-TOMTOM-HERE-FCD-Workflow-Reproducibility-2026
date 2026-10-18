@@ -1,0 +1,184 @@
+H=1: building original observed features
+H=1: selected alpha=100, train=20202, validation=6016, test=5863
+H=3: building original observed features
+H=3: selected alpha=10, train=20029, validation=5874, test=5727
+H=6: building original observed features
+H=6: selected alpha=10, train=19530, validation=5676, test=5535
+{
+  "QA_count": 205,
+  "overall": [
+    {
+      "H_h": 1,
+      "stratum": "Overall",
+      "method": "Persistence",
+      "N_scores": 5863,
+      "mae_kmh": 2.001535050315538,
+      "rmse_kmh": 6.0571641542620105,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 19380,
+      "input_ready": 7158,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8190835428890751
+    },
+    {
+      "H_h": 1,
+      "stratum": "Overall",
+      "method": "Seasonal24",
+      "N_scores": 5863,
+      "mae_kmh": 2.158280743646597,
+      "rmse_kmh": 6.238097997080817,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 19380,
+      "input_ready": 7158,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8190835428890751
+    },
+    {
+      "H_h": 1,
+      "stratum": "Overall",
+      "method": "Ridge",
+      "N_scores": 5863,
+      "mae_kmh": 2.211169311709115,
+      "rmse_kmh": 5.00128687084347,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 19380,
+      "input_ready": 7158,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8190835428890751
+    },
+    {
+      "H_h": 3,
+      "stratum": "Overall",
+      "method": "Persistence",
+      "N_scores": 5727,
+      "mae_kmh": 2.5922821721669287,
+      "rmse_kmh": 6.732821754099928,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18972,
+      "input_ready": 7144,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8016517357222844
+    },
+    {
+      "H_h": 3,
+      "stratum": "Overall",
+      "method": "Seasonal24",
+      "N_scores": 5727,
+      "mae_kmh": 2.2687270822420116,
+      "rmse_kmh": 6.369165177654051,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18972,
+      "input_ready": 7144,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8016517357222844
+    },
+    {
+      "H_h": 3,
+      "stratum": "Overall",
+      "method": "Ridge",
+      "N_scores": 5727,
+      "mae_kmh": 2.532565763596859,
+      "rmse_kmh": 5.383145289307176,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18972,
+      "input_ready": 7144,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8016517357222844
+    },
+    {
+      "H_h": 6,
+      "stratum": "Overall",
+      "method": "Persistence",
+      "N_scores": 5535,
+      "mae_kmh": 3.3284552845528457,
+      "rmse_kmh": 7.715737855800955,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18360,
+      "input_ready": 6892,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8031050493325594
+    },
+    {
+      "H_h": 6,
+      "stratum": "Overall",
+      "method": "Seasonal24",
+      "N_scores": 5535,
+      "mae_kmh": 2.1931345980126467,
+      "rmse_kmh": 6.200606083964003,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18360,
+      "input_ready": 6892,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8031050493325594
+    },
+    {
+      "H_h": 6,
+      "stratum": "Overall",
+      "method": "Ridge",
+      "N_scores": 5535,
+      "mae_kmh": 2.5033848466357442,
+      "rmse_kmh": 5.401628146140335,
+      "assigned_node_count": 51,
+      "scoring_node_count": 51,
+      "target_date_count": 4,
+      "candidate_decisions": 19584,
+      "same_partition_candidates": 18360,
+      "input_ready": 6892,
+      "common_retention_fraction": 1.0,
+      "score_fraction_of_input_ready": 0.8031050493325594
+    }
+  ],
+  "selected_alphas": [
+    {
+      "H_h": 1,
+      "alpha": 100,
+      "N_train": 20202,
+      "N_validation": 6016,
+      "validation_mae_kmh": 1.4763211940527852,
+      "validation_rmse_kmh": 3.7556367914394455,
+      "selected": true
+    },
+    {
+      "H_h": 3,
+      "alpha": 10,
+      "N_train": 20029,
+      "N_validation": 5874,
+      "validation_mae_kmh": 1.6710905322338465,
+      "validation_rmse_kmh": 3.958546555563643,
+      "selected": true
+    },
+    {
+      "H_h": 6,
+      "alpha": 10,
+      "N_train": 19530,
+      "N_validation": 5676,
+      "validation_mae_kmh": 1.7469096852946135,
+      "validation_rmse_kmh": 4.069990678530169,
+      "selected": true
+    }
+  ]
+}

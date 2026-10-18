@@ -1,0 +1,2 @@
+2026-10-06T05:53:58.829561+00:00 Core 12 payloads plus independent manifest anchor verified; Word and 7 figure versions checked
+FAILED; see RUN_FAILURE.txt

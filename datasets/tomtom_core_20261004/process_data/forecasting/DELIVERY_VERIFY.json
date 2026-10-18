@@ -1,0 +1,16 @@
+{
+  "build_QA_count": 205,
+  "independent_QA_count": 1000,
+  "failed_count": 0,
+  "payload_count": 55,
+  "payload_hashes_match": true,
+  "zip_test": "PASS",
+  "zip_payloads_match": true,
+  "zip_path": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261007_b07_002757Z\\batch07_forecasting.zip",
+  "zip_bytes": 14769871,
+  "zip_sha256": "ab4913ceb11faebb9d27d9b76bc6085bd0ad73d267beeeb880dd8df883002bbd",
+  "completed_at_utc": "2026-10-07T00:38:49.291550+00:00",
+  "figures_rendered": 0,
+  "word_edited": false,
+  "manuscript_text_review": "PASS; common five-input eligibility distinguished from actual single-input Persistence/Seasonal24 predictors"
+}

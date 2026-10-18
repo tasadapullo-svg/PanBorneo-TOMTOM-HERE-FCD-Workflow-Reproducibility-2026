@@ -1,0 +1,11 @@
+﻿panel,path,meaning
+1,figure_data/Fig1/,"Query coordinates, grid assignments and archived derived geometry; not a complete corridor geometry"
+2,figure_data/Fig2/FIGURE2_FACTS.csv,Workflow facts; source drawing program not located
+3a,figure_data/Fig3/DAILY_COVERAGE.csv,Daily observed records against 42-record and 51-node references
+3b,figure_data/Fig3/NODE_COVERAGE.csv,Node missing fractions against 2304 slots per node
+3c,figure_data/Fig3/MISSING_DURATION_BINS.csv,Continuous missing runs by duration
+"4a,4c",figure_data/Fig4/NODE_CLOCK_VARIABILITY.csv,Node-clock mean and between-date sample SD from qualified node-hours
+4b,figure_data/Fig4/DIURNAL_PRIMARY.csv,"Clock-hour means, empirical quantiles and date counts"
+4d,figure_data/Fig4/PRECIPITATION_GROUP_HOUR_SAMPLES.csv,Retained-hour samples; group statistics in PRECIPITATION_GROUP_SUMMARY.csv
+5a,figure_data/Fig5a/,Reconstruction source tables retain historical Figure7a filenames
+5b,figure_data/Fig5b/,Forecast source tables retain historical Figure7b filenames

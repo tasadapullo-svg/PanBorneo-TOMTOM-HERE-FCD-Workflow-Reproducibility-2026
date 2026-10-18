@@ -1,0 +1,83 @@
+﻿H_h,partition,stage,reason,count,overlap
+1,train,candidate_to_input_ready,OK,24626,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,lag1:MISSING,19333,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,lag2:MISSING,10666,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,lag3:MISSING,8792,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,seasonal:MISSING,7520,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,lag4:MISSING,7195,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,candidate_to_input_ready,TARGET_CROSSES_PARTITION,204,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,train,input_ready_to_scorable,OK,20202,mutually exclusive reference status; OK denotes scorable
+1,train,input_ready_to_scorable,MISSING_REFERENCE,4424,mutually exclusive reference status; OK denotes scorable
+1,validation,candidate_to_input_ready,OK,7285,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,lag1:MISSING,3420,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,lag2:MISSING,2829,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,lag3:MISSING,2355,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,lag4:MISSING,1940,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,seasonal:MISSING,1551,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,candidate_to_input_ready,TARGET_CROSSES_PARTITION,204,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,validation,input_ready_to_scorable,OK,6016,mutually exclusive reference status; OK denotes scorable
+1,validation,input_ready_to_scorable,MISSING_REFERENCE,1269,mutually exclusive reference status; OK denotes scorable
+1,test,candidate_to_input_ready,OK,7158,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,lag1:MISSING,3588,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,lag2:MISSING,2841,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,lag3:MISSING,2322,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,lag4:MISSING,1933,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,seasonal:MISSING,1529,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,TARGET_CROSSES_PARTITION,204,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,candidate_to_input_ready,lag1:NOT_YET_VISIBLE,9,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+1,test,input_ready_to_scorable,OK,5863,mutually exclusive reference status; OK denotes scorable
+1,test,input_ready_to_scorable,MISSING_REFERENCE,1295,mutually exclusive reference status; OK denotes scorable
+3,train,candidate_to_input_ready,OK,24532,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,lag1:MISSING,19261,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,lag2:MISSING,10611,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,lag3:MISSING,8748,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,seasonal:MISSING,7417,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,lag4:MISSING,7155,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,candidate_to_input_ready,TARGET_CROSSES_PARTITION,612,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,train,input_ready_to_scorable,OK,20029,mutually exclusive reference status; OK denotes scorable
+3,train,input_ready_to_scorable,MISSING_REFERENCE,4503,mutually exclusive reference status; OK denotes scorable
+3,validation,candidate_to_input_ready,OK,7134,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,lag1:MISSING,3348,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,lag2:MISSING,2767,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,lag3:MISSING,2300,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,lag4:MISSING,1888,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,seasonal:MISSING,1535,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,candidate_to_input_ready,TARGET_CROSSES_PARTITION,612,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,validation,input_ready_to_scorable,OK,5874,mutually exclusive reference status; OK denotes scorable
+3,validation,input_ready_to_scorable,MISSING_REFERENCE,1260,mutually exclusive reference status; OK denotes scorable
+3,test,candidate_to_input_ready,OK,7144,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,lag1:MISSING,3348,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,lag2:MISSING,2748,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,lag3:MISSING,2281,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,lag4:MISSING,1908,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,seasonal:MISSING,1543,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,candidate_to_input_ready,TARGET_CROSSES_PARTITION,612,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+3,test,input_ready_to_scorable,OK,5727,mutually exclusive reference status; OK denotes scorable
+3,test,input_ready_to_scorable,MISSING_REFERENCE,1417,mutually exclusive reference status; OK denotes scorable
+6,train,candidate_to_input_ready,OK,24042,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,lag1:MISSING,19153,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,lag2:MISSING,10524,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,lag3:MISSING,8675,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,seasonal:MISSING,7624,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,lag4:MISSING,7094,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,candidate_to_input_ready,TARGET_CROSSES_PARTITION,1224,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,train,input_ready_to_scorable,OK,19530,mutually exclusive reference status; OK denotes scorable
+6,train,input_ready_to_scorable,MISSING_REFERENCE,4512,mutually exclusive reference status; OK denotes scorable
+6,validation,candidate_to_input_ready,OK,6883,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,lag1:MISSING,3240,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,lag2:MISSING,2674,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,lag3:MISSING,2225,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,lag4:MISSING,1826,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,seasonal:MISSING,1512,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,candidate_to_input_ready,TARGET_CROSSES_PARTITION,1224,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,validation,input_ready_to_scorable,OK,5676,mutually exclusive reference status; OK denotes scorable
+6,validation,input_ready_to_scorable,MISSING_REFERENCE,1207,mutually exclusive reference status; OK denotes scorable
+6,test,candidate_to_input_ready,OK,6892,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,lag1:MISSING,3240,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,lag2:MISSING,2658,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,lag3:MISSING,2210,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,lag4:MISSING,1850,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,seasonal:MISSING,1510,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,candidate_to_input_ready,TARGET_CROSSES_PARTITION,1224,"mutually exclusive; calendar first, then first failing input in lag1/2/3/4/seasonal order"
+6,test,input_ready_to_scorable,OK,5535,mutually exclusive reference status; OK denotes scorable
+6,test,input_ready_to_scorable,MISSING_REFERENCE,1357,mutually exclusive reference status; OK denotes scorable

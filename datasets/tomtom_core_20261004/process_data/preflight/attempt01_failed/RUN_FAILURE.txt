@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b01_054939Z\batch01_preflight\preflight_audit.py", line 154, in main
+    check("required_fields_" + name, sorted(set(required) - set(frame.columns)), [])
+  File "D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b01_054939Z\batch01_preflight\preflight_audit.py", line 81, in check
+    checks.append({"check": name, "actual": scalar(actual), "expected": scalar(expected), "status": "PASS" if ok else "FAIL"})
+                                            ^^^^^^^^^^^^^^
+  File "D:\HuaweiMoveData\Users\stfr2\Documents\ChatGPT\论文 - 1\outputs\Manuscript_Execution_20261006_b01_054939Z\batch01_preflight\preflight_audit.py", line 60, in scalar
+    return None if pd.isna(x) else (x.item() if isinstance(x, np.generic) else x)
+                   ^^^^^^^^^^
+ValueError: The truth value of an empty array is ambiguous. Use `array.size > 0` to check that an array is not empty.

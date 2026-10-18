@@ -1,0 +1,65 @@
+﻿check,status,detail
+confirmed_protocol,PASS,
+inputs_before_after_current_unchanged,PASS,
+frozen_raw:unique_keys,PASS,90929
+training_membership_keys_exact_no_validation_test,PASS,
+training_membership_speeds,PASS,"{'n': 59009, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+training_membership_source_trace,PASS,
+training_TOD:unique_keys,PASS,4896
+training_TOD_complete_grid,PASS,
+training_TOD_counts_and_eligibility,PASS,
+training_TOD_original_medians,PASS,"{'n': 4896, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+partition_counts,PASS,
+candidate_catalog:unique_keys,PASS,78336
+candidate_universe_exact,PASS,
+candidate_all_eligibility_rules_exact,PASS,
+candidate_support_counts_exact,PASS,
+exclusion_exclusive_and_all_flags,PASS,
+maximum_nonoverlap_capacity_DP,PASS,
+maximum_capacity_witness_valid,PASS,
+frozen_gaps:unique_keys,PASS,828
+seeded_selection_order_reproduced,PASS,
+sampler_candidate_dispositions,PASS,
+sampler_final_rng_state,PASS,
+selected_closed_contexts_do_not_overlap,PASS,
+selected_contexts_entirely_within_test,PASS,
+under_cap_sampler_is_maximal_not_asserted_maximum,PASS,
+hidden_reference:unique_keys,PASS,4440
+hidden_reference_keys_exact_K_per_gap,PASS,
+hidden_reference_source_provenance,PASS,
+hidden_reference_is_original_provider_speed,PASS,"{'n': 4440, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+allowed_context:unique_keys,PASS,183696
+allowed_context_members_exact_original_visible_only,PASS,
+allowed_input_schema_no_ancillary_fields,PASS,
+hidden_targets_not_in_allowed_context,PASS,
+allowed_context_original_speeds,PASS,"{'n': 183696, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+allowed_context_source_provenance,PASS,
+frozen_TOD_input:unique_keys,PASS,4440
+frozen_TOD_input_keys,PASS,
+frozen_TOD_input_only_training_medians,PASS,"{'n': 4440, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+frozen_TOD_input_support,PASS,
+target_other_node_support_and_lists,PASS,
+predictions:unique_keys,PASS,17760
+all_four_methods_identical_complete_targets,PASS,
+all_predictions_success_no_failure,PASS,
+predictions_from_masked_allowed_input_only,PASS,"{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+point_scores:unique_keys,PASS,17760
+point_score_keys_equal_predictions,PASS,
+point_error_recomputed,PASS,"{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+point_squared_error_recomputed,PASS,"{'n': 17760, 'max_abs_error': 6.252776074688882e-13, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+point_absolute_error_recomputed,PASS,"{'n': 17760, 'max_abs_error': 1.4210854715202004e-14, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+gap_metrics:unique_keys,PASS,3312
+gap_metrics_exact_complete_keys,PASS,
+gap_RMSE_independent,PASS,"{'n': 3312, 'max_abs_error': 2.6645352591003757e-15, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+gap_MAE_independent,PASS,"{'n': 3312, 'max_abs_error': 3.552713678800501e-15, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+summary_N_M_and_node_date_support,PASS,
+summary_SSE_independent_relative_tolerance,PASS,"rel_tol=1e-12, abs_tol=1e-10; only accumulated SSE"
+summary_pooled_rmse_kmh,PASS,"{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+summary_pooled_mae_kmh,PASS,"{'n': 16, 'max_abs_error': 2.220446049250313e-16, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+summary_gap_rmse_median_kmh,PASS,"{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+summary_gap_rmse_q25_kmh,PASS,"{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+summary_gap_rmse_q75_kmh,PASS,"{'n': 16, 'max_abs_error': 0.0, 'missing_mismatch': 0, 'tolerance': 1e-10}"
+completion_counts_no_silent_dropping,PASS,
+failed_prediction_table_empty,PASS,
+candidate_support_summary_reconciliation,PASS,
+build_checks_all_PASS,PASS,69

@@ -1,0 +1,14 @@
+{
+  "derived_vertices_path": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\01a04d93-7825-7ca1-a991-ad800a27fcea\\全部数据整理包\\02_原始材料镜像\\GitHub Coding\\Coding-1\\Pan-Borneo-Multisource-Highway-Traffic-Dataset-202608-main\\data\\supplementary_data\\02_Segment_Registry\\segment_geometry_vertices.csv",
+  "master_path": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\01a04d93-7825-7ca1-a991-ad800a27fcea\\全部数据整理包\\02_原始材料镜像\\GitHub Coding\\Coding-1\\Pan-Borneo-Multisource-Highway-Traffic-Dataset-202608-main\\data\\supplementary_data\\02_Segment_Registry\\segment_geometry_master.csv",
+  "vertex_count": 602,
+  "haversine_radius_km": 6371.0,
+  "recomputed_length_km": 26.341729865235912,
+  "displayed_length_km": 26.34,
+  "master_length_km": 26.341766,
+  "declared_source_response": "01_TomTom_Evidence/raw_responses/test_flowSegmentData_user_pasted.json",
+  "declared_source_present": false,
+  "same_named_response_candidates": [],
+  "status": "DERIVED_POLYLINE_LENGTH_VERIFIED_SOURCE_RESPONSE_NOT_VERIFIED",
+  "limit": "A derived local polyline supports a 26.34 km illustration. It does not establish the historical HTTP response, road registration, authoritative direction, 51-segment geometry or whole-corridor length."
+}

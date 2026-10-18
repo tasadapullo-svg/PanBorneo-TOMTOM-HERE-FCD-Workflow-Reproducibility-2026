@@ -1,0 +1,123 @@
+{
+  "numpy_version": "2.3.5",
+  "generator": "PCG64",
+  "seed": 20261006,
+  "streams": [
+    {
+      "K": 1,
+      "spawn_key": [
+        0
+      ],
+      "entropy": 20261006,
+      "group_count": 204,
+      "selected_count": 300,
+      "attempted_count": 308,
+      "remaining_not_visited": 10233,
+      "state_before": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 329542099795358611817996512427392996785,
+          "inc": 22805281441658588189910283578478930713
+        },
+        "has_uint32": 0,
+        "uinteger": 0
+      },
+      "state_after": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 130802620395275813976229649179698594923,
+          "inc": 22805281441658588189910283578478930713
+        },
+        "has_uint32": 1,
+        "uinteger": 1549957330
+      }
+    },
+    {
+      "K": 4,
+      "spawn_key": [
+        1
+      ],
+      "entropy": 20261006,
+      "group_count": 204,
+      "selected_count": 300,
+      "attempted_count": 325,
+      "remaining_not_visited": 5397,
+      "state_before": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 108784176497995145701415085873929826675,
+          "inc": 244377178146016224143031377586318766233
+        },
+        "has_uint32": 0,
+        "uinteger": 0
+      },
+      "state_after": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 134543611502585536000147616328631733307,
+          "inc": 244377178146016224143031377586318766233
+        },
+        "has_uint32": 0,
+        "uinteger": 2491567051
+      }
+    },
+    {
+      "K": 12,
+      "spawn_key": [
+        2
+      ],
+      "entropy": 20261006,
+      "group_count": 146,
+      "selected_count": 211,
+      "attempted_count": 1045,
+      "remaining_not_visited": 0,
+      "state_before": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 331392697557216099510603063566053527714,
+          "inc": 16472612632193605203975157054739279909
+        },
+        "has_uint32": 0,
+        "uinteger": 0
+      },
+      "state_after": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 329080185476925023701344130252140292291,
+          "inc": 16472612632193605203975157054739279909
+        },
+        "has_uint32": 1,
+        "uinteger": 3311791894
+      }
+    },
+    {
+      "K": 24,
+      "spawn_key": [
+        3
+      ],
+      "entropy": 20261006,
+      "group_count": 16,
+      "selected_count": 17,
+      "attempted_count": 85,
+      "remaining_not_visited": 0,
+      "state_before": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 38667629716688674498975805428024284980,
+          "inc": 189382928084560530362274539732785975317
+        },
+        "has_uint32": 0,
+        "uinteger": 0
+      },
+      "state_after": {
+        "bit_generator": "PCG64",
+        "state": {
+          "state": 203493469919728230996922250939558666850,
+          "inc": 189382928084560530362274539732785975317
+        },
+        "has_uint32": 1,
+        "uinteger": 3967827754
+      }
+    }
+  ]
+}

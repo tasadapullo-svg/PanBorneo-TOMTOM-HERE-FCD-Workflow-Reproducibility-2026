@@ -1,0 +1,80 @@
+{
+  "check_count": 11,
+  "failed_count": 0,
+  "checks": [
+    {
+      "check": "daily_counts_from_frozen",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "daily_reference_denominators",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "node_missingness_from_frozen",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "node_extrema",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "node_clock_mean_sd_dates",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "overall_diurnal_from_frozen",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "percentile_band_from_frozen",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "diurnal_extrema",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "all_primary_node_hours_have_precipitation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "precipitation_bins_recomputed_from_frozen",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "Figure3_run_bins",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "diurnal_range_kmh": 5.023635270966452,
+  "node_clock_speed_range": [
+    28.28787878787879,
+    100.0
+  ],
+  "node_clock_sd_range": [
+    0.0,
+    7.880541934186418
+  ],
+  "node_clock_date_range": [
+    13,
+    24
+  ],
+  "precipitation_group_means": [
+    89.50876807549024,
+    89.2132376118122,
+    88.56509977492833,
+    88.28261764778709
+  ]
+}

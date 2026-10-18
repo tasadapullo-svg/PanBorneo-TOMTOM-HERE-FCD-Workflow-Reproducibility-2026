@@ -1,0 +1,12 @@
+{
+  "check_count": 154,
+  "failed_count": 0,
+  "checked_candidate_rows": 352512,
+  "implementation": "standard-library exact-key dictionary lookup; all rows, all five inputs, reference status, issued/scorable keys, split cutoffs, source identities and strata",
+  "primary_anomaly_check_limit": "main audit compatibility fallback checks count; independent check validates full source keys",
+  "training_performed": false,
+  "performance_computed": false,
+  "finished_at_utc": "2026-10-07T00:18:17.291314+00:00",
+  "python_executable": "C:\\Users\\stfr2\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe",
+  "verifier_sha256": "1d3e361fb7d59394f4d51e2a5fc03efce5a02a1b963a03e3a1b5479dbe73c13e"
+}

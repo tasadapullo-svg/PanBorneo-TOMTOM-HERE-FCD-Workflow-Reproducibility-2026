@@ -1,0 +1,14 @@
+{
+  "main_QA_count": 123,
+  "independent_QA_count": 154,
+  "existing_model_runtime_import_and_configuration": "PASS",
+  "failed_count": 0,
+  "payload_count": 37,
+  "manifest_files_rechecked": true,
+  "zip_test": "PASS",
+  "zip_payloads_match": true,
+  "zip_path": "D:\\HuaweiMoveData\\Users\\stfr2\\Documents\\ChatGPT\\论文 - 1\\outputs\\Manuscript_Execution_20261007_b06_001243Z\\figure7a_review_forecast_admission.zip",
+  "zip_bytes": 12917828,
+  "zip_sha256": "4caf2a1bfa4a4ce386b2c3e9193693d66f8941f7dfc25679df39950f6e5cb648",
+  "model_training_performed": false
+}
